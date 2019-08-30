@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2019-08-30 23:43:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-04-22 23:24:17 +0000"

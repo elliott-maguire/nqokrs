@@ -1,284 +1,348 @@
-[06:19:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06:19:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:19:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:19:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06:19:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:19:06] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[06:19:06] [Server thread/INFO]: Loading properties
-[06:19:06] [Server thread/INFO]: Default game type: SURVIVAL
-[06:19:06] [Server thread/INFO]: Generating keypair
-[06:19:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:19:06] [Server thread/INFO]: Using epoll channel type
-[06:19:06] [Server thread/INFO]: Preparing level "world"
-[06:19:07] [Server thread/INFO]: Reloading ResourceManager: Default
-[06:19:39] [Server thread/INFO]: Loaded 6 recipes
-[06:19:39] [Server thread/INFO]: Loaded 811 advancements
-[06:19:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:19:41] [Server thread/INFO]: Preparing spawn area: 0%
-[06:19:41] [Server thread/INFO]: Preparing spawn area: 0%
-[06:19:41] [Server thread/INFO]: Preparing spawn area: 0%
-[06:19:41] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[06:19:42] [Server thread/INFO]: Preparing spawn area: 52%
-[06:19:42] [Server thread/INFO]: Time elapsed: 2396 ms
-[06:19:42] [Server thread/INFO]: Done (35.517s)! For help, type "help"
-[06:20:06] [Server thread/INFO]: Made th0nk a server operator
-[06:20:30] [User Authenticator #1/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[06:20:30] [Server thread/INFO]: th0nk[/98.225.10.172:56243] logged in with entity id 259 at (804.4720242486975, 67.0, 158.40250503379457)
-[06:20:30] [Server thread/INFO]: th0nk, Old Kingdom joined the game
-[06:21:10] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Survival Mode]
-[06:21:20] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Creative Mode]
-[06:21:42] [Server thread/INFO]: th0nk lost connection: Disconnected
-[06:21:42] [Server thread/INFO]: th0nk, Old Kingdom left the game
-[06:22:07] [User Authenticator #2/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[06:22:08] [Server thread/INFO]: th0nk[/98.225.10.172:56257] logged in with entity id 1060 at (403.02424992643046, 79.0, 85.61733457389984)
-[06:22:08] [Server thread/INFO]: th0nk, Old Kingdom joined the game
-[06:22:34] [User Authenticator #3/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[06:22:35] [Server thread/INFO]: EthMC[/79.149.26.118:50508] logged in with entity id 1122 at (343.3822986823111, 20.0, -365.9634385966762)
-[06:22:35] [Server thread/INFO]: EthMC, Rogues joined the game
-[06:22:57] [Server thread/INFO]: th0nk lost connection: Disconnected
-[06:22:57] [Server thread/INFO]: th0nk, Old Kingdom left the game
-[06:24:08] [User Authenticator #4/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[06:24:08] [Server thread/INFO]: th0nk[/98.225.10.172:56284] logged in with entity id 1873 at (490.50042847677906, 46.0, 107.75535286140261)
-[06:24:08] [Server thread/INFO]: th0nk, Old Kingdom joined the game
-[06:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3525ms or 70 ticks behind
-[06:24:55] [Server thread/INFO]: <EthMC, Rogues> faily epic
-[06:24:59] [Server thread/INFO]: <EthMC, Rogues> if u tell me
-[06:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[06:25:07] [Server thread/INFO]: <th0nk, Old Kingdom> what
-[06:27:44] [Server thread/INFO]: th0nk lost connection: Disconnected
-[06:27:44] [Server thread/INFO]: th0nk, Old Kingdom left the game
-[06:29:52] [User Authenticator #5/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[06:29:52] [Server thread/INFO]: th0nk[/98.225.10.172:56423] logged in with entity id 2832 at (492.0829334975857, 46.0, 104.63457038008384)
-[06:29:52] [Server thread/INFO]: th0nk, Old Kingdom joined the game
-[06:31:28] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Survival Mode]
-[06:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[06:44:47] [User Authenticator #6/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[06:44:47] [Server thread/INFO]: th0nk lost connection: You logged in from another location
-[06:44:47] [Server thread/INFO]: th0nk, Old Kingdom left the game
-[06:44:47] [Server thread/INFO]: th0nk[/98.225.10.172:56649] logged in with entity id 7305 at (444.649844693304, 7.0, 230.73459475722544)
-[06:44:47] [Server thread/INFO]: th0nk, Old Kingdom joined the game
-[06:44:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
-[06:47:31] [User Authenticator #7/INFO]: UUID of player TheBestRedstone is d5251ee0-d8ff-463c-af32-fff792f239c6
-[06:47:31] [Server thread/INFO]: TheBestRedstone[/24.178.30.182:61269] logged in with entity id 8395 at (293.70841565010517, 71.0, -159.08964589413878)
-[06:47:31] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion joined the game
-[06:47:33] [User Authenticator #8/INFO]: UUID of player TheBestRedstone is d5251ee0-d8ff-463c-af32-fff792f239c6
-[06:47:33] [Server thread/INFO]: TheBestRedstone lost connection: You logged in from another location
-[06:47:33] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion left the game
-[06:47:33] [Server thread/INFO]: TheBestRedstone[/24.178.30.182:61271] logged in with entity id 8468 at (293.70841565010517, 71.0, -159.08964589413878)
-[06:47:33] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion joined the game
-[06:47:36] [Server thread/INFO]: <EthMC, Rogues> finaly retard
-[06:47:40] [Server thread/INFO]: <th0nk, Old Kingdom> fuck you
-[06:47:45] [Server thread/INFO]: <EthMC, Rogues> shut up
-[06:47:47] [Server thread/INFO]: <EthMC, Rogues> clown
-[06:48:05] [Server thread/INFO]: <EthMC, Rogues> cursed
-[06:48:09] [Server thread/INFO]: TheBestRedstone lost connection: Disconnected
-[06:48:09] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion left the game
-[06:48:21] [User Authenticator #9/INFO]: UUID of player TheBestRedstone is d5251ee0-d8ff-463c-af32-fff792f239c6
-[06:48:21] [Server thread/INFO]: TheBestRedstone[/24.178.30.182:61282] logged in with entity id 8723 at (293.70841565010517, 71.0, -159.08964589413878)
-[06:48:21] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion joined the game
-[06:48:30] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> gey
-[06:48:43] [Server thread/INFO]: <EthMC, Rogues> u
-[06:49:54] [Server thread/WARN]: EthMC moved too quickly! -7.751158310310188,-1.2522033402537218,-6.3353608649075
-[06:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
-[06:50:08] [Server thread/INFO]: <EthMC, Rogues> F
-[06:50:31] [Server thread/INFO]: <EthMC, Rogues> 9/11
-[06:54:58] [Server thread/WARN]: th0nk moved too quickly! -9.743782326086261,3.15233518685055,-0.10726480242419711
-[06:54:58] [Server thread/WARN]: TheBestRedstone moved too quickly! -9.713873070739282,-0.7723115124550191,-3.2798690183132067
-[06:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4295ms or 85 ticks behind
-[06:57:55] [Server thread/INFO]: [th0nk, Old Kingdom: Gamerule commandBlockOutput is now set to: true]
-[06:58:02] [Server thread/INFO]: [th0nk, Old Kingdom: Set the time to 1000]
-[07:00:01] [Server thread/WARN]: th0nk moved too quickly! -5.279470307020574,-2.681558398058314,8.49522543191614
-[07:00:01] [Server thread/WARN]: TheBestRedstone moved too quickly! -3.031568452092074,-0.7531999805212024,9.646608532283267
-[07:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
-[07:00:10] [Server thread/INFO]: <EthMC, Rogues> i'm sorry what
-[07:00:27] [Server thread/INFO]: <EthMC, Rogues> when I smoke i'm horny
-[07:03:57] [Server thread/INFO]: TheBestRedstone lost connection: Disconnected
-[07:03:57] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion left the game
-[07:05:03] [Server thread/WARN]: EthMC moved too quickly! 0.021285731878151637,0.7539862017387549,10.053640882907942
-[07:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
-[07:09:02] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Creative Mode]
-[07:11:47] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Survival Mode]
-[07:15:51] [Server thread/INFO]: th0nk lost connection: Disconnected
-[07:15:51] [Server thread/INFO]: th0nk, Old Kingdom left the game
-[07:16:34] [Server thread/INFO]: EthMC lost connection: Disconnected
-[07:16:34] [Server thread/INFO]: EthMC, Rogues left the game
-[18:20:42] [User Authenticator #10/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
-[18:20:42] [Server thread/INFO]: 9abe[/71.220.250.59:52459] logged in with entity id 18819 at (293.8058812868822, 62.0, -154.45277718348936)
-[18:20:42] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
-[18:23:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19220, l='world', x=318.58, y=66.00, z=-167.15]
-[18:33:07] [Server thread/INFO]: 9abe lost connection: Disconnected
-[18:33:07] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
-[19:30:26] [User Authenticator #11/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
-[19:30:26] [Server thread/INFO]: 9abe[/71.220.250.59:53606] logged in with entity id 20350 at (292.17496533394393, 61.0, -161.22244297243424)
-[19:30:26] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
-[19:31:44] [Server thread/INFO]: 9abe lost connection: Disconnected
-[19:31:44] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
-[19:45:26] [User Authenticator #12/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[19:45:26] [Server thread/INFO]: EthMC[/79.149.26.118:51037] logged in with entity id 20559 at (-1.0433920591671675, 63.0, 11.905785148854788)
-[19:45:26] [Server thread/INFO]: EthMC, Rogues joined the game
-[19:50:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[19:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[19:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[20:07:42] [User Authenticator #13/INFO]: UUID of player TheBestRedstone is d5251ee0-d8ff-463c-af32-fff792f239c6
-[20:07:42] [Server thread/INFO]: TheBestRedstone[/24.178.30.182:50691] logged in with entity id 24975 at (291.66675852031597, 61.0, -142.45229209450832)
-[20:07:42] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion joined the game
-[20:07:48] [Server thread/INFO]: <EthMC, Rogues> hey
-[20:07:49] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> lmao
-[20:08:08] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> I looked and saw one person online
-[20:08:12] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> knew it was you
-[20:08:16] [Server thread/INFO]: <EthMC, Rogues> yeah
-[20:08:27] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> lololool
-[20:12:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[20:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
-[20:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
-[20:17:00] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> bruh
-[20:17:07] [Server thread/INFO]: <EthMC, Rogues> huh?
-[20:17:08] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> elliott forgot to change to hard
-[20:17:18] [Server thread/INFO]: <EthMC, Rogues> and command blocks
-[20:18:04] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> we dont need the commands blocks now
-[20:18:10] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> we just add that datapack
-[20:18:10] [Server thread/INFO]: <EthMC, Rogues> well
-[20:18:16] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> just need to*
-[20:20:19] [Server thread/WARN]: TheBestRedstone moved too quickly! 7.391815292214915,0.17542329595209338,-7.025650128319114
-[20:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
-[20:21:31] [User Authenticator #14/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[20:21:31] [Server thread/INFO]: th0nk[/98.225.15.114:65123] logged in with entity id 29688 at (329.26568082343107, 71.0, 45.09360980035776)
-[20:21:31] [Server thread/INFO]: th0nk, Old Kingdom joined the game
-[20:21:34] [Server thread/INFO]: <EthMC, Rogues> hello
-[20:21:35] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> ew
-[20:21:44] [Server thread/INFO]: [th0nk, Old Kingdom: The difficulty has been set to Hard]
-[20:21:48] [Server thread/INFO]: <th0nk, Old Kingdom> k difficulty is on hard now
-[20:21:50] [Server thread/INFO]: <th0nk, Old Kingdom> fucking idiots
-[20:21:51] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> ty
-[20:21:55] [Server thread/INFO]: <EthMC, Rogues> OWW
-[20:21:57] [Server thread/INFO]: <th0nk, Old Kingdom> yw
-[20:22:04] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> isyc
-[20:22:31] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> its gamer time
-[20:22:38] [Server thread/INFO]: <th0nk, Old Kingdom> i want to play rn but i don't have my mouse and i'm at the coffee shop
-[20:22:41] [Server thread/INFO]: <EthMC, Rogues> Can someone bring me a flint and steel
-[20:22:47] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> no
-[20:22:53] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> maybe
-[20:22:56] [Server thread/INFO]: <th0nk, Old Kingdom> not my jurisdiction
-[20:23:00] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> fuck you
-[20:23:04] [Server thread/INFO]: <th0nk, Old Kingdom> fuck me
-[20:23:07] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> damn right
-[20:23:13] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> sugar fuckin gay
-[20:23:23] [Server thread/INFO]: <EthMC, Rogues> y'all like 5 years old
-[20:23:32] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> oh yeah?
-[20:23:33] [Server thread/INFO]: <th0nk, Old Kingdom> that's illegal
-[20:23:51] [Server thread/WARN]: TheBestRedstone moved too quickly! 0.8575126083774194,-9.667067244575911,2.5467003390220384
-[20:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[20:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
-[20:24:12] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> good thing this server also lags like a motherfucker
-[20:24:17] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> LMAO
-[20:24:25] [Server thread/INFO]: <EthMC, Rogues> Maybe it's just u
-[20:24:26] [Server thread/INFO]: <th0nk, Old Kingdom> fucking give me some money and i'll upgrade then retard
-[20:24:27] [Server thread/INFO]: <EthMC, Rogues> retard
-[20:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:24:39] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> LMAO
-[20:24:46] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> create a pp money pool
-[20:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
-[20:24:52] [Server thread/INFO]: <th0nk, Old Kingdom> if everybody venmo'd me like $5 a month we could have such a fucking kicking server
-[20:24:58] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> ew venmo
-[20:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
-[20:25:09] [Server thread/INFO]: <th0nk, Old Kingdom> okay paypal cashapp direct transfer whatever
-[20:25:13] [Server thread/INFO]: <th0nk, Old Kingdom> fucking
-[20:25:15] [Server thread/INFO]: <th0nk, Old Kingdom> send a check
-[20:25:17] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> you should be able to ccreate a pp money pool thging
-[20:25:22] [Server thread/INFO]: <th0nk, Old Kingdom> what
-[20:25:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4311ms or 86 ticks behind
-[20:25:30] [Server thread/INFO]: <th0nk, Old Kingdom> pee pee
-[20:25:44] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> paypal you fucking idiot
-[20:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5866ms or 117 ticks behind
-[20:25:49] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> LMAO
-[20:25:54] [Server thread/INFO]: <th0nk, Old Kingdom> yeah i know fuck
-[20:26:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5153ms or 103 ticks behind
-[20:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6977ms or 139 ticks behind
-[20:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7267ms or 145 ticks behind
-[20:27:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6953ms or 139 ticks behind
-[20:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8468ms or 169 ticks behind
-[20:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5479ms or 109 ticks behind
-[20:28:10] [Server thread/INFO]: <EthMC, Rogues> if this portal connects to another one i'ma be pissed
-[20:28:18] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> F
-[20:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3950ms or 79 ticks behind
-[20:28:37] [Server thread/INFO]: <EthMC, Rogues> I found a village
-[20:28:39] [Server thread/INFO]: <EthMC, Rogues> oh
-[20:28:54] [Server thread/INFO]: <EthMC, Rogues> EPIC
-[20:28:58] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> yeet
-[20:29:19] [Server thread/INFO]: <EthMC, Rogues> yes
-[20:30:59] [Server thread/INFO]: <EthMC, Rogues> epic my own village for my self
-[20:31:00] [Server thread/INFO]: <EthMC, Rogues> HA
-[20:31:07] [Server thread/INFO]: <th0nk, Old Kingdom> which village is it
-[20:31:15] [Server thread/INFO]: <th0nk, Old Kingdom> because we've probably already found it lmao
-[20:31:24] [Server thread/INFO]: <EthMC, Rogues> It doesn't seem tho
-[20:31:30] [Server thread/WARN]: TheBestRedstone moved too quickly! -10.056020018607455,-0.09687275232550974,-1.2792001119006784
-[20:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
-[20:32:15] [Server thread/INFO]: <EthMC, Rogues> Where you at elliott
-[20:32:47] [Server thread/INFO]: <th0nk, Old Kingdom> i'm at the capital
-[20:32:49] [Server thread/INFO]: <th0nk, Old Kingdom> also pool is up
-[20:33:06] [Server thread/INFO]: <th0nk, Old Kingdom> good call hunter
-[20:33:17] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> what can i say
-[20:33:23] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> im pretty gayt
-[20:33:30] [Server thread/INFO]: <th0nk, Old Kingdom> LMAOOOOOOOOOO
-[20:33:46] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> goddamn 50$
-[20:34:00] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> i was gonna give 5$
-[20:34:03] [Server thread/INFO]: <th0nk, Old Kingdom> i have it marked at 50
-[20:34:05] [Server thread/INFO]: <th0nk, Old Kingdom> but like
-[20:34:08] [Server thread/INFO]: <th0nk, Old Kingdom> whatever we hit we get
-[20:34:24] [Server thread/INFO]: <th0nk, Old Kingdom> so like if we get 20 we'll get a 4gb/2cpu but if we go higher, we'll get better
-[20:34:25] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> how much is 4g / 2cpu
-[20:34:28] [Server thread/INFO]: <th0nk, Old Kingdom> 20
-[20:34:30] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> o
-[20:34:41] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> when I get paid ill put 10
-[20:34:49] [Server thread/INFO]: <EthMC, Rogues> brb gotta get coffe
-[20:34:50] [Server thread/INFO]: EthMC lost connection: Disconnected
-[20:34:50] [Server thread/INFO]: EthMC, Rogues left the game
-[20:35:13] [Server thread/INFO]: <th0nk, Old Kingdom> epic
-[20:35:21] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> epic
-[20:35:28] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> how much is 4cpu 16 gb
-[20:35:32] [Server thread/INFO]: <th0nk, Old Kingdom> i'm no too worried, we have enough people that it'll be pretty easy if we all chip in to maintain solid power
-[20:35:35] [Server thread/INFO]: <th0nk, Old Kingdom> uhh one sec
-[20:35:55] [Server thread/INFO]: <th0nk, Old Kingdom> 16GB/6CPU is 80
-[20:36:00] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> oof
-[20:36:08] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> ur using DO right?
-[20:36:09] [Server thread/INFO]: <th0nk, Old Kingdom> i'd only really upgrade to that if we started really getting people active and pushing mods
-[20:36:10] [Server thread/INFO]: <th0nk, Old Kingdom> yeah
-[20:36:14] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> yea
-[20:36:22] [Server thread/INFO]: <th0nk, Old Kingdom> no i'm using squarespace
-[20:36:40] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> thats what i was gonna sugest
-[20:36:44] [Server thread/INFO]: <th0nk, Old Kingdom> scratch
-[20:37:01] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> i like the pool banner
-[20:37:12] [Server thread/INFO]: <th0nk, Old Kingdom> yeah i thought that'd be nice and fitting
-[20:37:25] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> yeah cuz i am gey afterall
-[20:37:28] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> LMAO
-[20:37:31] [Server thread/INFO]: <th0nk, Old Kingdom> really starting to wonder
-[20:37:35] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> LMAOOOOOOOOOOOOOOOOO
-[20:37:38] [Server thread/INFO]: <th0nk, Old Kingdom> LOOOOOOOOOOL
-[20:37:55] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> dude im not
-[20:37:57] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> IM NOT
-[20:38:01] [Server thread/INFO]: <th0nk, Old Kingdom> i'm NOT
-[20:38:15] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> wait
-[20:38:20] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> only two days left?
-[20:38:34] [Server thread/INFO]: <th0nk, Old Kingdom> yeah so we can get it for september and have it go on a monthly basis
-[20:38:35] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> did you set a timelimit
-[20:38:45] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> I get paid on the6th
-[20:38:46] [Server thread/INFO]: <th0nk, Old Kingdom> i'll get rid of that
-[20:38:50] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> lmao
-[20:39:40] [User Authenticator #15/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[20:39:40] [Server thread/INFO]: EthMC[/79.149.26.118:51269] logged in with entity id 36432 at (1820.7059603671373, 68.0, -396.2572108795281)
-[20:39:40] [Server thread/INFO]: EthMC, Rogues joined the game
-[20:39:44] [Server thread/INFO]: <th0nk, Old Kingdom> hello
-[20:39:54] [Server thread/INFO]: <EthMC, Rogues> hey
-[20:40:09] [Server thread/INFO]: <EthMC, Rogues> got my coffee
-[20:40:14] [Server thread/INFO]: <th0nk, Old Kingdom> cofe
-[20:40:19] [Server thread/INFO]: <EthMC, Rogues> covfe
-[20:41:33] [Server thread/INFO]: <EthMC, Rogues> https://twitter.com/CoffeeEth
-[20:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
-[20:42:44] [Server thread/INFO]: <th0nk, Old Kingdom> aight i gotta dip but i'll be on in a couple hours
-[20:42:48] [Server thread/INFO]: TheBestRedstone lost connection: Disconnected
-[20:42:48] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion left the game
-[20:42:51] [Server thread/INFO]: th0nk lost connection: Disconnected
-[20:42:51] [Server thread/INFO]: th0nk, Old Kingdom left the game
-[20:43:07] [Server thread/INFO]: EthMC, Rogues was blown up by Creeper
-[20:43:25] [Server thread/INFO]: <EthMC, Rogues> ok
-[20:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[22:25:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:25:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:25:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:25:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:25:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:25:46] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[22:25:46] [Server thread/INFO]: Loading properties
+[22:25:46] [Server thread/INFO]: Default game type: SURVIVAL
+[22:25:46] [Server thread/INFO]: Generating keypair
+[22:25:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:25:47] [Server thread/INFO]: Using epoll channel type
+[22:25:47] [Server thread/INFO]: Preparing level "world"
+[22:25:47] [Server thread/WARN]: Couldn't get pack info for: wn: 'pack.mcmeta' in ResourcePack './world/datapacks/multiplayer_sleep.zip'
+[22:25:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:26:19] [Server thread/INFO]: Loaded 6 recipes
+[22:26:19] [Server thread/INFO]: Loaded 811 advancements
+[22:26:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:26:21] [Server thread/INFO]: Preparing spawn area: 0%
+[22:26:21] [Server thread/INFO]: Preparing spawn area: 0%
+[22:26:21] [Server thread/INFO]: Preparing spawn area: 0%
+[22:26:21] [Server thread/INFO]: Preparing spawn area: 0%
+[22:26:22] [Server thread/INFO]: Preparing spawn area: 38%
+[22:26:22] [Server thread/INFO]: Time elapsed: 2944 ms
+[22:26:23] [Server thread/INFO]: Done (35.464s)! For help, type "help"
+[22:27:29] [Server thread/INFO]: Reloading!
+[22:27:29] [Server thread/INFO]: Found new data pack file/multiplayer_sleepv2.1.0.zip, loading it automatically
+[22:27:29] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayer_sleepv2.1.0.zip
+[22:27:29] [Server thread/INFO]: Loaded 6 recipes
+[22:27:30] [Server thread/INFO]: Loaded 8 custom command functions
+[22:27:30] [Server thread/INFO]: Loaded 813 advancements
+[22:27:41] [Server thread/INFO]: There are 2 data packs enabled: [vanilla], [file/multiplayer_sleepv2.1.0.zip]
+[22:27:41] [Server thread/INFO]: There are no more data packs available
+[22:27:50] [User Authenticator #1/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[22:27:50] [Server thread/INFO]: EthMC[/79.149.26.118:50254] logged in with entity id 403 at (328.4087964977827, 20.0, -339.4191471558072)
+[22:27:50] [Server thread/INFO]: EthMC, Rogues joined the game
+[22:27:52] [User Authenticator #2/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[22:27:53] [Server thread/INFO]: th0nk[/98.225.10.172:50606] logged in with entity id 727 at (352.7493089567683, 69.0, 75.25529644080821)
+[22:27:53] [Server thread/INFO]: th0nk, Old Kingdom joined the game
+[22:27:54] [User Authenticator #3/INFO]: UUID of player TheBestRedstone is d5251ee0-d8ff-463c-af32-fff792f239c6
+[22:27:55] [Server thread/INFO]: TheBestRedstone[/24.178.30.182:55758] logged in with entity id 821 at (297.7004080654098, 71.0, -155.5439887692967)
+[22:27:55] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion joined the game
+[22:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[22:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3848ms or 76 ticks behind
+[22:28:20] [Server thread/INFO]: [th0nk, Old Kingdom: Set the time to 13000]
+[22:28:37] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[22:30:28] [Server thread/INFO]: <EthMC, Rogues> Die in a hole retard
+[22:30:58] [Server thread/INFO]: <EthMC, Rogues> COOKIN SOME METH TODAY
+[22:30:59] [Server thread/INFO]: <EthMC, Rogues> EPIC
+[22:31:02] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> epic
+[22:31:32] [Server thread/INFO]: <EthMC, Rogues> Hate when mfs say “its a quarter till 9” just say its 8:75 damn
+[22:31:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[22:31:50] [Server thread/INFO]: <EthMC, Rogues> getting head from an egirl call that laptop
+[22:32:07] [Server thread/INFO]: <EthMC, Rogues> girls are so funny bro lol please stop making me laugh im going to die omfg hahaha wow i love your jokes lol did i tell you how funny you are to me ahaha
+[22:32:20] [Server thread/INFO]: <EthMC, Rogues> i'm suffering
+[22:32:21] [Server thread/INFO]: <EthMC, Rogues> please
+[22:32:28] [Server thread/INFO]: TheBestRedstone lost connection: Disconnected
+[22:32:28] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion left the game
+[22:38:19] [User Authenticator #4/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
+[22:38:19] [Server thread/INFO]: 9abe[/71.220.250.59:54535] logged in with entity id 4158 at (280.3869348129456, 59.0, -163.19486898121596)
+[22:38:19] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
+[22:39:01] [Server thread/INFO]: [th0nk, Old Kingdom: Banned Rabid_Chip_Munk: Banned by an operator.]
+[22:39:18] [Server thread/INFO]: Unknown command
+[22:39:18] [Server thread/INFO]: <--[HERE]
+[22:41:09] [Server thread/INFO]: <9abe, Ethegary Dominion> gn!
+[22:41:14] [Server thread/INFO]: <EthMC, Rogues> boi
+[22:41:19] [Server thread/INFO]: <9abe, Ethegary Dominion> bruh
+[22:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[22:42:12] [Server thread/INFO]: <EthMC, Rogues> ROCKET LEAGUE
+[22:42:18] [Server thread/INFO]: <EthMC, Rogues> VRO
+[22:42:52] [Server thread/INFO]: EthMC lost connection: Timed out
+[22:42:52] [Server thread/INFO]: EthMC, Rogues left the game
+[22:42:53] [User Authenticator #5/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[22:42:53] [Server thread/INFO]: EthMC[/80.27.46.205:50316] logged in with entity id 5744 at (342.6730336335904, 20.0, -355.30004150743275)
+[22:42:53] [Server thread/INFO]: EthMC, Rogues joined the game
+[22:43:11] [Server thread/INFO]: <EthMC, Rogues> ./ban EthCM
+[22:43:15] [Server thread/INFO]: <EthMC, Rogues> FUCK
+[22:43:18] [Server thread/INFO]: <EthMC, Rogues> MC*
+[22:43:22] [Server thread/INFO]: <9abe, Ethegary Dominion> wow
+[22:46:29] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[22:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[22:48:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8275, l='world', x=477.06, y=24.00, z=109.71]
+[22:49:23] [Server thread/INFO]: <EthMC, Rogues> i love babushka
+[22:49:36] [Server thread/INFO]: <EthMC, Rogues> my family thinks im weird
+[22:51:42] [User Authenticator #6/INFO]: UUID of player luumberjack212 is e9ff72c4-0702-4458-b252-7da8af039111
+[22:51:42] [Server thread/INFO]: luumberjack212[/81.98.162.238:64162] logged in with entity id 9105 at (321.5, 64.0, 31.5)
+[22:51:42] [Server thread/INFO]: luumberjack212 joined the game
+[22:51:50] [Server thread/INFO]: <EthMC, Rogues> Hallo Monte
+[22:51:55] [Server thread/INFO]: <luumberjack212> heyo
+[22:51:56] [Server thread/INFO]: <9abe, Ethegary Dominion> hallo
+[22:52:27] [Server thread/INFO]: [th0nk, Old Kingdom: Gave 1 [Ender Chest] to th0nk, Old Kingdom]
+[22:53:04] [Server thread/INFO]: <EthMC, Rogues> Monte ist mein Bruder
+[22:53:20] [Server thread/INFO]: <9abe, Ethegary Dominion> bro lookin like that guy from lucky charms
+[22:53:33] [Server thread/INFO]: <luumberjack212> LMAo
+[22:55:05] [Server thread/INFO]: [th0nk, Old Kingdom: Added luumberjack212 to team [Rogues]]
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -7.990880226954232,2.0,-6.182825064926192
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -8.318526607337958,2.0,-6.448109502470203
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -8.579302319023611,3.0,-6.770880524653023
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -8.81196530153818,3.0,-7.120584191814515
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -9.036120454224204,3.0,-7.481103543318284
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -9.262119372591826,3.0,-7.84357355262901
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -9.495337609005333,3.0,-8.20302567478339
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -9.736711567392092,3.0,-8.557867586088065
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -9.987242370866682,3.0,-8.906694809452375
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -10.246193142621564,3.0,-9.249552878484991
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -10.522298877496496,3.0,-9.578202394966809
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -10.814197374657681,3.0,-9.892685007003024
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -11.11531490603113,3.0,-10.19878342698513
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -11.426162262062917,3.0,-10.4951689069037
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -11.747529331314013,3.0,-10.780103468174275
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -12.082859526200593,3.0,-11.047931935851409
+[22:56:38] [Server thread/WARN]: Skeleton Horse (vehicle of EthMC) moved too quickly! -12.437520352888498,3.0,-11.287645102058349
+[22:57:52] [Server thread/INFO]: luumberjack212, Rogues has made the advancement [Isn't It Iron Pick]
+[22:58:10] [Server thread/INFO]: luumberjack212, Rogues has made the advancement [Suit Up]
+[22:58:33] [Server thread/INFO]: luumberjack212, Rogues has made the advancement [Acquire Hardware]
+[22:59:11] [Server thread/INFO]: <EthMC, Rogues> Yo
+[22:59:16] [Server thread/INFO]: <luumberjack212, Rogues> HEY VRO
+[22:59:19] [Server thread/INFO]: <9abe, Ethegary Dominion> hey lee
+[22:59:21] [Server thread/INFO]: <EthMC, Rogues> If you wanna see a real mole rat
+[22:59:24] [Server thread/INFO]: <EthMC, Rogues> follow me
+[22:59:51] [Server thread/INFO]: <EthMC, Rogues> I'm waiting for you up here vro
+[23:00:22] [Server thread/INFO]: luumberjack212, Rogues has made the advancement [Stone Age]
+[23:00:25] [Server thread/INFO]: <EthMC, Rogues> huh
+[23:01:10] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[23:06:11] [Server thread/INFO]: [th0nk, Old Kingdom: Set the world spawn point to 321, 51, -10]
+[23:06:45] [Server thread/INFO]: <9abe, Ethegary Dominion> skeleton kills creeper
+[23:06:49] [Server thread/INFO]: <9abe, Ethegary Dominion> creeper drops cd
+[23:06:52] [Server thread/INFO]: <9abe, Ethegary Dominion> also dungeon
+[23:07:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[23:07:52] [Server thread/INFO]: luumberjack212, Rogues has made the advancement [We Need to Go Deeper]
+[23:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[23:08:33] [Server thread/WARN]: EthMC was kicked for floating too long!
+[23:08:33] [Server thread/INFO]: EthMC lost connection: Flying is not enabled on this server
+[23:08:33] [Server thread/INFO]: EthMC, Rogues left the game
+[23:08:33] [Server thread/WARN]: handleDisconnection() called twice
+[23:08:48] [User Authenticator #7/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[23:08:48] [Server thread/INFO]: EthMC[/80.27.46.205:50532] logged in with entity id 13721 at (1816.299999974668, 68.0000002, -396.700000025332)
+[23:08:48] [Server thread/INFO]: EthMC, Rogues joined the game
+[23:09:19] [Server thread/INFO]: luumberjack212, Rogues has made the advancement [Monster Hunter]
+[23:11:44] [Server thread/WARN]: 9abe moved too quickly! -10.13116846914545,0.25799910351528865,0.26685673638998963
+[23:11:44] [Server thread/WARN]: luumberjack212 moved too quickly! -7.152558669564343,-7.304316827457541,0.01959500848698781
+[23:11:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3717ms or 74 ticks behind
+[23:11:54] [Server thread/INFO]: [th0nk, Old Kingdom: Teleported th0nk, Old Kingdom to 324.0, 50.18, -8.66]
+[23:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[23:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5306ms or 106 ticks behind
+[23:12:45] [Server thread/INFO]: [th0nk, Old Kingdom: Teleported th0nk, Old Kingdom to 9abe, Ethegary Dominion]
+[23:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4934ms or 98 ticks behind
+[23:13:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[23:13:40] [Server thread/INFO]: [th0nk, Old Kingdom: Nametag visibility for team [Old Kingdom] is now "Hide for other teams"]
+[23:14:07] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[23:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[23:20:27] [Server thread/WARN]: Boat moved wrongly!
+[23:20:27] [Server thread/WARN]: Boat moved wrongly!
+[23:22:02] [Server thread/WARN]: luumberjack212 moved too quickly! -9.119570277865819,-3.0013359791121417,-3.354550731398888
+[23:22:02] [Server thread/WARN]: th0nk moved too quickly! -9.778164540770831,-1.2625000476837158,-1.870244470617692
+[23:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[23:27:05] [Server thread/WARN]: th0nk moved too quickly! -0.3200102198563286,-0.45546773958501774,10.248257720920293
+[23:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2871ms or 57 ticks behind
+[23:27:30] [Server thread/INFO]: [th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[23:30:08] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:30:15] [User Authenticator #8/INFO]: UUID of player TheBestRedstone is d5251ee0-d8ff-463c-af32-fff792f239c6
+[23:30:15] [Server thread/INFO]: TheBestRedstone[/24.178.30.182:58068] logged in with entity id 22305 at (295.5993686421212, 50.0, -160.0180915759029)
+[23:30:15] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion joined the game
+[23:30:16] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:30:22] [Server thread/INFO]: <EthMC, Rogues> ./kill TheBestRedstone
+[23:30:24] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:30:30] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> do it
+[23:30:42] [Server thread/INFO]: <luumberjack212, Rogues> you wont
+[23:31:21] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> where
+[23:31:29] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:40] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:47] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:52] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:54] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:55] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:55] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:55] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:56] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:56] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:56] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:56] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:57] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:57] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:57] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:57] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:58] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:58] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:58] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:58] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:59] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:59] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:59] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:31:59] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:00] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:00] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:00] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:00] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:08] [Server thread/WARN]: 9abe moved too quickly! -1.8046489988897747,2.1416851727245216,-9.89154450783036
+[23:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[23:32:10] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:10] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:10] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:10] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:11] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:11] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:11] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:11] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:12] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:12] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:32] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:34] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:34] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:34] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:34] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:35] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:35] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:32:35] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:06] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:07] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:07] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:07] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:07] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:13] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:13] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:13] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:13] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:14] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:14] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:14] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:14] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:15] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:15] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:47] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:48] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:48] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:48] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:48] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:49] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:49] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:49] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:49] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:50] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:33:50] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:34:00] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:34:00] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:06] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:14] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:28] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:28] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:28] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:29] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:29] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:29] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:29] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:30] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:30] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:30] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:30] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:31] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:31] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:31] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:31] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:32] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:32] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:32] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:32] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:33] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:34] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:48] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:49] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:35:49] [Server thread/INFO]: [th0nk, Old Kingdom: Summoned new Lightning Bolt]
+[23:38:39] [Server thread/INFO]: TheBestRedstone lost connection: Disconnected
+[23:38:39] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion left the game
+[23:38:54] [Server thread/INFO]: 9abe lost connection: Disconnected
+[23:38:54] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
+[23:39:02] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new actionbar title for luumberjack212, Rogues]
+[23:39:04] [User Authenticator #9/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
+[23:39:04] [Server thread/INFO]: 9abe[/71.220.250.59:54724] logged in with entity id 25356 at (324.7570504550822, 20.5625, -340.10733277805156)
+[23:39:04] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
+[23:39:15] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new actionbar title for th0nk, Old Kingdom]
+[23:39:32] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for luumberjack212, Rogues]
+[23:39:39] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for th0nk, Old Kingdom]
+[23:39:51] [Server thread/INFO]: [th0nk, Old Kingdom: Cleared titles for luumberjack212, Rogues]
+[23:40:16] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for EthMC, Rogues]
+[23:40:41] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for luumberjack212, Rogues]
+[23:41:02] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for luumberjack212, Rogues]
+[23:41:25] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 4 players]
+[23:41:36] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 4 players]
+[23:41:39] [Server thread/INFO]: <9abe, Ethegary Dominion> WTF!!!
+[23:41:53] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 4 players]
+[23:41:55] [Server thread/INFO]: <9abe, Ethegary Dominion> true
+[23:41:56] [Server thread/INFO]: <EthMC, Rogues> TRUE
+[23:42:05] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 4 players]
+[23:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[23:42:13] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 4 players]
+[23:42:13] [User Authenticator #10/INFO]: UUID of player TheBestRedstone is d5251ee0-d8ff-463c-af32-fff792f239c6
+[23:42:13] [Server thread/INFO]: TheBestRedstone[/24.178.30.182:58466] logged in with entity id 26349 at (310.0422078589509, 20.0, -327.3606998069381)
+[23:42:13] [Server thread/INFO]: TheBestRedstone, Ethegary Dominion joined the game
+[23:42:17] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:19] [Server thread/INFO]: <9abe, Ethegary Dominion> true
+[23:42:21] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:23] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:23] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:23] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:24] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:24] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:24] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:25] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:25] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for 5 players]
+[23:42:28] [Server thread/INFO]: <EthMC, Rogues> facts
+[23:42:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3565ms or 71 ticks behind
+[23:42:30] [Server thread/INFO]: [th0nk, Old Kingdom: Cleared titles for 5 players]
+[23:42:36] [Server thread/INFO]: <EthMC, Rogues> he suck big pp
+[23:42:41] [Server thread/INFO]: <luumberjack212, Rogues> gabe is a betacuck
+[23:42:46] [Server thread/INFO]: <luumberjack212, Rogues> huh
+[23:42:47] [Server thread/INFO]: <9abe, Ethegary Dominion> the fuck u want
+[23:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6995ms or 139 ticks behind
+[23:43:03] [User Authenticator #11/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
+[23:43:03] [Server thread/INFO]: LongLogan2[/67.168.91.76:51526] logged in with entity id 26846 at (494.825737008, 67.0, -643.2129081781693)
+[23:43:03] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
+[23:43:04] [Server thread/INFO]: <EthMC, Rogues> I'M ALPHA AS FUCK
+[23:43:05] [Server thread/INFO]: <EthMC, Rogues> NIGGA
+[23:43:10] [Server thread/INFO]: <9abe, Ethegary Dominion> ayy
+[23:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7185ms or 143 ticks behind
+[23:43:13] [Server thread/INFO]: <9abe, Ethegary Dominion> hey lgoan
+[23:43:14] [Server thread/INFO]: <LongLogan2, Northern Alliance> bruh
+[23:43:15] [Server thread/INFO]: [th0nk, Old Kingdom: Showing new title for LongLogan2, Northern Alliance]
+[23:43:20] [Server thread/INFO]: <LongLogan2, Northern Alliance> whoah
+[23:43:21] [Server thread/INFO]: <th0nk, Old Kingdom> get in discord
+[23:43:26] [Server thread/INFO]: <TheBestRedstone, Ethegary Dominion> nah dont
+[23:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[23:43:40] [Server thread/INFO]: <EthMC, Rogues> Yo Logan Paul
+[23:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[23:44:12] [Server thread/INFO]: <9abe, Ethegary Dominion> get in call
+[23:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[23:45:23] [Server thread/INFO]: <LongLogan2, Northern Alliance> my peepee harD
+[23:45:29] [Server thread/INFO]: <EthMC, Rogues> damn
+[23:45:40] [Server thread/INFO]: <9abe, Ethegary Dominion> damn....
+[23:45:56] [Server thread/INFO]: [th0nk, Old Kingdom: Saved the game]
+[23:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[23:45:56] [Server thread/WARN]: TheBestRedstone moved too quickly! -9.40240696406346,0.5764407054569602,3.9639966156972264
+[23:45:56] [Server thread/WARN]: th0nk moved too quickly! 8.41462951486136,0.0,6.089064865272519
