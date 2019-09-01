@@ -542,7 +542,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-08-31 04:56:34 +0000"
+      "tick": "2019-08-31 23:46:18 +0000"
     },
     "done": false
   },
@@ -2279,6 +2279,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-08-31 21:18:49 +0000",
       "cooked_mutton": "2019-08-31 00:01:42 +0000",
       "cooked_beef": "2019-07-17 22:02:45 +0000",
       "beef": "2019-07-17 13:09:35 +0000",
@@ -2293,8 +2294,10 @@
       "bread": "2019-07-17 11:33:04 +0000",
       "golden_apple": "2019-07-19 17:05:18 +0000",
       "rotten_flesh": "2019-07-17 15:19:39 +0000",
+      "cookie": "2019-08-31 19:13:08 +0000",
       "salmon": "2019-07-17 12:58:47 +0000",
       "golden_carrot": "2019-08-28 21:42:12 +0000",
+      "cooked_chicken": "2019-08-31 20:34:54 +0000",
       "cod": "2019-07-17 15:45:50 +0000",
       "cooked_salmon": "2019-07-30 03:25:10 +0000",
       "carrot": "2019-07-17 15:18:24 +0000"
@@ -3463,6 +3466,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2019-08-28 22:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-08-31 21:17:39 +0000"
     },
     "done": true
   },
