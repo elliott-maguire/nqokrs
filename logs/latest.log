@@ -1,788 +1,430 @@
-[00:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
-[00:23:08] [Server thread/INFO]: EthMC lost connection: Disconnected
-[00:23:08] [Server thread/INFO]: EthMC, Rogues left the game
-[00:23:21] [User Authenticator #16/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[00:23:21] [Server thread/INFO]: EthMC[/2.141.93.89:55198] logged in with entity id 188412 at (1755.4015472153812, 67.0, -427.60858063852027)
-[00:23:21] [Server thread/INFO]: EthMC, Rogues joined the game
-[00:23:44] [User Authenticator #17/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
-[00:23:45] [Server thread/INFO]: 9abe[/71.220.250.59:60728] logged in with entity id 188737 at (289.8962845243, 61.0, -149.19062706761036)
-[00:23:45] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
-[00:24:53] [Server thread/INFO]: <EthMC, Rogues> oh hey
-[00:24:56] [Server thread/INFO]: <9abe, Ethegary Dominion> yo
-[00:25:12] [Server thread/INFO]: <9abe, Ethegary Dominion> brb actually
-[00:25:19] [Server thread/INFO]: <9abe, Ethegary Dominion> ima shower
-[00:25:21] [Server thread/INFO]: 9abe lost connection: Disconnected
-[00:25:21] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
-[00:25:22] [Server thread/INFO]: <EthMC, Rogues> aight
-[00:31:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c3d58ba[id=<null>,name=Seki_Kun,properties={},legacy=false] (/98.192.156.26:53159) lost connection: Disconnected
-[00:31:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d84b3e8[id=<null>,name=Seki_Kun,properties={},legacy=false] (/98.192.156.26:53166) lost connection: Disconnected
-[00:33:19] [User Authenticator #18/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[00:33:19] [Server thread/INFO]: Seki_Kun[/98.192.156.26:53368] logged in with entity id 190505 at (4751.300000011921, 72.0, 5536.303607844874)
-[00:33:19] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[00:33:25] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Yo
-[00:35:04] [Server thread/INFO]: <EthMC, Rogues> yo
-[00:41:06] [Server thread/WARN]: Seki_Kun moved too quickly! 9.391830896453712,-0.2522033402537289,3.6223157879117025
-[00:42:43] [Server thread/INFO]: EthMC lost connection: Disconnected
-[00:42:43] [Server thread/INFO]: EthMC, Rogues left the game
-[00:42:46] [Server thread/INFO]: Seki_Kun, Ethegary Dominion fell from a high place
-[01:06:36] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[01:06:36] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[01:13:01] [User Authenticator #19/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
-[01:13:01] [Server thread/INFO]: 9abe[/71.220.250.59:60864] logged in with entity id 197729 at (329.6554335513206, 70.0, -215.33872875176914)
-[01:13:01] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
-[01:16:06] [Server thread/WARN]: 9abe moved too quickly! -1.9526741593933252,-0.6668000063657757,9.874060555260712
-[01:20:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/199539, l='world', x=269.20, y=54.00, z=-167.20]
-[01:34:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/201450, l='world', x=322.08, y=66.00, z=-165.59]
-[01:37:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/201776, l='world', x=323.17, y=66.00, z=-165.36]
-[01:48:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/203012, l='world', x=322.53, y=66.00, z=-164.83]
-[01:51:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/203358, l='world', x=269.65, y=54.00, z=-169.88]
-[01:54:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/203797, l='world', x=318.47, y=66.00, z=-167.69]
-[01:56:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/203987, l='world', x=318.01, y=66.00, z=-165.92]
-[02:02:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@739b88ba[id=<null>,name=Seki_Kun,properties={},legacy=false] (/98.192.156.26:54217) lost connection: Disconnected
-[02:07:22] [User Authenticator #20/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[02:07:22] [Server thread/INFO]: Seki_Kun[/98.192.156.26:54485] logged in with entity id 205272 at (275.04580701148564, 63.0, -154.5053823082566)
-[02:07:22] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[02:07:29] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Yo
-[02:09:19] [Server thread/INFO]: <9abe, Ethegary Dominion> huh
-[02:09:20] [Server thread/INFO]: <9abe, Ethegary Dominion> oh hey
-[02:09:43] [Server thread/INFO]: <9abe, Ethegary Dominion> wh
-[02:09:48] [Server thread/INFO]: <9abe, Ethegary Dominion> how'd you get that many diamonds
-[02:09:52] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> PARRY THIS CASUAL
-[02:10:03] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> reeeeeeeeeeeeeeeeEEEEEEE
-[02:10:52] [Server thread/INFO]: <9abe, Ethegary Dominion> bruh
-[02:10:57] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> shhh
-[02:10:59] [Server thread/INFO]: <9abe, Ethegary Dominion> ok
-[02:11:11] [Server thread/INFO]: <9abe, Ethegary Dominion> don't break any of my property
-[02:11:14] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[02:11:29] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Wanna come see my house?
-[02:11:38] [Server thread/INFO]: <9abe, Ethegary Dominion> sure
-[02:12:18] [Server thread/INFO]: <9abe, Ethegary Dominion> mhm
-[02:14:22] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Wait
-[02:14:42] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> uhhh
-[02:15:24] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Oh btw it is like 1000 blocks out
-[02:15:31] [Server thread/INFO]: <9abe, Ethegary Dominion> nvm then
-[02:15:35] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> oof
-[02:15:36] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[02:15:53] [Server thread/INFO]: <9abe, Ethegary Dominion> i gotta work on the paths
-[02:15:56] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[02:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
-[02:19:06] [Server thread/INFO]: <9abe, Ethegary Dominion> afk for a few
-[02:19:08] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[02:19:08] [Server thread/INFO]: <9abe, Ethegary Dominion> min
-[02:21:09] [Server thread/WARN]: Seki_Kun moved too quickly! 0.05628219763752895,0.0,10.101444537651837
-[02:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
-[02:24:12] [User Authenticator #21/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[02:24:12] [Server thread/INFO]: LongLogan2[/67.168.91.76:53967] logged in with entity id 210599 at (491.4304166827517, 67.0, -606.5001346306984)
-[02:24:12] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[02:24:16] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Yo
-[02:24:22] [Server thread/INFO]: <LongLogan2, Northern Alliance> aye
-[02:24:50] [Server thread/INFO]: <LongLogan2, Northern Alliance> i need a shit ton of diorite can yall help me out
-[02:24:55] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Sure
-[02:24:56] [Server thread/INFO]: <9abe, Ethegary Dominion> ew
-[02:24:57] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I have some
-[02:25:00] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Also why?
-[02:25:05] [Server thread/INFO]: <9abe, Ethegary Dominion> also can't
-[02:25:10] [Server thread/INFO]: <9abe, Ethegary Dominion> working on some paths
-[02:25:12] [Server thread/INFO]: <LongLogan2, Northern Alliance> im building a big cathedral
-[02:25:16] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> ew
-[02:25:29] [Server thread/INFO]: <LongLogan2, Northern Alliance> where ya guys at?
-[02:25:41] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> nether
-[02:25:47] [Server thread/INFO]: <9abe, Ethegary Dominion> overworld
-[02:25:56] [Server thread/INFO]: <LongLogan2, Northern Alliance> thats epic
-[02:26:05] [Server thread/INFO]: <LongLogan2, Northern Alliance> wheres your base
-[02:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4467ms or 89 ticks behind
-[02:26:16] [Server thread/INFO]: <9abe, Ethegary Dominion> seki's
-[02:26:18] [Server thread/INFO]: <9abe, Ethegary Dominion> ?
-[02:26:24] [Server thread/INFO]: <LongLogan2, Northern Alliance> yeah
-[02:26:27] [Server thread/INFO]: <9abe, Ethegary Dominion> or ethegarian base
-[02:26:32] [Server thread/INFO]: <9abe, Ethegary Dominion> oh so the base is
-[02:26:32] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> 4755, 5540
-[02:26:36] [Server thread/INFO]: <LongLogan2, Northern Alliance> wherever the diorite is
-[02:26:45] [Server thread/INFO]: <9abe, Ethegary Dominion> oh then follow seki's coords
-[02:26:47] [Server thread/INFO]: <LongLogan2, Northern Alliance> damn thats far
-[02:26:52] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Ye
-[02:26:59] [Server thread/INFO]: <9abe, Ethegary Dominion> she's not apart of our base
-[02:27:02] [Server thread/INFO]: <9abe, Ethegary Dominion> but she's in our caln
-[02:27:03] [Server thread/INFO]: <LongLogan2, Northern Alliance> nvm then lmao itll be faster to mine it
-[02:27:03] [Server thread/INFO]: <9abe, Ethegary Dominion> clan
-[02:27:06] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Excuse me
-[02:27:07] [Server thread/INFO]: <9abe, Ethegary Dominion> LOL
-[02:27:08] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> SHE
-[02:27:11] [Server thread/INFO]: <9abe, Ethegary Dominion> bruh
-[02:27:12] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> WTF GABE
-[02:27:14] [Server thread/INFO]: <LongLogan2, Northern Alliance> oof
-[02:27:20] [Server thread/INFO]: <9abe, Ethegary Dominion> you said you wanted
-[02:27:27] [Server thread/INFO]: <9abe, Ethegary Dominion> to be an anime girl in mc
-[02:27:31] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I SAID I WAS A TRAP SMH
-[02:28:14] [Server thread/INFO]: <9abe, Ethegary Dominion> >:(
-[02:28:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/212765, l='world', x=269.41, y=54.00, z=-170.22]
-[02:28:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[02:29:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
-[02:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3331ms or 66 ticks behind
-[02:29:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4484ms or 89 ticks behind
-[02:29:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/213268, l='world', x=318.37, y=66.00, z=-167.97]
-[02:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3894ms or 77 ticks behind
-[02:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5435ms or 108 ticks behind
-[02:30:21] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Wait LongLogan2 where are you at?
-[02:30:22] [Server thread/INFO]: <LongLogan2, Northern Alliance> HELL YEAH
-[02:30:28] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[02:30:29] [Server thread/INFO]: <LongLogan2, Northern Alliance> found hella diorite
-[02:30:34] [Server thread/INFO]: <LongLogan2, Northern Alliance> im near bunker hill
-[02:30:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
-[02:30:41] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> o
-[02:30:46] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> FUCK
-[02:30:53] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> BASTARDIZED CREEPER
-[02:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02:31:00] [Server thread/INFO]: <LongLogan2, Northern Alliance> F
-[02:31:15] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> my bookshelves ;-;
-[02:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[02:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
-[02:31:53] [Server thread/WARN]: 9abe moved too quickly! -9.484413381111267,-2.121296840539202,-2.5130338033099804
-[02:31:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7448ms or 148 ticks behind
-[02:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
-[02:32:24] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Also, I'll be afk for a bit
-[02:32:28] [Server thread/INFO]: Showing new title for 3 players
-[02:32:37] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> My friend made a game and he wants me to test it
-[02:32:39] [Server thread/INFO]: <LongLogan2, Northern Alliance> did anyone else see that
-[02:32:41] [Server thread/INFO]: <9abe, Ethegary Dominion> oh? you can see mee... ;) okay... hahaha.....
-[02:32:48] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> And thanks for the omi- GABE
-[02:32:49] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> NO
-[02:32:49] [Server thread/INFO]: <LongLogan2, Northern Alliance> did anyone else find steakl
-[02:32:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/214553, l='world', x=319.14, y=66.00, z=-165.64]
-[02:32:56] [Server thread/INFO]: <LongLogan2, Northern Alliance> guys
-[02:32:58] [Server thread/INFO]: Showing new title for 3 players
-[02:32:59] [Server thread/INFO]: <9abe, Ethegary Dominion> yes... ;)_
-[02:32:59] [Server thread/INFO]: <LongLogan2, Northern Alliance> im scared
-[02:33:01] [Server thread/INFO]: <9abe, Ethegary Dominion> LOL
-[02:33:01] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> WOAAAAAAAAAAAAAH
-[02:33:04] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> LMAOO
-[02:33:07] [Server thread/INFO]: <LongLogan2, Northern Alliance> lmao
-[02:33:15] [Server thread/INFO]: <LongLogan2, Northern Alliance> tooga booga
-[02:33:29] [Server thread/INFO]: <LongLogan2, Northern Alliance> will th gods give me diorite
-[02:33:36] [Server thread/INFO]: <9abe, Ethegary Dominion> he says
-[02:33:43] [Server thread/INFO]: <9abe, Ethegary Dominion> and god responds with
-[02:33:47] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Elliot
-[02:33:54] [Server thread/INFO]: <9abe, Ethegary Dominion> AND GOD RESPONDS WITH
-[02:33:54] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Give him andesite not diorite
-[02:34:08] [Server thread/INFO]: <LongLogan2, Northern Alliance> would not even complain
-[02:34:14] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> >:(
-[02:35:39] [Server thread/INFO]: <LongLogan2, Northern Alliance> someone stole my diamonds so thats a major L
-[02:35:46] [Server thread/INFO]: <9abe, Ethegary Dominion> probably kolby
-[02:35:54] [Server thread/INFO]: <9abe, Ethegary Dominion> he did a whole "raid"
-[02:35:57] [Server thread/INFO]: <LongLogan2, Northern Alliance> ill have to kick his ass
-[02:36:06] [Server thread/INFO]: <9abe, Ethegary Dominion> he was hacking
-[02:36:10] [Server thread/INFO]: Showing new title for 3 players
-[02:36:11] [Server thread/INFO]: <9abe, Ethegary Dominion> as in he was flying
-[02:36:19] [Server thread/INFO]: <LongLogan2, Northern Alliance> thats gay
-[02:36:23] [Server thread/INFO]: <9abe, Ethegary Dominion> GOD
-[02:36:26] [Server thread/INFO]: Unknown command
-[02:36:26] [Server thread/INFO]: <--[HERE]
-[02:36:27] [Server thread/INFO]: <9abe, Ethegary Dominion> is that you?
-[02:36:27] [Server thread/INFO]: <LongLogan2, Northern Alliance> so my diamonds were banned
-[02:36:31] [Server thread/INFO]: <9abe, Ethegary Dominion> yes
-[02:36:34] [Server thread/INFO]: <LongLogan2, Northern Alliance> fuck
-[02:36:37] [Server thread/INFO]: Unknown command
-[02:36:37] [Server thread/INFO]: <--[HERE]
-[02:36:38] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> F
-[02:36:41] [Server thread/INFO]: <9abe, Ethegary Dominion> you can ask the god how many diamonds there wer
-[02:36:44] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> How many did you have
-[02:36:47] [Server thread/INFO]: <9abe, Ethegary Dominion> so he can give you them
-[02:37:02] [Server thread/WARN]: 9abe moved too quickly! -10.134932495739406,0.41999998688697815,-0.09513697674674404
-[02:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3707ms or 74 ticks behind
-[02:37:03] [Server thread/INFO]: Showing new title for 3 players
-[02:37:13] [Server thread/INFO]: <9abe, Ethegary Dominion> the text doesn't fit lol
-[02:37:16] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> ^
-[02:37:19] [Server thread/INFO]: <LongLogan2, Northern Alliance> i think i had close to 60
-[02:37:26] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> ooof
-[02:37:29] [Server thread/INFO]: Showing new title for 3 players
-[02:37:35] [Server thread/INFO]: <LongLogan2, Northern Alliance> the messiah
-[02:37:36] [Server thread/INFO]: <9abe, Ethegary Dominion> yea but i think kolby stole some of our stuff too
-[02:37:42] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Weird that you told us that but okay
-[02:37:42] [Server thread/INFO]: <9abe, Ethegary Dominion> but he won't say it
-[02:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[02:38:30] [User Authenticator #22/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[02:38:30] [Server thread/INFO]: th0nk[/98.225.15.114:53868] logged in with entity id 216957 at (232.7446661161601, 72.0, -13.098190744873389)
-[02:38:30] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
-[02:38:39] [Server thread/INFO]: <LongLogan2, Northern Alliance> BEHOLD
-[02:38:39] [Server thread/INFO]: <King th0nk, Old Kingdom> alright listen up
-[02:38:41] [Server thread/INFO]: <LongLogan2, Northern Alliance> THE MESSIAH
-[02:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4628ms or 92 ticks behind
-[02:38:43] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Ye?
-[02:38:45] [Server thread/INFO]: <LongLogan2, Northern Alliance> EMANUELLL
-[02:38:50] [Server thread/INFO]: <King th0nk, Old Kingdom> i am god incarnate
-[02:38:53] [Server thread/INFO]: <King th0nk, Old Kingdom> i am the coming king
-[02:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4539ms or 90 ticks behind
-[02:39:03] [Server thread/INFO]: <King th0nk, Old Kingdom> so the deal with kolby is he kind of fucked a bunch of stuff up
-[02:39:07] [Server thread/INFO]: <King th0nk, Old Kingdom> and was using a hacked client
-[02:39:13] [Server thread/INFO]: <King th0nk, Old Kingdom> so i banned him after growing tired of his bs
-[02:39:22] [Server thread/INFO]: <King th0nk, Old Kingdom> i can get you your diamonds back
-[02:39:28] [Server thread/INFO]: <LongLogan2, Northern Alliance> thatd be epic
-[02:39:29] [Server thread/INFO]: <King th0nk, Old Kingdom> because he probably stole and lost/destroyed them
-[02:39:42] [Server thread/INFO]: <LongLogan2, Northern Alliance> why would someone be so stupid
-[02:39:49] [Server thread/INFO]: <King th0nk, Old Kingdom> also i rebuilt all the towers and am building a new lil village that you should peep when you can
-[02:39:55] [Server thread/INFO]: <King th0nk, Old Kingdom> because he's a retard
-[02:39:56] [Server thread/INFO]: <LongLogan2, Northern Alliance> aight
-[02:39:58] [Server thread/INFO]: <9abe, Ethegary Dominion> lil peep
-[02:40:41] [Server thread/INFO]: <LongLogan2, Northern Alliance> i need mf netherbrick
-[02:40:43] [Server thread/INFO]: <King th0nk, Old Kingdom> also i built a spawn deep in the wild
-[02:40:53] [Server thread/INFO]: <King th0nk, Old Kingdom> but i need to get some anti-cheat plugins before we make this more public
-[02:41:13] [Server thread/INFO]: <LongLogan2, Northern Alliance> anyone who cheats will face my army of dogs in the fighting pit
-[02:41:18] [Server thread/INFO]: <King th0nk, Old Kingdom> hell yeah
-[02:41:25] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> woa
-[02:41:29] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> That's metal af
-[02:41:31] [Server thread/INFO]: <King th0nk, Old Kingdom> and they will face the wrath of Server
-[02:41:46] [Server thread/INFO]: [King th0nk, Old Kingdom: Showing new title for 4 players]
-[02:41:52] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> *eat
-[02:41:55] [Server thread/INFO]: <LongLogan2, Northern Alliance> clap*
-[02:42:01] [Server thread/INFO]: <LongLogan2, Northern Alliance> lmao
-[02:42:01] [Server thread/INFO]: <King th0nk, Old Kingdom> sus
-[02:42:13] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> ;)
-[02:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3518ms or 70 ticks behind
-[02:42:20] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Woah lag
-[02:43:27] [Server thread/INFO]: <King th0nk, Old Kingdom> my goal with birchstead is to just expand it to have a bunch of smaller houses, rather than one big building
-[02:43:37] [Server thread/INFO]: <King th0nk, Old Kingdom> because it looks really nice bordering the lake
-[02:43:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/219411, l='world', x=269.95, y=54.00, z=-168.13]
-[02:43:44] [Server thread/INFO]: <LongLogan2, Northern Alliance> yeah its a prime spot
-[02:43:54] [Server thread/INFO]: <LongLogan2, Northern Alliance> all those watch towers look hella gay
-[02:43:59] [Server thread/INFO]: <9abe, Ethegary Dominion> ^
-[02:44:02] [Server thread/INFO]: <King th0nk, Old Kingdom> i rebuilt all of them
-[02:44:06] [Server thread/INFO]: <King th0nk, Old Kingdom> and they look sooooo much better
-[02:44:16] [Server thread/INFO]: <9abe, Ethegary Dominion> bro really claimed the whole lake
-[02:44:17] [Server thread/INFO]: <LongLogan2, Northern Alliance> goo
-[02:44:19] [Server thread/INFO]: <LongLogan2, Northern Alliance> d
-[02:44:27] [Server thread/INFO]: <9abe, Ethegary Dominion> like we don't have any drinking water anymore
-[02:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[02:44:30] [Server thread/INFO]: <King th0nk, Old Kingdom> it belongs to the old kingdom and rightly so
-[02:44:30] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> smh
-[02:44:34] [Server thread/INFO]: <King th0nk, Old Kingdom> you have ponds all over the place
-[02:44:40] [Server thread/INFO]: <9abe, Ethegary Dominion> wtf is a pond
-[02:44:45] [Server thread/INFO]: <King th0nk, Old Kingdom> you live in the dirt just
-[02:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5513ms or 110 ticks behind
-[02:44:49] [Server thread/INFO]: <9abe, Ethegary Dominion> i only know small lake
-[02:44:50] [Server thread/INFO]: <King th0nk, Old Kingdom> get some underground water
-[02:44:54] [Server thread/INFO]: <9abe, Ethegary Dominion> shut up earthling
-[02:45:03] [Server thread/INFO]: <King th0nk, Old Kingdom> HOW DARE YOU OPPOSE ME MORTAL
-[02:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
-[02:45:06] [Server thread/INFO]: <9abe, Ethegary Dominion> shut up freshie
-[02:45:07] [Server thread/INFO]: <LongLogan2, Northern Alliance> the northern alliance will supply water
-[02:45:09] [Server thread/INFO]: <9abe, Ethegary Dominion> grr
-[02:45:15] [Server thread/INFO]: <9abe, Ethegary Dominion> thank you NA
-[02:45:20] [Server thread/INFO]: <LongLogan2, Northern Alliance> in return you gotta clap a niggas cheeks tho
-[02:45:22] [Server thread/INFO]: [King th0nk, Old Kingdom: Showing new title for 4 players]
-[02:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
-[02:45:27] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> hot
-[02:45:27] [Server thread/INFO]: <9abe, Ethegary Dominion> STOPP
-[02:45:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/220400, l='world', x=320.88, y=66.00, z=-167.32]
-[02:45:32] [Server thread/INFO]: <9abe, Ethegary Dominion> MY MOM SEE'S THIS BROOO
-[02:45:36] [Server thread/INFO]: <King th0nk, Old Kingdom> LMAOOOOOOOOOOOO
-[02:45:37] [Server thread/INFO]: <9abe, Ethegary Dominion> which 1 logan
-[02:45:39] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> LMOOOOOOOOOOOOOOOA
-[02:45:42] [Server thread/INFO]: <9abe, Ethegary Dominion> SEES*
-[02:45:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
-[02:45:48] [Server thread/INFO]: [King th0nk, Old Kingdom: Showing new title for 4 players]
-[02:45:51] [Server thread/INFO]: <9abe, Ethegary Dominion> SHE READS THE TRANSCRIPT
-[02:45:52] [Server thread/INFO]: <9abe, Ethegary Dominion> NOOO
-[02:45:58] [Server thread/INFO]: <King th0nk, Old Kingdom> SHE HAS THE SERVER LOGS
-[02:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3178ms or 63 ticks behind
-[02:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4040ms or 80 ticks behind
-[02:46:22] [Server thread/INFO]: <LongLogan2, Northern Alliance> i welcome this
-[02:46:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/220757, l='world', x=269.20, y=54.00, z=-169.77]
-[02:46:29] [Server thread/INFO]: <King th0nk, Old Kingdom> welcome what
-[02:46:35] [Server thread/INFO]: <LongLogan2, Northern Alliance> his mother reading the logs
-[02:46:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
-[02:46:42] [Server thread/INFO]: <King th0nk, Old Kingdom> yes, it's for his own good
-[02:46:45] [Server thread/INFO]: <King th0nk, Old Kingdom> for he is but a child
-[02:46:50] [Server thread/INFO]: th0nk lost connection: Disconnected
-[02:46:50] [Server thread/INFO]: King th0nk, Old Kingdom left the game
-[02:46:55] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> F
-[02:47:02] [Server thread/INFO]: <9abe, Ethegary Dominion> bruh
-[02:47:03] [Server thread/INFO]: <LongLogan2, Northern Alliance> aight cya
-[02:47:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/221053, l='world', x=269.95, y=54.00, z=-170.38]
-[02:47:06] [Server thread/INFO]: <9abe, Ethegary Dominion> cya
-[02:47:09] [Server thread/INFO]: <9abe, Ethegary Dominion> elliot stupid head
-[02:47:09] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> bye
-[02:47:13] [Server thread/INFO]: <9abe, Ethegary Dominion> elliot stupid head
-[02:47:16] [Server thread/INFO]: <9abe, Ethegary Dominion> stupid freshie
-[02:47:22] [Server thread/INFO]: <9abe, Ethegary Dominion> stupid lil 5'8 lil mouse boy
-[02:47:35] [Server thread/INFO]: <LongLogan2, Northern Alliance> is there a fortress near our nether hubs
-[02:47:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/221266, l='world', x=323.17, y=66.00, z=-165.25]
-[02:47:50] [Server thread/INFO]: <9abe, Ethegary Dominion> uhh i don't think so
-[02:47:50] [Server thread/WARN]: Seki_Kun moved too quickly! 10.141770557881841,0.7531999805212024,-0.4793345267598852
-[02:47:50] [Server thread/WARN]: LongLogan2 moved too quickly! -7.314736006357975,-7.268476202412984,-0.2554352973183214
-[02:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4727ms or 94 ticks behind
-[02:47:56] [Server thread/INFO]: <9abe, Ethegary Dominion> probably
-[02:49:39] [Server thread/INFO]: <LongLogan2, Northern Alliance> okay nether music kinda slaps tho
-[02:49:44] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> True
-[02:49:47] [Server thread/INFO]: <9abe, Ethegary Dominion> tru
-[02:50:17] [Server thread/INFO]: <9abe, Ethegary Dominion> gn
-[02:50:21] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> H
-[02:51:17] [User Authenticator #23/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[02:51:17] [Server thread/INFO]: th0nk[/98.225.15.114:53996] logged in with entity id 222859 at (233.36701527674003, 71.0, -15.762284661972746)
-[02:51:17] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
-[02:51:22] [Server thread/INFO]: <King th0nk, Old Kingdom> the wifi did a poopy des
-[02:51:22] [Server thread/INFO]: <9abe, Ethegary Dominion> shut up elliot
-[02:51:30] [Server thread/INFO]: <King th0nk, Old Kingdom> okay good point
-[02:51:30] [Server thread/INFO]: <9abe, Ethegary Dominion> lil 5'8 lil mouse boy
-[02:51:30] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Yeah shut up elliot
-[02:51:38] [Server thread/INFO]: <King th0nk, Old Kingdom> lil 5'8 lil piece of shit boy
-[02:51:42] [Server thread/INFO]: <9abe, Ethegary Dominion> i bet your nic levels are 2
-[02:51:42] [Server thread/INFO]: <King th0nk, Old Kingdom> crawling around in the walls
-[02:51:45] [Server thread/INFO]: <King th0nk, Old Kingdom> looking for CHEESE
-[02:51:45] [Server thread/INFO]: <LongLogan2, Northern Alliance> yeah fr why you so short
-[02:51:49] [Server thread/INFO]: <9abe, Ethegary Dominion> lol
-[02:51:53] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> lolw
-[02:52:04] [Server thread/INFO]: <King th0nk, Old Kingdom> i wish i could be tall like gabe at 6'3
-[02:52:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/223320, l='world', x=322.63, y=66.00, z=-166.37]
-[02:52:13] [Server thread/INFO]: <9abe, Ethegary Dominion> yup >:)
-[02:52:16] [Server thread/INFO]: <LongLogan2, Northern Alliance> uhhhhh
-[02:52:22] [Server thread/INFO]: <LongLogan2, Northern Alliance> lostinthenether.bat
-[02:52:27] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> F
-[02:52:28] [Server thread/INFO]: <King th0nk, Old Kingdom> i am playing minecraft at a coffee shop because i am an unashamed gamer
-[02:52:34] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Coords LongLogan2?
-[02:52:42] [Server thread/INFO]: <LongLogan2, Northern Alliance> excuse me
-[02:52:46] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I'll help you to my portal
-[02:52:49] [Server thread/INFO]: <LongLogan2, Northern Alliance> i am a minecraft veteren
-[02:52:55] [Server thread/WARN]: th0nk moved too quickly! 9.317011646742884,-1.0,3.766359914199274
-[02:52:55] [Server thread/WARN]: LongLogan2 moved too quickly! -5.382873732385747,-2.0752008901189356,-8.760973295770555
-[02:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
-[02:52:58] [Server thread/INFO]: <King th0nk, Old Kingdom> he don't need a nigga help
-[02:53:02] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k then
-[02:53:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/223775, l='world', x=321.92, y=66.00, z=-164.83]
-[02:54:09] [Server thread/INFO]: <9abe, Ethegary Dominion> minecraft veterans know true north
-[02:54:15] [Server thread/INFO]: <King th0nk, Old Kingdom> they can feel it
-[02:54:23] [Server thread/INFO]: <LongLogan2, Northern Alliance> there
-[02:54:29] [Server thread/INFO]: <LongLogan2, Northern Alliance> ghg'a
-[02:54:41] [Server thread/INFO]: <LongLogan2, Northern Alliance> ghast
-[02:54:44] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> g
-[02:54:45] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> f
-[02:54:47] [Server thread/INFO]: <LongLogan2, Northern Alliance> its not looking good bois
-[02:55:01] [Server thread/INFO]: <King th0nk, Old Kingdom> how deep are you
-[02:55:03] [Server thread/INFO]: <King th0nk, Old Kingdom> are you reachable
-[02:55:14] [Server thread/INFO]: <LongLogan2, Northern Alliance> i found a trail of leaves
-[02:55:19] [Server thread/INFO]: <King th0nk, Old Kingdom> that's a good sign
-[02:55:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/224640, l='world', x=271.13, y=54.00, z=-169.80]
-[02:55:24] [Server thread/INFO]: <LongLogan2, Northern Alliance> they gottaq lead somewhere
-[02:55:28] [Server thread/INFO]: <King th0nk, Old Kingdom> might be from when kolby got lost deep
-[02:55:32] [Server thread/INFO]: <King th0nk, Old Kingdom> i banished him
-[02:55:39] [Server thread/INFO]: <King th0nk, Old Kingdom> to the underworld
-[02:55:43] [Server thread/INFO]: <9abe, Ethegary Dominion> deep in you are MOM
-[02:55:48] [Server thread/INFO]: <LongLogan2, Northern Alliance> OOHHHH
-[02:55:51] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> OOOOOOOOOOOOOOH
-[02:55:54] [Server thread/INFO]: <King th0nk, Old Kingdom> doinn ya mom doin doin ya maomm
-[02:55:55] [Server thread/INFO]: <9abe, Ethegary Dominion> xDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD :3 :p :0 >_<
-[02:55:57] [Server thread/INFO]: <LongLogan2, Northern Alliance> YEAH SHORT BOY
-[02:56:17] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I just wanna say
-[02:56:23] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I tower over gabe irl
-[02:56:25] [Server thread/INFO]: <King th0nk, Old Kingdom> that you are super gay
-[02:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[02:56:33] [Server thread/INFO]: <9abe, Ethegary Dominion> bro you're 7 feet
-[02:56:41] [Server thread/INFO]: <9abe, Ethegary Dominion> wdym BRANDOn
-[02:56:44] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yes i am
-[02:56:50] [Server thread/INFO]: <King th0nk, Old Kingdom> imagine bragging about your height in a minecraft server with strangers
-[02:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
-[02:56:56] [Server thread/INFO]: <9abe, Ethegary Dominion> shut up
-[02:56:57] [Server thread/INFO]: <9abe, Ethegary Dominion> freshie
-[02:57:01] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yeah
-[02:57:03] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> freshie
-[02:57:03] [Server thread/INFO]: <9abe, Ethegary Dominion> shut up
-[02:57:06] [Server thread/INFO]: LongLogan2 lost connection: Timed out
-[02:57:06] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[02:57:07] [Server thread/INFO]: [King th0nk, Old Kingdom: Showing new title for 3 players]
-[02:57:07] [Server thread/INFO]: <9abe, Ethegary Dominion> sophmore
-[02:57:13] [Server thread/INFO]: <9abe, Ethegary Dominion> you're just fresie 2.0
-[02:57:16] [Server thread/INFO]: <9abe, Ethegary Dominion> freshie
-[02:57:25] [Server thread/INFO]: <King th0nk, Old Kingdom> supid freshman can't even spell
-[02:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[02:58:04] [User Authenticator #24/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[02:58:04] [Server thread/INFO]: LongLogan2[/67.168.91.76:54026] logged in with entity id 226065 at (375.8529960554151, 94.0, 334.5)
-[02:58:04] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[02:58:52] [Server thread/INFO]: <King th0nk, Old Kingdom> wb
-[02:59:03] [Server thread/INFO]: <9abe, Ethegary Dominion> welcome back
-[02:59:13] [Server thread/INFO]: <LongLogan2, Northern Alliance> thx
-[02:59:35] [Server thread/INFO]: <LongLogan2, Northern Alliance> going through a nether portal was too much for my cpu to handle i guess
-[02:59:40] [Server thread/INFO]: <King th0nk, Old Kingdom> lmaooo
-[02:59:48] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> f
-[02:59:57] [Server thread/INFO]: <9abe, Ethegary Dominion> bro just make another nether portal
-[03:00:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:01:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/228210, l='world', x=269.55, y=54.00, z=-169.40]
-[03:01:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/228236, l='world', x=320.53, y=66.00, z=-165.17]
-[03:02:19] [Server thread/INFO]: <LongLogan2, Northern Alliance> i bought a car todasy
-[03:02:22] [Server thread/INFO]: <LongLogan2, Northern Alliance> so thats epic
-[03:02:23] [Server thread/INFO]: <King th0nk, Old Kingdom> oh yeah
-[03:02:24] [Server thread/INFO]: <9abe, Ethegary Dominion> nice
-[03:02:24] [Server thread/INFO]: <King th0nk, Old Kingdom> what is it
-[03:02:31] [Server thread/INFO]: <LongLogan2, Northern Alliance> 2007 Xterra
-[03:02:35] [Server thread/INFO]: <King th0nk, Old Kingdom> oh nice
-[03:02:53] [Server thread/INFO]: <LongLogan2, Northern Alliance> yeah its stick so i gotta learn to drive stick real quick
-[03:02:59] [Server thread/INFO]: <9abe, Ethegary Dominion> oh... a stick ;)))
-[03:03:00] [Server thread/INFO]: <King th0nk, Old Kingdom> pussy
-[03:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
-[03:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[03:06:50] [Server thread/INFO]: <LongLogan2, Northern Alliance> are you in birchstead elliot
-[03:06:57] [Server thread/INFO]: <King th0nk, Old Kingdom> yeah i'm in the field killin mobs
-[03:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
-[03:07:10] [Server thread/INFO]: <LongLogan2, Northern Alliance> ah youre so short i must not of seen ya
-[03:07:22] [Server thread/INFO]: <9abe, Ethegary Dominion> yea lil mousey boy
-[03:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2950ms or 59 ticks behind
-[03:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
-[03:07:50] [Server thread/INFO]: <LongLogan2, Northern Alliance> you should install a rail system into the keep
-[03:07:57] [Server thread/INFO]: <King th0nk, Old Kingdom> that's' a good idea
-[03:08:03] [Server thread/INFO]: <King th0nk, Old Kingdom> come see the new parts
-[03:08:07] [Server thread/INFO]: <LongLogan2, Northern Alliance> one sec
-[03:08:08] [Server thread/INFO]: <King th0nk, Old Kingdom> beyond the first wall
-[03:08:13] [Server thread/INFO]: <King th0nk, Old Kingdom> k
-[03:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
-[03:09:01] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> brb
-[03:09:03] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[03:09:03] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[03:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[03:09:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/231810, l='world', x=477.13, y=24.00, z=109.00]
-[03:10:27] [Server thread/INFO]: <King th0nk, Old Kingdom> greetings
-[03:10:32] [Server thread/INFO]: <LongLogan2, Northern Alliance> hola
-[03:10:40] [Server thread/INFO]: <9abe, Ethegary Dominion> wb
-[03:11:12] [Server thread/INFO]: <King th0nk, Old Kingdom> just started this afternoon but
-[03:11:23] [Server thread/INFO]: <King th0nk, Old Kingdom> will be lining the coast with little places
-[03:11:41] [Server thread/INFO]: <LongLogan2, Northern Alliance> high quality workmanship
-[03:11:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/232459, l='world', x=321.77, y=66.00, z=-167.00]
-[03:11:54] [Server thread/INFO]: <King th0nk, Old Kingdom> thank you
-[03:12:00] [Server thread/INFO]: <King th0nk, Old Kingdom> what do you think of the new tower designs
-[03:12:08] [Server thread/INFO]: <LongLogan2, Northern Alliance> a style i am not adept in but one i admire
-[03:12:13] [Server thread/INFO]: <King th0nk, Old Kingdom> epic
-[03:12:26] [Server thread/INFO]: <LongLogan2, Northern Alliance> this is nice
-[03:12:39] [Server thread/INFO]: <LongLogan2, Northern Alliance> ooh
-[03:12:51] [Server thread/INFO]: <King th0nk, Old Kingdom> i haven't really done interiors yet
-[03:12:59] [Server thread/INFO]: <King th0nk, Old Kingdom> but the exteriors were in desperate need
-[03:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
-[03:13:32] [Server thread/INFO]: <King th0nk, Old Kingdom> okay i'm gonna dip for a bit because i gotta drive home but
-[03:13:40] [Server thread/INFO]: <King th0nk, Old Kingdom> i will be back soon
-[03:13:41] [Server thread/INFO]: <9abe, Ethegary Dominion> okie
-[03:13:42] [Server thread/INFO]: <LongLogan2, Northern Alliance> kk
-[03:13:43] [Server thread/INFO]: th0nk lost connection: Disconnected
-[03:13:43] [Server thread/INFO]: King th0nk, Old Kingdom left the game
-[03:15:50] [Server thread/INFO]: <LongLogan2, Northern Alliance> yo
-[03:15:53] [Server thread/INFO]: <9abe, Ethegary Dominion> afk
-[03:15:56] [Server thread/INFO]: <9abe, Ethegary Dominion> sike
-[03:16:08] [Server thread/INFO]: <9abe, Ethegary Dominion> so wyd
-[03:16:08] [Server thread/INFO]: <LongLogan2, Northern Alliance> do yall have nether brick i can use
-[03:16:14] [Server thread/INFO]: <9abe, Ethegary Dominion> we don't have any
-[03:16:17] [Server thread/INFO]: <LongLogan2, Northern Alliance> oof
-[03:16:20] [Server thread/INFO]: <9abe, Ethegary Dominion> sorri
-[03:16:23] [Server thread/INFO]: <LongLogan2, Northern Alliance> all good
-[03:16:37] [Server thread/INFO]: <LongLogan2, Northern Alliance> if you wanna check out thaty cathedral sometime its just north of here i think
-[03:17:22] [Server thread/INFO]: <LongLogan2, Northern Alliance> whoah
-[03:17:26] [Server thread/INFO]: <LongLogan2, Northern Alliance> livotic castle
-[03:17:29] [Server thread/INFO]: <LongLogan2, Northern Alliance> this is dope
-[03:19:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/234030, l='world', x=318.70, y=66.00, z=-167.08]
-[03:21:48] [Server thread/INFO]: <LongLogan2, Northern Alliance> who tf is bilding this house on top of the mountain
-[03:21:51] [Server thread/INFO]: <LongLogan2, Northern Alliance> this look awful
-[03:22:00] [Server thread/INFO]: <9abe, Ethegary Dominion> his name is monte
-[03:22:12] [Server thread/INFO]: <9abe, Ethegary Dominion> also sorry im afk
-[03:22:16] [Server thread/INFO]: <LongLogan2, Northern Alliance> we should kick him
-[03:22:18] [Server thread/INFO]: <LongLogan2, Northern Alliance> all goofd
-[03:22:42] [Server thread/INFO]: <9abe, Ethegary Dominion> anyways livotic castle is Rogues' clan land
-[03:22:49] [Server thread/INFO]: <9abe, Ethegary Dominion> if you get what i mean
-[03:22:52] [Server thread/INFO]: <LongLogan2, Northern Alliance> yeah
-[03:22:59] [Server thread/INFO]: <9abe, Ethegary Dominion> anyways the building on the mountain
-[03:23:04] [Server thread/INFO]: <9abe, Ethegary Dominion> monte says he's still working on it
-[03:23:06] [Server thread/INFO]: <LongLogan2, Northern Alliance> it comes right up onto the border of my land
-[03:23:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/234941, l='world', x=320.80, y=66.00, z=-167.17]
-[03:23:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[03:23:31] [Server thread/INFO]: <9abe, Ethegary Dominion> o'
-[03:24:02] [Server thread/INFO]: LongLogan2 lost connection: Disconnected
-[03:24:02] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[03:24:05] [Server thread/INFO]: 9abe lost connection: Disconnected
-[03:24:05] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
-[05:05:59] [User Authenticator #25/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[05:05:59] [Server thread/INFO]: th0nk[/98.225.10.172:55176] logged in with entity id 235206 at (256.38347514175314, 75.0, 0.6919280025164917)
-[05:05:59] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
-[05:07:45] [Server thread/INFO]: th0nk lost connection: Timed out
-[05:07:45] [Server thread/INFO]: King th0nk, Old Kingdom left the game
-[05:17:01] [User Authenticator #26/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[05:17:01] [Server thread/INFO]: Seki_Kun[/98.192.156.26:56468] logged in with entity id 235850 at (4752.0829744273915, 64.0, 5539.536675830286)
-[05:17:01] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[05:34:14] [Server thread/INFO]: Seki_Kun, Ethegary Dominion burned to death
-[05:37:22] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> 4784, 5519
-[05:52:33] [Server thread/INFO]: Seki_Kun, Ethegary Dominion has made the advancement [What a Deal!]
-[06:12:08] [Server thread/INFO]: Seki_Kun, Ethegary Dominion has made the advancement [Enchanter]
-[06:46:56] [Server thread/INFO]: Seki_Kun, Ethegary Dominion has made the advancement [Not Today, Thank You]
-[06:47:51] [Server thread/INFO]: Seki_Kun, Ethegary Dominion has made the advancement [Voluntary Exile]
-[06:55:45] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was slain by Vindicator
-[07:02:02] [Server thread/INFO]: Seki_Kun, Ethegary Dominion hit the ground too hard whilst trying to escape Ravager
-[07:04:19] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was shot by Skeleton
-[07:05:43] [Server thread/INFO]: Seki_Kun, Ethegary Dominion fell from a high place
-[08:15:45] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[08:15:45] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[16:29:53] [User Authenticator #27/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[16:29:53] [Server thread/INFO]: Seki_Kun[/98.192.156.26:60855] logged in with entity id 269649 at (4756.913846292249, 72.0, 5542.78035336607)
-[16:29:53] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[16:31:40] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[16:31:40] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[16:54:27] [User Authenticator #28/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[16:54:27] [Server thread/INFO]: Seki_Kun[/98.192.156.26:60935] logged in with entity id 270095 at (4743.725014080599, 74.0, 5521.021322675008)
-[16:54:27] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[17:17:19] [User Authenticator #29/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
-[17:17:19] [Server thread/INFO]: 9abe[/71.220.250.59:54431] logged in with entity id 273692 at (289.30912425433104, 60.0, -160.28681520227076)
-[17:17:19] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
-[17:17:24] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yo
-[17:17:56] [Server thread/INFO]: <9abe, Ethegary Dominion> hey
-[17:18:23] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> oof pick just broke
-[17:18:26] [Server thread/INFO]: <9abe, Ethegary Dominion> rip
-[17:20:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/275008, l='world', x=270.33, y=54.00, z=-168.83]
-[17:23:39] [Server thread/INFO]: <9abe, Ethegary Dominion> have you found the end yet
-[17:23:50] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> nah
-[17:23:52] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Not looking
-[17:24:33] [Server thread/INFO]: <9abe, Ethegary Dominion> kk
-[17:32:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/278796, l='world', x=320.97, y=66.00, z=-165.23]
-[17:33:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/279082, l='world', x=270.56, y=54.00, z=-170.37]
-[17:36:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/279781, l='world', x=320.54, y=66.00, z=-164.83]
-[17:37:40] [Server thread/INFO]: Seki_Kun, Ethegary Dominion has completed the challenge [Return to Sender]
-[17:37:45] [Server thread/INFO]: <9abe, Ethegary Dominion> nice
-[17:37:46] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> aaYYYYY
-[17:37:48] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Finally
-[17:37:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/280394, l='world', x=318.43, y=66.00, z=-167.58]
-[17:40:45] [Server thread/INFO]: Seki_Kun, Ethegary Dominion fell from a high place
-[17:40:48] [Server thread/INFO]: <9abe, Ethegary Dominion> f
-[17:40:51] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> MOTHER FUCKER
-[17:40:57] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> MY DIAMONDS
-[17:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
-[17:46:08] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Okay
-[17:46:14] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I found out what I lost to lava
-[17:46:23] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I had a stack of leather
-[17:46:27] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Now that's gone
-[17:46:27] [Server thread/INFO]: <9abe, Ethegary Dominion> rip
-[17:46:30] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> >:(
-[17:46:42] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Also my diamond hoe is gone too
-[17:46:47] [Server thread/INFO]: <9abe, Ethegary Dominion> f
-[17:46:49] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> and my boots
-[17:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
-[17:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
-[17:55:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/285629, l='world', x=321.64, y=66.00, z=-166.78]
-[17:56:12] [Server thread/INFO]: Seki_Kun, Ethegary Dominion burned to death
-[17:57:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/286367, l='world', x=321.62, y=66.00, z=-166.77]
-[17:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
-[18:01:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/287331, l='world', x=318.19, y=66.00, z=-164.83]
-[18:03:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/288108, l='world', x=322.74, y=66.00, z=-167.31]
-[18:17:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/291969, l='world', x=318.47, y=66.00, z=-165.29]
-[18:18:08] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was slain by Enderman
-[18:19:39] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[18:19:39] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[18:20:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/292605, l='world', x=320.94, y=66.00, z=-167.59]
-[18:24:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/293072, l='world', x=323.17, y=66.00, z=-166.12]
-[18:25:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/293136, l='world', x=321.64, y=66.00, z=-164.83]
-[18:25:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/293177, l='world', x=269.71, y=54.00, z=-167.89]
-[18:34:39] [Server thread/INFO]: 9abe lost connection: Disconnected
-[18:34:39] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
-[18:36:56] [User Authenticator #30/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
-[18:36:56] [Server thread/INFO]: 9abe[/71.220.250.59:54754] logged in with entity id 294065 at (298.0911679968474, 61.875, -153.7427753635704)
-[18:36:56] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
-[18:40:43] [Server thread/WARN]: 9abe moved wrongly!
-[18:47:56] [User Authenticator #31/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[18:47:56] [Server thread/INFO]: Seki_Kun[/98.192.156.26:61875] logged in with entity id 296095 at (4752.477158594623, 73.5, 5539.027999704687)
-[18:47:56] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[18:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
-[18:50:00] [Server thread/INFO]: <9abe, Ethegary Dominion> wb
-[18:50:05] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yod
-[18:50:08] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> a
-[18:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[18:58:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[19:02:56] [Server thread/INFO]: <9abe, Ethegary Dominion> do you think northern alliance has eye of ender
-[19:03:04] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> maybe
-[19:03:08] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I have 3 rn
-[19:03:10] [Server thread/INFO]: <9abe, Ethegary Dominion> do you have
-[19:03:10] [Server thread/INFO]: <9abe, Ethegary Dominion> o
-[19:03:16] [Server thread/INFO]: <9abe, Ethegary Dominion> wanna meet at spawn
-[19:03:25] [Server thread/INFO]: <9abe, Ethegary Dominion> can i have 2 for 5 dia
-[19:03:27] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> not rn
-[19:03:29] [Server thread/INFO]: <9abe, Ethegary Dominion> kk
-[19:03:42] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> and you can have all of them for 5
-[19:03:45] [Server thread/INFO]: <9abe, Ethegary Dominion> o
-[19:03:48] [Server thread/INFO]: <9abe, Ethegary Dominion> kk
-[19:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
-[19:03:51] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I don't really have a use for 'em
-[19:03:58] [Server thread/INFO]: <9abe, Ethegary Dominion> kk
-[19:04:14] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> rn I'm grinding levels for enchants
-[19:04:23] [Server thread/INFO]: <9abe, Ethegary Dominion> i see
-[19:08:50] [Server thread/WARN]: 9abe moved too quickly! 1.2497473642963541,-2.5,9.693176727122477
-[19:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
-[19:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
-[19:15:19] [Server thread/INFO]: <9abe, Ethegary Dominion> brb
-[19:15:20] [Server thread/INFO]: 9abe lost connection: Disconnected
-[19:15:20] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
-[20:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
-[20:12:56] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was slain by Zombie Pigman
-[20:13:03] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was slain by Zombie Pigman
-[20:14:20] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/314636, l='world', x=584.01, y=71.03, z=694.50]
-[20:15:12] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[20:15:12] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[20:15:29] [User Authenticator #32/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[20:15:30] [Server thread/INFO]: Seki_Kun[/98.192.156.26:53063] logged in with entity id 314713 at (583.3000000119209, 71.5753455594904, 692.6999999880791)
-[20:15:30] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[20:15:55] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was slain by Zombie Pigman
-[20:16:43] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was slain by Zombie Pigman
-[20:33:38] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[20:33:38] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[20:45:20] [User Authenticator #33/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[20:45:20] [Server thread/INFO]: Seki_Kun[/98.192.156.26:53255] logged in with entity id 317884 at (659.1332158298617, 60.5, 891.7210225171655)
-[20:45:20] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[20:54:07] [Server thread/WARN]: Fetching packet for removed entity atx['Netherrack'/319217, l='world', x=4755.60, y=73.00, z=5546.19]
-[20:57:41] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[20:57:41] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[20:57:56] [User Authenticator #34/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[20:57:56] [Server thread/INFO]: Seki_Kun[/98.192.156.26:53365] logged in with entity id 319807 at (642.1238908140189, 44.14441316887842, 766.3054153076607)
-[20:57:56] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[20:57:57] [Server thread/INFO]: Seki_Kun, Ethegary Dominion fell from a high place
-[21:09:48] [User Authenticator #35/INFO]: UUID of player 9abe is c070391a-158f-46ba-9fd5-538f75c0e5d3
-[21:09:48] [Server thread/INFO]: 9abe[/71.220.250.59:55453] logged in with entity id 323093 at (282.902361064458, 60.0, -162.88905984896505)
-[21:09:48] [Server thread/INFO]: 9abe, Ethegary Dominion joined the game
-[21:09:54] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yo
-[21:09:57] [Server thread/INFO]: <9abe, Ethegary Dominion> hey
-[21:10:04] [Server thread/INFO]: <9abe, Ethegary Dominion> ima be on for a few secs and leave
-[21:10:11] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[21:10:31] [Server thread/INFO]: <9abe, Ethegary Dominion> gtg
-[21:10:33] [Server thread/INFO]: 9abe lost connection: Disconnected
-[21:10:33] [Server thread/INFO]: 9abe, Ethegary Dominion left the game
-[21:10:34] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[21:19:08] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[21:19:08] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[21:42:41] [User Authenticator #36/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[21:42:41] [Server thread/INFO]: Seki_Kun[/98.192.156.26:53607] logged in with entity id 325019 at (4759.299999974668, 72.0000002, 5536.299999974668)
-[21:42:41] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[21:43:43] [Server thread/INFO]: Seki_Kun, Ethegary Dominion burned to death
-[21:48:38] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[21:48:38] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[21:49:47] [User Authenticator #37/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[21:49:47] [Server thread/INFO]: Seki_Kun[/98.192.156.26:53743] logged in with entity id 326361 at (4751.858000431736, 64.0, 5542.524043028902)
-[21:49:47] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[21:57:32] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[21:57:32] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[23:11:04] [User Authenticator #38/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[23:11:05] [Server thread/INFO]: EthMC[/95.127.94.167:54773] logged in with entity id 327738 at (1755.3575938962038, 40.0, -451.3426087917978)
-[23:11:05] [Server thread/INFO]: EthMC, Rogues joined the game
-[23:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
-[23:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[23:19:06] [User Authenticator #39/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[23:19:06] [Server thread/INFO]: Seki_Kun[/98.192.156.26:54700] logged in with entity id 330920 at (534.9030602430331, 83.0, 651.2668511557371)
-[23:19:06] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[23:19:12] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yo
-[23:19:15] [Server thread/INFO]: <EthMC, Rogues> yo
-[23:19:26] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> do you have any slime?
-[23:19:30] [Server thread/INFO]: <EthMC, Rogues> nope
-[23:19:33] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> oof
-[23:24:02] [Server thread/WARN]: EthMC moved too quickly! -9.217981443369581,1.0,3.941592407860526
-[23:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
-[23:25:54] [Server thread/INFO]: <EthMC, Rogues> Can you sleep?
-[23:25:59] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> In the nether
-[23:26:02] [Server thread/INFO]: <EthMC, Rogues> oh
-[23:28:28] [User Authenticator #40/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[23:28:28] [Server thread/INFO]: th0nk[/98.225.10.172:58762] logged in with entity id 333375 at (269.72100303230445, 76.0, 28.402998018094024)
-[23:28:28] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
-[23:28:31] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yo
-[23:28:31] [Server thread/INFO]: <EthMC, Rogues> hey
-[23:28:34] [Server thread/INFO]: <King th0nk, Old Kingdom> hello gamers
-[23:28:43] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Do you have any slime?
-[23:28:48] [Server thread/INFO]: <King th0nk, Old Kingdom> yeah
-[23:28:51] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> how much?
-[23:28:54] [Server thread/INFO]: <King th0nk, Old Kingdom> a lot
-[23:29:06] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> okay can I buy some?
-[23:29:06] [Server thread/WARN]: th0nk moved too quickly! 6.923489898642401,-0.84766481314945,7.467563828770928
-[23:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
-[23:29:11] [Server thread/INFO]: <King th0nk, Old Kingdom> yeah
-[23:29:13] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I need 33 slimeballs
-[23:29:17] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> or 34
-[23:29:28] [Server thread/INFO]: <King th0nk, Old Kingdom> okay lemme check the inventory and get back to you
-[23:29:32] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[23:30:24] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/334522, l='world', x=4756.40, y=73.00, z=5546.88]
-[23:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[23:30:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
-[23:30:51] [Server thread/INFO]: <King th0nk, Old Kingdom> LMAOOOOO
-[23:31:00] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> ?
-[23:31:01] [Server thread/INFO]: <King th0nk, Old Kingdom> I JUST WALKED INTO MY VILLAGER FARM AND A RAID STARTED
-[23:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[23:31:08] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> HAHAHAHAHAHAHHAHAHHA
-[23:31:19] [Server thread/INFO]: <King th0nk, Old Kingdom> i need to go above ground haha
-[23:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3601ms or 72 ticks behind
-[23:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
-[23:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[23:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
-[23:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
-[23:32:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
-[23:33:03] [Server thread/INFO]: <King th0nk, Old Kingdom> okay what's your offer for the slime
-[23:33:08] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> uh
-[23:33:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[23:33:12] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> 4 dias?
-[23:33:17] [Server thread/INFO]: <King th0nk, Old Kingdom> aight
-[23:33:29] [Server thread/INFO]: <EthMC, Rogues> We need to make a shop area fam
-[23:33:32] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I'll meet you when I have the 4
-[23:33:35] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Yeah
-[23:33:40] [Server thread/INFO]: <King th0nk, Old Kingdom> i'm working on it
-[23:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[23:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[23:34:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[23:34:41] [Server thread/WARN]: th0nk moved too quickly! 8.9498596267307,0.0,-4.636373110805998
-[23:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
-[23:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[23:35:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
-[23:35:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[23:35:56] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Bro
-[23:35:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
-[23:36:07] [Server thread/INFO]: <King th0nk, Old Kingdom> what
-[23:36:07] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> This skeleton is wearing full enchanted iron armour
-[23:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23:36:28] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> and he didn't even drop any of it
-[23:36:29] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> smh
-[23:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[23:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[23:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[23:38:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[23:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[23:40:07] [Server thread/WARN]: Seki_Kun moved too quickly! -6.192496664957616,6.5,-5.2713857881508375
-[23:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
-[23:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[23:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[23:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23:42:23] [Server thread/INFO]: <EthMC, Rogues> Elliott, the difficulty is on Hard right?
-[23:42:28] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Medium
-[23:42:34] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> *normal
-[23:42:36] [Server thread/INFO]: <EthMC, Rogues> ew
-[23:43:02] [Server thread/INFO]: <King th0nk, Old Kingdom> no it's onhard
-[23:43:06] [Server thread/INFO]: <King th0nk, Old Kingdom> please sleep
-[23:43:09] [Server thread/INFO]: <King th0nk, Old Kingdom> middle of raid'
-[23:43:09] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[23:43:31] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 64 [Arrow] to King th0nk, Old Kingdom]
-[23:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[23:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[23:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[23:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[23:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
-[23:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
-[23:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[23:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[23:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
-[23:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[23:48:15] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> okay I got the diamonds
-[23:48:19] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Where are you?
-[23:48:22] [Server thread/INFO]: <King th0nk, Old Kingdom> still in the raid
-[23:48:25] [Server thread/INFO]: <King th0nk, Old Kingdom> birchstead
-[23:48:27] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
-[23:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[23:48:35] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I'll be heading there
-[23:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
-[23:50:12] [Server thread/INFO]: <King th0nk, Old Kingdom> i can't find the last damn pillager
-[23:50:16] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> F
-[23:50:44] [Server thread/WARN]: Seki_Kun moved too quickly! 0.18307719362172747,-1.130906499714527,-10.082448192998186
-[23:50:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
-[23:51:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[23:52:30] [Server thread/INFO]: <King th0nk, Old Kingdom> i am going to lose my shit
-[23:52:34] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> lmao
-[23:52:42] [Server thread/INFO]: <EthMC, Rogues> f
-[23:55:49] [Server thread/WARN]: Seki_Kun moved too quickly! -0.06446382538717899,-0.20000004768371582,-10.257591689074275
-[23:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3270ms or 65 ticks behind
-[23:56:07] [Server thread/INFO]: <King th0nk, Old Kingdom> please seleep
-[23:56:28] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Can't, in the nether heading toward birchstead
-[23:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[23:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[23:57:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
-[23:58:14] [Server thread/INFO]: <King th0nk, Old Kingdom> holy fuck that was a phat raid
-[23:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[23:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6716ms or 134 ticks behind
+[00:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[00:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:01:17] [Server thread/WARN]: th0nk moved too quickly! -0.7028614402216249,0.7531999805212024,10.028544788349492
+[00:01:17] [Server thread/WARN]: Seki_Kun moved too quickly! -7.929575720182332,-0.4402576975334611,-6.216172136243962
+[00:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6229ms or 124 ticks behind
+[00:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[00:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[00:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
+[00:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
+[00:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[00:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3711ms or 74 ticks behind
+[00:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[00:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:04:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:04:50] [Server thread/INFO]: <King th0nk, Old Kingdom> okay
+[00:04:53] [Server thread/INFO]: <King th0nk, Old Kingdom> uhhh the slime
+[00:04:56] [Server thread/INFO]: <King th0nk, Old Kingdom> wya
+[00:05:12] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> The town center
+[00:05:17] [Server thread/INFO]: <King th0nk, Old Kingdom> omw
+[00:05:20] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> k
+[00:05:41] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> I need 34 btw
+[00:05:46] [Server thread/INFO]: <King th0nk, Old Kingdom> yup
+[00:06:12] [Server thread/INFO]: EthMC lost connection: Disconnected
+[00:06:12] [Server thread/INFO]: EthMC, Rogues left the game
+[00:06:25] [User Authenticator #41/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[00:06:26] [Server thread/INFO]: EthMC[/95.127.94.167:55269] logged in with entity id 349395 at (342.3809616978033, 20.0, -355.4127978675839)
+[00:06:26] [Server thread/INFO]: EthMC, Rogues joined the game
+[00:06:30] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Thanks
+[00:06:31] [Server thread/INFO]: <King th0nk, Old Kingdom> tight
+[00:06:32] [Server thread/INFO]: <King th0nk, Old Kingdom> ye
+[00:06:37] [Server thread/INFO]: <King th0nk, Old Kingdom> brb
+[00:06:38] [Server thread/INFO]: th0nk lost connection: Disconnected
+[00:06:38] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[00:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
+[00:07:46] [Server thread/INFO]: EthMC lost connection: Disconnected
+[00:07:46] [Server thread/INFO]: EthMC, Rogues left the game
+[00:07:59] [User Authenticator #42/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[00:07:59] [Server thread/INFO]: EthMC[/95.127.94.167:55293] logged in with entity id 350427 at (337.9344881839251, 21.5, -353.71963904052654)
+[00:07:59] [Server thread/INFO]: EthMC, Rogues joined the game
+[00:08:13] [User Authenticator #43/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[00:08:13] [Server thread/INFO]: th0nk[/98.225.10.172:55433] logged in with entity id 350588 at (347.0671868734068, 70.0, 65.77281759693336)
+[00:08:13] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[00:09:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[00:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:11:32] [Server thread/INFO]: <EthMC, Rogues> my head hurt
+[00:11:35] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> F
+[00:11:37] [Server thread/INFO]: <King th0nk, Old Kingdom> F
+[00:11:59] [Server thread/WARN]: th0nk moved too quickly! 7.34655701329757,0.2712241076924897,-6.978063101497668
+[00:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4465ms or 89 ticks behind
+[00:12:23] [Server thread/INFO]: EthMC lost connection: Disconnected
+[00:12:23] [Server thread/INFO]: EthMC, Rogues left the game
+[00:12:36] [User Authenticator #44/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[00:12:36] [Server thread/INFO]: EthMC[/95.127.94.167:55352] logged in with entity id 352833 at (342.2860896303762, 20.0, -355.383376539109)
+[00:12:36] [Server thread/INFO]: EthMC, Rogues joined the game
+[00:12:42] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Bad internet?
+[00:12:46] [Server thread/INFO]: <EthMC, Rogues> ye
+[00:12:49] [Server thread/INFO]: <EthMC, Rogues> it's acting up
+[00:12:50] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Rip
+[00:15:40] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 128 [Arrow] to King th0nk, Old Kingdom]
+[00:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[00:16:37] [Server thread/INFO]: King th0nk, Old Kingdom has made the advancement [Who's the Pillager Now?]
+[00:16:45] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> nice
+[00:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4637ms or 92 ticks behind
+[00:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:18:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:19:10] [Server thread/INFO]: <King th0nk, Old Kingdom> brb
+[00:19:12] [Server thread/INFO]: th0nk lost connection: Disconnected
+[00:19:12] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[00:22:13] [Server thread/WARN]: Seki_Kun moved too quickly! 10.102157469449537,0.0,-0.014070893258299577
+[00:22:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[00:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:33:03] [User Authenticator #45/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[00:33:03] [Server thread/INFO]: th0nk[/98.225.10.172:53160] logged in with entity id 362407 at (1768.2830998415257, 76.0, 166.7401033365673)
+[00:33:03] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[00:33:10] [Server thread/INFO]: <King th0nk, Old Kingdom> asdf
+[00:33:15] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> movie
+[00:36:26] [Server thread/INFO]: [King th0nk, Old Kingdom: Teleported King th0nk, Old Kingdom to 321.5, 64.0, 64.5]
+[00:36:31] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[00:37:05] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[00:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
+[00:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
+[00:44:44] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:44:48] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:44:48] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:44:49] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:44:49] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:45:01] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:45:01] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:45:01] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:45:02] [Server thread/INFO]: [King th0nk, Old Kingdom: Summoned new Iron Golem]
+[00:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[00:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4741ms or 94 ticks behind
+[00:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[00:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[00:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[00:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4824ms or 96 ticks behind
+[00:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
+[00:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5569ms or 111 ticks behind
+[00:50:32] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Lmao bugged
+[00:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4837ms or 96 ticks behind
+[00:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3560ms or 71 ticks behind
+[00:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3421ms or 68 ticks behind
+[00:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
+[00:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5172ms or 103 ticks behind
+[00:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3416ms or 68 ticks behind
+[00:52:31] [User Authenticator #46/INFO]: UUID of player luumberjack212 is e9ff72c4-0702-4458-b252-7da8af039111
+[00:52:31] [Server thread/INFO]: luumberjack212[/81.98.162.238:60839] logged in with entity id 373619 at (351.3352042816283, 106.0, -473.7619845234956)
+[00:52:31] [Server thread/INFO]: luumberjack212, Rogues joined the game
+[00:52:34] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Yo
+[00:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4710ms or 94 ticks behind
+[00:52:47] [Server thread/INFO]: <luumberjack212, Rogues> yerrr
+[00:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15902ms or 318 ticks behind
+[00:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10628ms or 212 ticks behind
+[00:53:44] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[00:53:49] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[00:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8474ms or 169 ticks behind
+[00:54:03] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> brb
+[00:54:04] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
+[00:54:04] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.047285596369818,0.0,0.246172904530912
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.202207025666468,0.0,0.24997339397165774
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.341636308339844,0.0,0.253393834377718
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.46712265942162,0.0,0.25647223066162184
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.580060372403409,0.0,0.2592427872437426
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.681704311394355,0.0,0.261736288101595
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.773183854062836,0.0,0.26398043881421174
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.855515440283426,0.0,0.2660001744020626
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.92961386591901,0.0,0.2678179363829756
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.996302447224394,0.0,0.2694539221224588
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.05632216880926,0.0,0.2709263092489884
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.110339916804662,0.0,0.2722514576277604
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.158955888712654,0.0,0.2734440911370619
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.202710262270728,0.0,0.27451746126699916
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.242089197429806,0.0,0.27548349435835107
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.27753023813412,0.0,0.27635292411753554
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.309427173923012,0.0,0.27713541088007076
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.338134415372537,0.0,0.2778396489476975
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.363970931992668,0.0,0.2784734631917729
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.387223796334808,0.0,0.2790438959963275
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.408151373688355,0.0,0.2795572855068258
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.42698619280759,0.0,0.2800193360540355
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.44393752956583,0.0,0.28043518153550906
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.459193732244103,0.0,0.2808094424589207
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.472924314290822,0.0,0.2811462772810671
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.485281837805502,0.0,0.2814494286129694
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -11.496403608674086,0.0,0.28172226480445417
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.181529500157382,0.0,-0.3864461106825452
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.548137094563714,0.0,-0.4841539701394453
+[00:54:17] [Server thread/WARN]: Boat (vehicle of th0nk) moved too quickly! -10.190603458505933,0.0,-0.37984482814246334
+[00:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11219ms or 224 ticks behind
+[00:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[00:55:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3335ms or 66 ticks behind
+[00:55:12] [User Authenticator #47/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[00:55:13] [Server thread/INFO]: th0nk lost connection: You logged in from another location
+[00:55:13] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[00:55:13] [Server thread/WARN]: handleDisconnection() called twice
+[00:55:13] [Server thread/INFO]: th0nk[/98.225.10.172:53260] logged in with entity id 375646 at (-20.435579176175224, 63.1007571743034, -88.47194669279878)
+[00:55:13] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[00:55:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4802ms or 96 ticks behind
+[00:55:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[00:55:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[00:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[00:56:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7837ms or 156 ticks behind
+[00:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
+[00:57:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[00:57:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[00:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[00:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:58:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[00:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[00:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[00:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[00:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
+[00:59:51] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/378228, l='world', x=453.14, y=25.85, z=101.52]
+[01:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6834ms or 136 ticks behind
+[01:00:26] [Server thread/WARN]: th0nk moved too quickly! 10.058057669679442,-2.0,0.455722056834702
+[01:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9931ms or 198 ticks behind
+[01:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7734ms or 154 ticks behind
+[01:01:09] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 3 [Heart of the Sea] to King th0nk, Old Kingdom]
+[01:01:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6969ms or 139 ticks behind
+[01:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
+[01:02:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
+[01:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5198ms or 103 ticks behind
+[01:02:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5120ms or 102 ticks behind
+[01:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6033ms or 120 ticks behind
+[01:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[01:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[01:06:22] [Server thread/WARN]: luumberjack212 moved too quickly! 0.04126899087498259,0.0,10.144100524883015
+[01:06:22] [Server thread/WARN]: EthMC moved too quickly! -3.6609744807559537,5.756759288177264,-7.545932775801646
+[01:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[01:06:59] [User Authenticator #48/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
+[01:06:59] [Server thread/INFO]: Seki_Kun[/98.192.156.26:59170] logged in with entity id 382142 at (4760.180482127041, 63.0, 5480.931899374095)
+[01:06:59] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
+[01:07:06] [Server thread/INFO]: <King th0nk, Old Kingdom> wb
+[01:07:10] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> thanks
+[01:07:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:07:53] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 128 [Rail] to King th0nk, Old Kingdom]
+[01:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:08:07] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 64 [Powered Rail] to King th0nk, Old Kingdom]
+[01:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01:09:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[01:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:10:35] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 128 [Rail] to King th0nk, Old Kingdom]
+[01:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:11:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[01:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[01:11:53] [Server thread/WARN]: luumberjack212 moved too quickly! -6.1199142342941855,0.0,-8.224394332123097
+[01:11:56] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
+[01:11:56] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
+[01:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[01:13:44] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 32 [Redstone Torch] to King th0nk, Old Kingdom]
+[01:15:54] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[01:16:01] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[01:17:52] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[01:18:14] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[01:19:27] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 1 [Chest] to King th0nk, Old Kingdom]
+[01:19:36] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 1 [Chest] to King th0nk, Old Kingdom]
+[01:19:41] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[01:20:05] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[01:21:56] [Server thread/WARN]: th0nk moved too quickly! -10.086996727157157,0.6709083839322858,-2.3283583390185143
+[01:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[01:23:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/391818, l='world', x=323.17, y=66.00, z=-165.29]
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:24:31] [Server thread/ERROR]: Can't find any space for item in the inventory
+[01:26:34] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 128 [TNT] to King th0nk, Old Kingdom]
+[01:26:39] [Server thread/INFO]: [King th0nk, Old Kingdom: Gave 1 [Flint and Steel] to King th0nk, Old Kingdom]
+[01:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[01:28:55] [Server thread/INFO]: <EthMC, Rogues> Good morning and welcome to the Black Mesa Transit System. This automated train is provided for the security and convenience of employees of the Black Mesa Research Facility personnel.
+[01:28:56] [Server thread/INFO]: <EthMC, Rogues> Please feel free to move about the train or simply sit back and enjoy the ride.
+[01:29:02] [Server thread/INFO]: <luumberjack212, Rogues> lmao
+[01:29:08] [Server thread/INFO]: <EthMC, Rogues> The time is 8:47 AM. Current topside temperature is 93 degrees, with an estimated high of one hundred and five. The Black Mesa compound is maintained at a pleasant 68 degrees at all times.
+[01:29:24] [Server thread/INFO]: <EthMC, Rogues> This train is inbound from Level 3 dormitories to Sector C Test Labs and Control Facilities. If your intended destination is a high-security area beyond Sector C, you will need to return to the Central Transit hub in Area 9 and board a high-security train.
+[01:29:33] [Server thread/INFO]: <EthMC, Rogues> If you have not yet submitted your identity to the retinal clearance system, you must report to Black Mesa Personnel for processing before you will be permitted into the high-security branch of the transit system.
+[01:30:40] [Server thread/INFO]: th0nk lost connection: Disconnected
+[01:30:40] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[01:30:47] [Server thread/INFO]: <EthMC, Rogues> Outbreak, outbreak, outbreak!
+[01:31:11] [User Authenticator #49/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[01:31:11] [Server thread/INFO]: th0nk[/98.225.10.172:53536] logged in with entity id 394257 at (328.14688578960755, 63.0, -195.25322104630823)
+[01:31:11] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[01:32:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/394493, l='world', x=321.80, y=66.00, z=-166.64]
+[01:34:20] [Server thread/WARN]: th0nk moved too quickly! 0.31716170643341,-1.2491870787446828,-10.00337080444288
+[01:36:39] [Server thread/INFO]: <EthMC, Rogues> Major fracture detected. Morphine administered.
+[01:37:06] [Server thread/INFO]: <EthMC, Rogues> Why do we all have to wear these ridiculous ties?
+[01:37:56] [Server thread/INFO]: <EthMC, Rogues> sv_cheats 1
+[01:38:00] [Server thread/INFO]: <EthMC, Rogues> map c1a0
+[01:38:04] [Server thread/INFO]: <EthMC, Rogues> god
+[01:38:09] [Server thread/INFO]: <EthMC, Rogues> impulse 101
+[01:38:09] [Server thread/INFO]: <luumberjack212, Rogues> kick toni
+[01:38:33] [Server thread/INFO]: <EthMC, Rogues> This is madness, I'm getting out of here!
+[01:38:34] [Server thread/INFO]: EthMC lost connection: Disconnected
+[01:38:34] [Server thread/INFO]: EthMC, Rogues left the game
+[01:38:48] [User Authenticator #50/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[01:38:48] [Server thread/INFO]: EthMC[/95.127.94.167:53182] logged in with entity id 396776 at (342.305313185422, 20.0, -355.4551919623875)
+[01:38:48] [Server thread/INFO]: EthMC, Rogues joined the game
+[01:41:59] [Server thread/WARN]: EthMC moved too quickly! 0.013505624569916108,-0.21316806111997977,10.218973452726573
+[01:42:36] [Server thread/WARN]: th0nk moved too quickly! 0.18365831473425942,0.07840000152587834,10.44610933070129
+[01:47:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/399625, l='world', x=321.71, y=66.00, z=-168.17]
+[01:57:00] [Server thread/WARN]: EthMC moved too quickly! 4.776362579055046,0.7967356006687041,8.944044148840419
+[01:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[01:57:00] [Server thread/INFO]: th0nk lost connection: Disconnected
+[01:57:00] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[01:59:53] [User Authenticator #51/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[01:59:53] [Server thread/INFO]: th0nk[/98.225.10.172:53672] logged in with entity id 403255 at (352.5242403514634, 69.0, 75.50279754435724)
+[01:59:53] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[02:00:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:00:24] [User Authenticator #52/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
+[02:00:24] [Server thread/INFO]: Seki_Kun[/98.192.156.26:57834] logged in with entity id 403748 at (4844.379601887072, 77.0, 5193.300000011921)
+[02:00:24] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
+[02:00:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:00:47] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Yo
+[02:00:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6081ms or 121 ticks behind
+[02:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
+[02:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
+[02:01:40] [Server thread/INFO]: th0nk lost connection: Disconnected
+[02:01:40] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[02:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[02:02:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[02:02:25] [Server thread/WARN]: EthMC moved too quickly! 0.0,10.235524564396187,0.3833629193129866
+[02:02:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/405425, l='world', x=269.65, y=54.00, z=-167.68]
+[02:03:59] [User Authenticator #53/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[02:04:00] [Server thread/INFO]: th0nk[/98.225.10.172:53842] logged in with entity id 406286 at (353.6926154177345, 69.0, 73.2015596200896)
+[02:04:00] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[02:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02:04:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:05:02] [User Authenticator #54/INFO]: UUID of player Siinyx is dad5051a-ebdf-47ae-9adb-008f8b66b834
+[02:05:03] [Server thread/INFO]: Siinyx[/72.195.137.41:52387] logged in with entity id 407502 at (322.3620318401091, 50.0, -5.747701350547279)
+[02:05:03] [Server thread/INFO]: Siinyx, Ethegary Dominion joined the game
+[02:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02:05:17] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Woah
+[02:05:20] [Server thread/INFO]: [@: Teleported Siinyx, Ethegary Dominion to 0.5, 64.0, 0.5]
+[02:05:21] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> Five people
+[02:05:25] [Server thread/INFO]: <luumberjack212, Rogues> heyo
+[02:05:27] [Server thread/INFO]: <EthMC, Rogues> oh wow
+[02:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[02:05:39] [Server thread/INFO]: <luumberjack212, Rogues> it really poppin hh?
+[02:05:39] [Server thread/INFO]: <Siinyx, Ethegary Dominion> i
+[02:05:47] [Server thread/INFO]: <Siinyx, Ethegary Dominion> hhhhi
+[02:05:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4311ms or 86 ticks behind
+[02:05:53] [Server thread/INFO]: <Siinyx, Ethegary Dominion> thi keyboard gh
+[02:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6154ms or 123 ticks behind
+[02:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[02:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[02:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[02:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
+[02:08:04] [Server thread/WARN]: th0nk moved too quickly! 7.295972175386453,7.5,-0.013973143630977347
+[02:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3800ms or 76 ticks behind
+[02:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:10:20] [Server thread/INFO]: luumberjack212 lost connection: Timed out
+[02:10:20] [Server thread/INFO]: luumberjack212, Rogues left the game
+[02:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6629ms or 132 ticks behind
+[02:10:41] [User Authenticator #55/INFO]: UUID of player luumberjack212 is e9ff72c4-0702-4458-b252-7da8af039111
+[02:10:41] [Server thread/INFO]: luumberjack212[/81.98.162.238:61782] logged in with entity id 411782 at (883.6578895464204, 84.0, -400.5)
+[02:10:41] [Server thread/INFO]: luumberjack212, Rogues joined the game
+[02:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[02:11:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9727ms or 194 ticks behind
+[02:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6556ms or 131 ticks behind
+[02:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6583ms or 131 ticks behind
+[02:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
+[02:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[02:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[02:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[02:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4178ms or 83 ticks behind
+[02:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8041ms or 160 ticks behind
+[02:14:22] [Server thread/WARN]: th0nk moved too quickly! -9.987486830162254,0.37673561378173304,1.4524156255721294
+[02:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17667ms or 353 ticks behind
+[02:14:26] [Server thread/INFO]: luumberjack212 lost connection: Disconnected
+[02:14:26] [Server thread/INFO]: luumberjack212, Rogues left the game
+[02:14:37] [User Authenticator #56/INFO]: UUID of player luumberjack212 is e9ff72c4-0702-4458-b252-7da8af039111
+[02:14:37] [Server thread/INFO]: luumberjack212[/81.98.162.238:61816] logged in with entity id 414927 at (331.94692737672784, 106.0, -470.1458569395526)
+[02:14:37] [Server thread/INFO]: luumberjack212, Rogues joined the game
+[02:14:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4274ms or 85 ticks behind
+[02:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7165ms or 143 ticks behind
+[02:15:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7493ms or 149 ticks behind
+[02:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
+[02:16:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16798ms or 335 ticks behind
+[02:17:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12692ms or 253 ticks behind
+[02:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9925ms or 198 ticks behind
+[02:17:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12594ms or 251 ticks behind
