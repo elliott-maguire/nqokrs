@@ -1,0 +1,15 @@
+{
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2019-09-02 20:52:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2019-09-02 20:52:55 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}

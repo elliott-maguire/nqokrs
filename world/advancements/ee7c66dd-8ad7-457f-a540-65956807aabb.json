@@ -559,7 +559,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-02 02:10:18 +0000"
+      "tick": "2019-09-02 21:03:06 +0000"
     },
     "done": false
   },
@@ -1907,6 +1907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2019-09-02 20:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2019-08-27 04:01:11 +0000"
@@ -3005,6 +3011,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-04-24 02:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2019-09-02 19:58:09 +0000"
     },
     "done": true
   },
