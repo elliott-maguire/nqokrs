@@ -2282,3 +2282,43 @@ Reason: Banned by an operator.
 [22:11:21] [Server thread/INFO]: King th0nk, Old Kingdom left the game
 [22:18:49] [Server thread/INFO]: Seki_Kun, Ethegary Dominion burned to death
 [22:24:09] [Server thread/INFO]: Seki_Kun, Ethegary Dominion fell from a high place
+[23:12:38] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
+[23:12:38] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
+[23:17:28] [User Authenticator #104/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[23:17:28] [Server thread/INFO]: th0nk[/98.225.10.172:52920] logged in with entity id 696962 at (251.28439840046804, 61.0, -72.23794196935387)
+[23:17:28] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[23:17:51] [Server thread/INFO]: th0nk lost connection: Disconnected
+[23:17:51] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[23:18:23] [User Authenticator #105/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[23:18:23] [Server thread/INFO]: th0nk[/98.225.10.172:52984] logged in with entity id 697399 at (260.7630291452182, 63.0, -72.06762941130435)
+[23:18:23] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[23:27:17] [User Authenticator #106/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[23:27:18] [Server thread/INFO]: EthMC[/88.31.124.248:59982] logged in with entity id 699991 at (1806.8045972424816, 68.0, -398.47942807210967)
+[23:27:18] [Server thread/INFO]: EthMC, Rogues joined the game
+[23:27:22] [Server thread/INFO]: <King th0nk, Old Kingdom> hello
+[23:27:25] [Server thread/INFO]: <EthMC, Rogues> oh
+[23:27:26] [Server thread/INFO]: <EthMC, Rogues> hey
+[23:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[23:29:21] [Server thread/INFO]: <King th0nk, Old Kingdom> don't sleep
+[23:29:24] [Server thread/INFO]: <EthMC, Rogues> aight
+[23:32:08] [User Authenticator #107/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
+[23:32:08] [Server thread/INFO]: Seki_Kun[/98.192.156.26:61227] logged in with entity id 705092 at (450.30000001192093, 240.0, 395.43919910427667)
+[23:32:08] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
+[23:32:20] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Creative Mode]
+[23:32:57] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Spectator Mode]
+[23:33:46] [Server thread/WARN]: th0nk moved too quickly! 7.196041655602187,0.0,7.699938942326256
+[23:33:47] [Server thread/WARN]: EthMC moved too quickly! 7.2374404089159725,1.0,6.924227591962278
+[23:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3814ms or 76 ticks behind
+[23:34:00] [Server thread/INFO]: th0nk lost connection: Disconnected
+[23:34:00] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[23:53:57] [User Authenticator #108/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
+[23:53:57] [Server thread/INFO]: LongLogan2[/67.168.91.76:56928] logged in with entity id 709192 at (488.65499325329074, 67.0, -601.6460845644197)
+[23:53:57] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
+[23:54:03] [Server thread/INFO]: <Seki_Kun, Ethegary Dominion> yo
+[23:54:09] [Server thread/INFO]: <LongLogan2, Northern Alliance> sup
+[23:54:15] [Server thread/INFO]: <EthMC, Rogues> hey
+[23:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[23:59:37] [User Authenticator #109/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[23:59:37] [Server thread/INFO]: th0nk[/98.225.10.172:53619] logged in with entity id 710555 at (363.17712622408203, 99.88830722438584, 25.76410333873605)
+[23:59:37] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[23:59:45] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Creative Mode]
