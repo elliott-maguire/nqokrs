@@ -554,7 +554,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-03 22:25:27 +0000"
+      "tick": "2019-09-04 22:57:29 +0000"
     },
     "done": false
   },
@@ -805,6 +805,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-07-19 16:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2019-09-04 22:40:22 +0000"
     },
     "done": true
   },
@@ -2882,6 +2888,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-07-17 12:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2019-09-04 22:40:27 +0000"
     },
     "done": true
   },
