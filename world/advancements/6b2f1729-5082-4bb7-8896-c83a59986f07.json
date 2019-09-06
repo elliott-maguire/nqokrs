@@ -400,7 +400,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-04 05:14:11 +0000"
+      "tick": "2019-09-05 08:16:37 +0000"
     },
     "done": false
   },
@@ -668,6 +668,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-08-31 22:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-09-05 04:14:47 +0000"
     },
     "done": true
   },
@@ -2244,6 +2250,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 06:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-09-05 08:03:22 +0000"
     },
     "done": true
   },
