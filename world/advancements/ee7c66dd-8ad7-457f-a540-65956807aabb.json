@@ -583,7 +583,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-07 19:42:30 +0000"
+      "tick": "2019-09-11 02:42:57 +0000"
     },
     "done": false
   },
@@ -1042,6 +1042,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-04-21 03:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-09-11 01:42:44 +0000"
     },
     "done": true
   },
@@ -2816,6 +2822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-09-11 01:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-04-20 17:52:22 +0000"
@@ -2855,6 +2867,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-04-20 07:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-09-11 01:25:42 +0000"
     },
     "done": true
   },
