@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-09-10 20:40:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-07-17 14:06:05 +0000"
@@ -554,7 +560,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-09 17:27:36 +0000"
+      "tick": "2019-09-10 21:01:41 +0000"
     },
     "done": false
   },
@@ -666,6 +672,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2019-07-19 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-09-10 20:40:03 +0000"
     },
     "done": true
   },
@@ -1150,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-09-10 20:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2019-07-17 15:03:28 +0000"
@@ -1426,6 +1444,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2019-09-10 18:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-07-17 12:53:50 +0000"
@@ -1599,6 +1623,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-07-30 02:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2019-09-10 18:27:26 +0000"
     },
     "done": true
   },
@@ -2322,6 +2352,7 @@
       "spider_eye": "2019-07-18 01:39:43 +0000",
       "potato": "2019-07-19 17:10:53 +0000",
       "cooked_cod": "2019-07-17 18:43:01 +0000",
+      "rabbit": "2019-09-10 20:40:07 +0000",
       "pumpkin_pie": "2019-09-02 20:50:02 +0000",
       "mutton": "2019-07-17 13:07:17 +0000",
       "pufferfish": "2019-08-24 20:23:17 +0000",
@@ -3464,6 +3495,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-28 22:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-09-10 20:40:03 +0000"
     },
     "done": true
   },

@@ -1,73 +1,42 @@
-[00:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
-[03:43:01] [User Authenticator #25/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[03:43:01] [Server thread/INFO]: th0nk[/98.225.10.172:58558] logged in with entity id 131471 at (254.63481660810993, 66.0, -75.78021918748418)
-[03:43:01] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
-[03:44:42] [Server thread/INFO]: th0nk lost connection: Disconnected
-[03:44:42] [Server thread/INFO]: King th0nk, Old Kingdom left the game
-[04:23:53] [User Authenticator #26/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[04:23:54] [Server thread/INFO]: Seki_Kun[/98.192.156.26:58588] logged in with entity id 132177 at (4758.723222727388, 72.0, 5538.216252998006)
-[04:23:54] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[04:23:58] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[04:23:58] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[05:01:07] [User Authenticator #27/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
-[05:01:07] [Server thread/INFO]: Seki_Kun[/98.192.156.26:59007] logged in with entity id 132445 at (4758.723222727388, 72.0, 5538.216252998006)
-[05:01:07] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
-[05:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[05:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[05:15:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/135122, l='world', x=454.70, y=241.00, z=395.30]
-[05:15:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/135555, l='world', x=448.51, y=241.00, z=395.30]
-[05:17:16] [Server thread/INFO]: Seki_Kun, Ethegary Dominion fell off a ladder
-[05:18:34] [Server thread/WARN]: Seki_Kun moved too quickly! -0.009531680400641562,0.0,-10.47995042745356
-[05:23:09] [Server thread/INFO]: Seki_Kun, Ethegary Dominion was squished too much
-[05:33:20] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
-[05:33:20] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
-[11:45:15] [User Authenticator #28/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[11:45:16] [Server thread/INFO]: EthMC[/81.47.20.153:63040] logged in with entity id 138817 at (1635.3413184379585, 64.0, -529.9984345279145)
-[11:45:16] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:00:32] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:00:32] [Server thread/INFO]: EthMC, Rogues left the game
-[12:00:46] [User Authenticator #29/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:00:46] [Server thread/INFO]: EthMC[/81.47.20.153:63400] logged in with entity id 140930 at (1562.300000011921, 81.0, -608.6999999880791)
-[12:00:46] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:01:38] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:01:38] [Server thread/INFO]: EthMC, Rogues left the game
-[12:02:02] [User Authenticator #30/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:02:02] [Server thread/INFO]: EthMC[/81.47.20.153:63415] logged in with entity id 141210 at (1562.5173964309715, 81.0, -604.1133942471452)
-[12:02:02] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:02:30] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:02:30] [Server thread/INFO]: EthMC, Rogues left the game
-[12:02:54] [User Authenticator #31/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:02:54] [Server thread/INFO]: EthMC[/81.47.20.153:63429] logged in with entity id 141428 at (1562.5173964309715, 81.0, -604.1133942471452)
-[12:02:54] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:03:11] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:03:11] [Server thread/INFO]: EthMC, Rogues left the game
-[12:03:52] [User Authenticator #32/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:03:52] [Server thread/INFO]: EthMC[/81.47.20.153:63447] logged in with entity id 141646 at (1562.4766394144303, 81.0, -604.6636608831091)
-[12:03:52] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:04:07] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:04:07] [Server thread/INFO]: EthMC, Rogues left the game
-[12:08:10] [User Authenticator #33/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:08:10] [Server thread/INFO]: EthMC[/81.47.20.153:63518] logged in with entity id 141861 at (1564.473143358326, 82.0, -604.9296654048242)
-[12:08:10] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:09:00] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:09:00] [Server thread/INFO]: EthMC, Rogues left the game
-[12:14:15] [User Authenticator #34/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:14:15] [Server thread/INFO]: EthMC[/81.47.20.153:63606] logged in with entity id 142119 at (1562.9810876109316, 81.0, -604.3921799765304)
-[12:14:15] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:18:50] [Server thread/WARN]: EthMC moved too quickly! -8.904483154821492,1.127890238205481,4.978775472555924
-[12:22:56] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:22:56] [Server thread/INFO]: EthMC, Rogues left the game
-[12:34:42] [User Authenticator #35/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:34:42] [Server thread/INFO]: EthMC[/81.47.20.153:63957] logged in with entity id 143925 at (1868.5608657268365, 71.0, -421.4369091156705)
-[12:34:42] [Server thread/INFO]: EthMC, Rogues joined the game
-[12:40:05] [Server thread/INFO]: <EthMC, Rogues> DUDE
-[12:57:54] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:57:54] [Server thread/INFO]: EthMC, Rogues left the game
-[13:51:03] [User Authenticator #36/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[13:51:03] [Server thread/INFO]: EthMC[/81.47.20.153:64219] logged in with entity id 148536 at (1782.9316894542064, 72.0, -309.98270787147635)
-[13:51:03] [Server thread/INFO]: EthMC, Rogues joined the game
-[15:45:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
-[15:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
-[16:33:20] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/177962, l='world', x=1822.03, y=68.04, z=-392.84]
-[17:40:16] [Server thread/INFO]: EthMC lost connection: Disconnected
-[17:40:16] [Server thread/INFO]: EthMC, Rogues left the game
+[02:47:44] [User Authenticator #37/INFO]: UUID of player Seki_Kun is 6b2f1729-5082-4bb7-8896-c83a59986f07
+[02:47:44] [Server thread/INFO]: Seki_Kun[/98.192.156.26:61950] logged in with entity id 202320 at (451.36848546318174, 128.0, 397.66952878047516)
+[02:47:44] [Server thread/INFO]: Seki_Kun, Ethegary Dominion joined the game
+[03:28:56] [Server thread/INFO]: Seki_Kun lost connection: Disconnected
+[03:28:56] [Server thread/INFO]: Seki_Kun, Ethegary Dominion left the game
+[13:33:35] [User Authenticator #38/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[13:33:36] [Server thread/INFO]: EthMC[/88.29.231.69:65271] logged in with entity id 209339 at (1755.4968376784448, 40.0, -451.69999998807907)
+[13:33:36] [Server thread/INFO]: EthMC, Rogues joined the game
+[13:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[14:23:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[14:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[14:28:46] [Server thread/INFO]: EthMC lost connection: Disconnected
+[14:28:46] [Server thread/INFO]: EthMC, Rogues left the game
+[14:28:59] [User Authenticator #39/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[14:28:59] [Server thread/INFO]: EthMC[/88.29.231.69:65325] logged in with entity id 219014 at (1810.0854475516999, 68.0, -390.7151435621335)
+[14:28:59] [Server thread/INFO]: EthMC, Rogues joined the game
+[14:33:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[15:08:47] [Server thread/WARN]: EthMC moved too quickly! 6.965644073865633,1.1661092609382138,-7.287317032602289
+[15:12:52] [Server thread/INFO]: EthMC lost connection: Disconnected
+[15:12:52] [Server thread/INFO]: EthMC, Rogues left the game
+[15:26:53] [User Authenticator #40/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[15:26:54] [Server thread/INFO]: EthMC[/88.29.231.69:49633] logged in with entity id 232053 at (1755.547194814856, 40.0, -455.254271658075)
+[15:26:54] [Server thread/INFO]: EthMC, Rogues joined the game
+[15:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[16:18:53] [Server thread/WARN]: EthMC moved too quickly! -9.47157201963455,-1.5105045243501962,-3.059412365524622
+[16:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[16:31:14] [Server thread/INFO]: EthMC lost connection: Disconnected
+[16:31:14] [Server thread/INFO]: EthMC, Rogues left the game
+[17:26:31] [User Authenticator #41/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[17:26:31] [Server thread/INFO]: EthMC[/88.29.231.69:49876] logged in with entity id 244052 at (340.616959136056, 20.0, -355.98793988676624)
+[17:26:31] [Server thread/INFO]: EthMC, Rogues joined the game
+[18:00:27] [Server thread/INFO]: EthMC, Rogues has reached the goal [Postmortal]
+[18:27:26] [Server thread/INFO]: EthMC, Rogues has made the advancement [Local Brewery]
+[18:27:33] [Server thread/INFO]: EthMC lost connection: Disconnected
+[18:27:33] [Server thread/INFO]: EthMC, Rogues left the game
+[19:32:35] [User Authenticator #42/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[19:32:35] [Server thread/INFO]: EthMC[/88.29.231.69:50432] logged in with entity id 252138 at (343.6716819852798, 20.0, -364.653588272539)
+[19:32:35] [Server thread/INFO]: EthMC, Rogues joined the game
+[19:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[21:12:43] [Server thread/INFO]: EthMC lost connection: Disconnected
+[21:12:43] [Server thread/INFO]: EthMC, Rogues left the game
