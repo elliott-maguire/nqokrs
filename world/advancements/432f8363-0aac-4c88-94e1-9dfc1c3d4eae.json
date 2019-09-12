@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-09-11 14:38:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-07-17 07:32:48 +0000"
@@ -369,6 +375,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-07-19 17:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-09-11 14:20:56 +0000"
     },
     "done": true
   },
@@ -560,7 +572,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-10 21:01:41 +0000"
+      "tick": "2019-09-11 17:13:23 +0000"
     },
     "done": false
   },
@@ -895,6 +907,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-17 14:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2019-09-11 09:22:16 +0000"
     },
     "done": true
   },
@@ -1932,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-09-11 09:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-07-17 12:53:50 +0000"
@@ -2561,6 +2585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2019-09-11 09:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-17 14:50:51 +0000"
@@ -2985,6 +3015,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2019-08-27 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-09-11 14:22:47 +0000"
     },
     "done": true
   },

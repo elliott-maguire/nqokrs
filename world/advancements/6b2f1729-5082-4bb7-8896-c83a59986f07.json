@@ -430,7 +430,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-11 04:35:03 +0000"
+      "tick": "2019-09-11 06:17:38 +0000"
     },
     "done": false
   },
@@ -449,6 +449,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2019-08-31 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-09-11 06:45:57 +0000"
     },
     "done": true
   },
@@ -618,6 +624,7 @@
       "minecraft:wither_skeleton": "2019-09-01 20:30:51 +0000",
       "minecraft:husk": "2019-09-01 05:48:31 +0000",
       "minecraft:enderman": "2019-08-31 17:48:48 +0000",
+      "minecraft:silverfish": "2019-09-11 06:27:13 +0000",
       "minecraft:zombie": "2019-08-31 05:14:23 +0000",
       "minecraft:drowned": "2019-08-31 04:58:20 +0000",
       "minecraft:zombie_villager": "2019-09-01 07:18:45 +0000"
@@ -783,6 +790,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-31 16:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-09-11 06:23:27 +0000"
     },
     "done": true
   },
@@ -1284,6 +1297,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-08-31 04:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-09-11 06:45:57 +0000"
     },
     "done": true
   },
@@ -1875,6 +1894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-09-11 06:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2019-08-31 04:23:16 +0000"
@@ -2107,6 +2132,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2019-08-31 04:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-09-11 06:45:57 +0000"
     },
     "done": true
   },
@@ -2452,6 +2483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-09-11 06:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2019-09-06 02:59:44 +0000"
@@ -2791,6 +2828,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-09-06 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-09-11 06:45:57 +0000"
     },
     "done": true
   },
