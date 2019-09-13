@@ -428,9 +428,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-09-12 05:33:46 +0000"
+    },
+    "done": true
+  },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-11 06:17:38 +0000"
+      "tick": "2019-09-12 06:23:30 +0000"
     },
     "done": false
   },
@@ -778,6 +784,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-08-31 04:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2019-09-12 05:33:50 +0000"
     },
     "done": true
   },
@@ -1411,6 +1423,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-08-31 16:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2019-09-12 05:35:00 +0000"
     },
     "done": true
   },

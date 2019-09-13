@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-09-12 01:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-04-22 04:25:48 +0000"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2019-09-12 01:28:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-05-29 22:04:00 +0000"
@@ -698,6 +710,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2019-05-09 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-09-12 01:04:14 +0000"
     },
     "done": true
   },
@@ -3540,6 +3558,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-05-09 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-09-12 01:04:14 +0000"
     },
     "done": true
   },
