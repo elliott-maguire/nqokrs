@@ -71,3 +71,39 @@
 [17:19:32] [User Authenticator #110/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
 [17:19:33] [Server thread/INFO]: EthMC[/81.47.68.145:56170] logged in with entity id 695787 at (1755.6912044593673, 39.875, -451.34323704136295)
 [17:19:33] [Server thread/INFO]: EthMC, Rogues joined the game
+[17:39:11] [User Authenticator #111/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
+[17:39:11] [Server thread/INFO]: th0nk[/98.225.10.172:52643] logged in with entity id 697377 at (255.10771677321435, 66.0, -80.39242622197894)
+[17:39:11] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
+[17:39:16] [Server thread/INFO]: <King th0nk, Old Kingdom> what's up gamer
+[17:40:42] [Server thread/INFO]: <EthMC, Rogues> epic
+[17:40:43] [Server thread/INFO]: <EthMC, Rogues> hello
+[17:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2999ms or 59 ticks behind
+[17:49:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
+[17:50:54] [Server thread/INFO]: <EthMC, Rogues> Hey, you had a villager breeder right?
+[17:51:03] [Server thread/INFO]: <King th0nk, Old Kingdom> Yeah, it's in the keep
+[17:51:08] [Server thread/INFO]: <King th0nk, Old Kingdom> Pull up and I'll show you
+[17:51:23] [Server thread/INFO]: <EthMC, Rogues> Is there any way I could get 22 villagers?
+[17:51:23] [Server thread/INFO]: [King th0nk, Old Kingdom: Set own game mode to Survival Mode]
+[17:51:47] [Server thread/INFO]: <King th0nk, Old Kingdom> you'd have to cook em up
+[17:51:59] [Server thread/INFO]: <King th0nk, Old Kingdom> i have my villagers but i'm keepin them
+[17:52:06] [Server thread/INFO]: <King th0nk, Old Kingdom> i don't think i even have that many
+[17:52:59] [Server thread/WARN]: th0nk moved too quickly! 8.841568399180233,3.4990033597325265,3.3428789640593735
+[17:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[17:53:10] [Server thread/INFO]: <EthMC, Rogues> oh
+[17:53:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:54:16] [Server thread/WARN]: EthMC moved too quickly! -0.8436890545782489,2.130906499714527,10.03558911491649
+[17:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4337ms or 86 ticks behind
+[17:57:35] [Server thread/INFO]: <King th0nk, Old Kingdom> brb
+[17:57:36] [Server thread/INFO]: th0nk lost connection: Disconnected
+[17:57:36] [Server thread/INFO]: King th0nk, Old Kingdom left the game
+[17:59:19] [Server thread/WARN]: EthMC moved too quickly! 1.1650490015389892,3.1754232959521005,-9.570272713003305
+[17:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[19:38:29] [Server thread/INFO]: EthMC lost connection: Disconnected
+[19:38:29] [Server thread/INFO]: EthMC, Rogues left the game
+[19:38:42] [User Authenticator #112/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[19:38:42] [Server thread/INFO]: EthMC[/81.47.68.145:57254] logged in with entity id 739808 at (1858.3074272064646, 76.0, -439.474834838091)
+[19:38:42] [Server thread/INFO]: EthMC, Rogues joined the game
+[19:42:35] [Server thread/WARN]: EthMC moved wrongly!
+[19:59:37] [Server thread/INFO]: EthMC lost connection: Disconnected
+[19:59:37] [Server thread/INFO]: EthMC, Rogues left the game
