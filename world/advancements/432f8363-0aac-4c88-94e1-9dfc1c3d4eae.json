@@ -578,7 +578,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-14 19:08:51 +0000"
+      "tick": "2019-09-15 19:03:25 +0000"
     },
     "done": false
   },
@@ -2112,6 +2112,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2019-09-15 17:01:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-07-17 12:53:50 +0000"
@@ -2938,6 +2944,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2019-07-17 15:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/two_birds_one_arrow": {
+    "criteria": {
+      "two_birds": "2019-09-15 18:23:02 +0000"
     },
     "done": true
   },

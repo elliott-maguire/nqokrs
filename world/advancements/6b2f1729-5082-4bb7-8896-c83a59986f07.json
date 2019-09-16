@@ -436,7 +436,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-14 02:11:39 +0000"
+      "tick": "2019-09-15 19:03:25 +0000"
     },
     "done": false
   },
@@ -2026,6 +2026,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2019-09-15 16:52:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 06:40:24 +0000"
@@ -2726,6 +2732,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2019-08-31 04:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2019-09-15 16:52:45 +0000"
     },
     "done": true
   },
