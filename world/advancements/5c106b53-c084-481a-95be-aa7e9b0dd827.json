@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2019-09-16 23:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-04-22 04:25:48 +0000"
@@ -607,7 +613,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-12 01:28:10 +0000"
+      "tick": "2019-09-17 00:12:58 +0000"
     },
     "done": false
   },
@@ -728,6 +734,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2019-04-24 14:57:29 +0000"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2019-09-16 23:55:09 +0000"
     },
     "done": true
   },
@@ -1445,6 +1457,12 @@
     },
     "done": true
   },
+  "main:main/afk": {
+    "criteria": {
+      "tick": "2019-09-16 23:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-04-24 04:40:29 +0000"
@@ -2044,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-17 00:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2019-04-23 00:45:12 +0000"
@@ -2125,6 +2149,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-04-24 04:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-17 00:10:45 +0000"
     },
     "done": true
   },
@@ -2356,6 +2386,7 @@
       "dried_kelp": "2019-05-05 00:06:14 +0000",
       "melon_slice": "2019-05-19 22:24:41 +0000",
       "golden_carrot": "2019-04-24 14:35:02 +0000",
+      "cooked_rabbit": "2019-09-17 00:10:47 +0000",
       "cooked_chicken": "2019-04-22 04:01:28 +0000",
       "cod": "2019-05-04 21:08:30 +0000",
       "cooked_salmon": "2019-05-04 21:15:57 +0000",

@@ -360,6 +360,12 @@
     },
     "done": true
   },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2019-09-16 05:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-07-17 14:06:05 +0000"
@@ -578,7 +584,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-16 05:27:07 +0000"
+      "tick": "2019-09-16 21:56:36 +0000"
     },
     "done": false
   },
@@ -708,6 +714,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2019-07-17 15:17:10 +0000"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2019-09-16 05:56:04 +0000"
     },
     "done": true
   },
@@ -1453,6 +1465,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-08-30 20:31:39 +0000"
+    },
+    "done": true
+  },
+  "main:main/afk": {
+    "criteria": {
+      "tick": "2019-09-16 05:56:04 +0000"
     },
     "done": true
   },
