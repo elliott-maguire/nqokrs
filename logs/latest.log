@@ -1,723 +1,378 @@
-[00:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[00:00:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
-[00:02:20] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 9.341445427804501,0.0,-4.512068171693386
-[00:02:20] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 9.691442790706787,0.0,-4.73495460192953
-[00:02:20] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 10.064803339718765,0.0,-4.915769674894705
-[00:02:20] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 10.450665063806355,0.0,-5.074073203396551
-[00:02:20] [Server thread/WARN]: Tacosauce987 moved too quickly! 9.825979458126312,0.8800391385729398,-2.026651191571318
-[00:02:20] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 10.843215917429916,0.0,-5.220331253287782
-[00:02:20] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 11.251186404524105,0.0,-5.269851631352935
-[00:02:20] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 11.66740763005373,0.0,-5.267609609965007
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 12.088043661217853,0.0,-5.238870221604316
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 12.511041966855828,0.0,-5.194752959533275
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 12.935304278465992,0.0,-5.142407303841651
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 13.34840252084814,0.0,-5.175951175162595
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 13.75552709237354,1.0,-5.255452819935613
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 14.159933425210056,1.0,-5.358080741369804
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 14.56319953057664,1.0,-5.4720984878726995
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 14.966007897946383,1.0,-5.591726760513438
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 15.368571338839956,1.0,-5.7143571138287825
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 15.771160410294215,1.0,-5.838091536948468
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 16.18410759870494,1.0,-5.872962849877467
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 16.602759706671804,1.0,-5.861327299625827
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 17.024464403348702,1.0,-5.824806854133044
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 17.447880234958575,2.0,-5.775482846015166
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 17.872211660754147,2.0,-5.719307906812105
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 18.29710944151293,2.0,-5.659979211568611
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 18.722388124388544,2.0,-5.5994942212696515
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 19.147870620392496,2.0,-5.538390520540588
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 19.57346217273789,2.0,-5.476955760196006
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 19.999112078957296,2.0,-5.415343856451841
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 20.424793209171185,2.0,-5.353637166806493
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 20.850637182955325,2.0,-5.292904831899477
-[00:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 12.241457253552653,1.9231679985046384,-1.0221383979676375
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 12.489171547287697,1.7725465413369932,-0.9871492728793783
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 12.729890210731355,1.5510576895623984,-0.9531745385138493
-[00:02:21] [Server thread/WARN]: Skeleton Horse (vehicle of LongLogan2) moved too quickly! 12.964370170901475,1.2615077906826428,-0.9201044378210099
-[00:04:44] [Server thread/WARN]: Tacosauce987 moved too quickly! 3.8799504400521982,-1.676470876144279,9.108840992726982
-[00:07:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
-[00:09:44] [Server thread/WARN]: Tacosauce987 moved too quickly! 7.231121774490276,7.0,-0.36529315876399693
-[00:09:57] [Server thread/WARN]: LongLogan2 moved too quickly! 7.190747384565896,7.5,-0.37965480837389265
-[00:12:26] [Server thread/WARN]: Tacosauce987 moved too quickly! -10.067663847653876,-0.06410001158714351,0.6012147767306715
-[00:12:26] [Server thread/WARN]: LongLogan2 moved too quickly! 4.599545460495392,4.639332010939604,7.630643317267015
-[00:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.247168535777291,-0.5510576895623913,8.912002996353749
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.392880716325294,-0.5510576895623913,9.307597758898169
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.538592136352008,-0.5510576895623913,9.703193235046285
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.61655941203594,-0.5510576895623913,9.914868487010267
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.6582781467546965,-0.5510576895623913,10.02813169398695
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.680601009920906,-0.5510576895623913,10.088736577815439
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.692545528931191,-0.5510576895623913,10.121165042821076
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.698936802905564,-0.5510576895623913,10.138516867891724
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.147801483528951
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -5.702356646180988,-0.5510576895623913,10.152769496241149
-[00:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
-[00:19:05] [Server thread/INFO]: LongLogan2 lost connection: Disconnected
-[00:19:05] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[00:19:07] [Server thread/INFO]: Tacosauce987 lost connection: Disconnected
-[00:19:07] [Server thread/INFO]: Tacosauce987, Northern Alliance left the game
-[02:48:38] [User Authenticator #9/INFO]: UUID of player Elggy is 41ca2fd9-f9c2-4597-a082-6c325fffc24d
-[02:48:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5e5e0263[id=41ca2fd9-f9c2-4597-a082-6c325fffc24d,name=Elggy,properties={textures=[com.mojang.authlib.properties.Property@24af17b8]},legacy=false] (/67.168.53.207:59598): You are not white-listed on this server!
-[02:48:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e5e0263[id=41ca2fd9-f9c2-4597-a082-6c325fffc24d,name=Elggy,properties={textures=[com.mojang.authlib.properties.Property@24af17b8]},legacy=false] (/67.168.53.207:59598) lost connection: You are not white-listed on this server!
-[04:29:42] [User Authenticator #10/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[04:29:42] [Server thread/INFO]: LongLogan2[/67.168.91.76:58978] logged in with entity id 99584 at (869.2122143854008, 78.0, -415.1409426694575)
-[04:29:42] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[04:30:13] [Server thread/INFO]: LongLogan2 lost connection: Disconnected
-[04:30:13] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[04:30:13] [Server thread/WARN]: handleDisconnection() called twice
-[04:31:33] [User Authenticator #11/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[04:31:33] [Server thread/INFO]: LongLogan2[/67.168.91.76:59017] logged in with entity id 99840 at (870.1026635946592, 78.0, -420.0476308240928)
-[04:31:33] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.262703495636515,0.0,2.49598968848467
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.819632747249898,0.0,2.5854597544590163
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.376923457746216,0.0,2.6727691976679893
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.934407577683942,0.0,2.7589225347133777
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.491995187157727,0.0,2.8444572624009012
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 13.049638171818742,0.0,2.929660984554772
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 13.607310786638436,0.0,3.014687592247121
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.164999255965313,0.0,3.0996194295223987
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.722696208722937,0.0,3.184500557037012
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 15.28039770079522,0.0,3.269354550769741
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 15.838101621764054,0.0,3.354194025756769
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 16.395806842387174,0.0,3.4390257320524498
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 16.95351275842927,0.0,3.5238532814762777
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 17.511219046576343,0.0,3.608678606640858
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 18.068925533829315,0.0,3.6935027416486648
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 18.626632127619814,0.0,3.778326239827308
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 19.18433877841653,0.0,3.8631493972513624
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 19.74204545971611,0.0,3.947972372344431
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 20.299752157337252,-0.07683200149536162,4.032795249875825
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 20.62409879006009,-0.2274534586630068,4.082125860099858
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 20.939280023756282,-0.4489423104376016,4.1300624792082345
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 21.246287554364926,-0.7384922093173572,4.17675593700384
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 21.546005776350057,-1.0,4.2223407435087665
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 22.07258346634876,-1.0,4.302429069868225
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 22.61363366136993,-1.0,4.3847185312609795
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 23.162427805277957,-1.0,4.468185776124145
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 23.71536558183766,-1.0,4.552283229439865
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 24.27052053361399,-1.0,4.636717894733543
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 24.826861851643116,-1.0768320014953616,4.721332995433343
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 25.15047789696905,-1.2274534586630068,4.7705524284174174
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 25.465007592805932,-1.4489423104376016,4.818389899660339
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 25.771434081934785,-1.7384922093173572,4.864994937386989
-[04:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
-[04:37:31] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 16.364184364101675,-2.0,2.508019211313183
-[04:37:32] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 16.89029994757834,-2.0,2.5880372165475833
-[04:42:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
-[04:43:04] [Server thread/WARN]: Horse moved wrongly!
-[04:43:04] [Server thread/WARN]: Horse moved wrongly!
-[04:43:04] [Server thread/WARN]: Horse moved wrongly!
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 3.7059337323473756,1.0,-9.620135351138345
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 4.043269599301993,1.0,-10.072146261012506
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 4.380820014965366,1.0,-10.524074624631226
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 4.718485231365321,1.0,-10.975958819394464
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 5.056211875350527,1.0,-11.427819380283722
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 5.393971388011778,1.0,-11.879667295158242
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 5.731748488046151,1.0,-12.331508443402413
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 6.069534998733388,1.0,-12.783345970957612
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 6.4073265448732855,1.0,-13.23518156115432
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 6.745120785383506,1.0,-13.687016114709138
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 6.971461389053047,1.0,-14.181744678335804
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 7.138165373794891,1.0,-14.699424971537667
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 7.384414071319043,1.0,-15.186491712868758
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 7.67322555870237,1.0,-15.657177752962241
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 7.984811546328956,1.0,-16.1190988064194
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 8.308583714961287,1.0,-16.57632989028241
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 8.638876466083502,1.0,-17.031051464923507
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 8.97265825088948,1.0,-17.484430251214178
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 9.308306948056043,2.0,-17.937090538230848
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 9.644954592804424,2.0,-18.389366370611356
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 9.982136754487101,2.0,-18.84143648898123
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.319604925524118,2.0,-19.293396533885527
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.657226134464281,2.0,-19.74529768067299
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.994929230934986,2.0,-20.197167312252475
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.332676143790877,2.0,-20.64902008067247
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.670446501920651,2.0,-21.100863825952047
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.008229405149223,2.0,-21.552702743129146
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.346019021009852,2.0,-22.00453907688484
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.683812228666056,2.0,-22.45637402830323
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 13.021607358220535,2.0,-22.908208240060503
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 13.359403516144539,2.0,-23.360042056039845
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 13.697200224328526,2.0,-23.8118756602463
-[04:47:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.665998395932775,1.0,-15.095738978853205
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.892340477550533,1.0,-15.590466973869695
-[04:47:36] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.059045253113027,1.0,-16.108146962819546
-[04:48:06] [Server thread/WARN]: Horse moved wrongly!
-[04:48:06] [Server thread/WARN]: Horse moved wrongly!
-[04:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
-[04:54:52] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:54:53] [Server thread/WARN]: Horse moved wrongly!
-[04:55:09] [Server thread/INFO]: LongLogan2 lost connection: Timed out
-[04:55:09] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[04:55:09] [Server thread/WARN]: handleDisconnection() called twice
-[04:57:01] [User Authenticator #12/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[04:57:01] [Server thread/INFO]: LongLogan2[/67.168.91.76:59113] logged in with entity id 109747 at (1210.812568221677, 71.86091456519736, 304.1815041962116)
-[04:57:01] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[04:57:30] [Server thread/WARN]: Horse moved wrongly!
-[04:59:51] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 4.470474030404603,1.0,9.107226507710532
-[04:59:51] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 4.694521538358913,1.0,9.476732798087209
-[04:59:51] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 4.9224051729452185,0.9231679985046384,9.907694774024854
-[04:59:51] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 5.055203766222121,0.7725465413369932,10.161589511637889
-[05:00:32] [Server thread/WARN]: Horse moved wrongly!
-[05:00:32] [Server thread/WARN]: Horse moved wrongly!
-[05:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[05:03:49] [Server thread/WARN]: Horse moved wrongly!
-[05:03:49] [Server thread/WARN]: Horse moved wrongly!
-[05:03:49] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:03:50] [Server thread/WARN]: Horse moved wrongly!
-[05:07:08] [Server thread/WARN]: Horse moved wrongly!
-[05:07:08] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:09] [Server thread/WARN]: Horse moved wrongly!
-[05:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
-[05:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
-[05:14:34] [Server thread/WARN]: Horse moved wrongly!
-[05:14:34] [Server thread/WARN]: Horse moved wrongly!
-[05:14:34] [Server thread/WARN]: Horse moved wrongly!
-[05:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
-[05:20:09] [Server thread/WARN]: Horse moved wrongly!
-[05:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -10.268523101196024,0.0,0.9896194949683945
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -10.687292220129166,0.0,1.0248904191585098
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.160850093006502,0.0,0.9819060938030475
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.66372433574952,0.0,0.897048944657115
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -12.182285183502245,0.0,0.7897864823549412
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -12.709239620838161,0.0,0.6705353836965742
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -13.240685300610494,0.0,0.5448694047516938
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -13.774534154664252,0.0,0.4157709512643919
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -14.309507941171887,0.0,0.2841902467942532
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -14.84508365660622,0.0,0.15128133931398224
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -15.380981452208289,0.0,0.017661736884463153
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -15.91705158648665,0.0,-0.1163381442426612
-[05:27:53] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -16.453213935754775,0.0,-0.25054150491894234
-[05:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 9.572313217070132,-2.0,2.9929764700323176
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.085955554663997,-2.0,3.0711652861365337
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.615235113109975,-2.0,3.1494252900705533
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.153067123959772,-2.0,3.226405603204853
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.697729914645151,-2.0,3.2765645053463004
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.225171581457289,-2.0,3.4178348626472825
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.747430284712664,-2.0,3.5991389997531087
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 13.267469785808316,-2.0,3.8005972330390705
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 13.786591388470697,-2.0,4.012216379853953
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.30522184198253,-2.0,4.229272428911372
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.82358949137597,-2.0,4.449237655958655
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 15.341816519525764,-2.0,4.670759526145503
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 15.859968304051563,-2.0,4.893114325040301
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 16.378079827214606,-2.0,5.1159148074798395
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 16.896169807324895,-2.0,5.338953766298232
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 17.414248260177374,-2.0,5.562120329072172
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 17.932320545023686,-2.0,5.785355170178718
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 18.45038952949335,-2.0,6.008626545659581
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 18.968187195600876,-2.0,6.232540611463605
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 19.485839684662096,-2.0,6.456798568045656
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 20.00341449238067,-2.0,6.681240533726623
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 20.52094773436147,-2.0,6.905780959007643
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 21.038458735344648,-2.0,7.130374068057677
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 21.5559578356133,-2.0,7.35499536714201
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 22.073169322522062,-2.0,7.5802772292057625
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 22.589954060479158,-2.0,7.806534247501418
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 23.10651045358054,-2.0768320014953616,8.033313052454218
-[05:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.124049354865292,-0.48896124934564966,5.221475520466015
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.413472415521028,-0.7104501011202444,5.354566685563668
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.69410612635511,-1.0,5.48669173149483
-[05:32:55] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 14.966901494792182,-1.2615077906826428,5.617955192328509
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:49] [Server thread/WARN]: Horse moved wrongly!
-[05:33:50] [Server thread/WARN]: Horse moved wrongly!
-[05:33:50] [Server thread/WARN]: Horse moved wrongly!
-[05:33:50] [Server thread/WARN]: Horse moved wrongly!
-[05:33:50] [Server thread/WARN]: Horse moved wrongly!
-[05:33:50] [Server thread/WARN]: Horse moved wrongly!
-[05:35:08] [Server thread/INFO]: LongLogan2 lost connection: Disconnected
-[05:35:08] [Server thread/INFO]: LongLogan2 left the game
-[05:35:14] [User Authenticator #13/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[05:35:14] [Server thread/INFO]: LongLogan2[/67.168.91.76:59173] logged in with entity id 121401 at (3077.7304355986876, 64.0, -524.5105696124143)
-[05:35:14] [Server thread/INFO]: LongLogan2 joined the game
-[05:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[05:39:12] [Server thread/WARN]: Horse moved wrongly!
-[05:39:12] [Server thread/WARN]: Horse moved wrongly!
-[05:39:12] [Server thread/WARN]: Horse moved wrongly!
-[05:39:12] [Server thread/WARN]: Horse moved wrongly!
-[05:39:12] [Server thread/WARN]: Horse moved wrongly!
-[05:39:12] [Server thread/WARN]: Horse moved wrongly!
-[05:39:12] [Server thread/WARN]: Horse moved wrongly!
-[05:39:13] [Server thread/WARN]: Horse moved wrongly!
-[05:39:13] [Server thread/WARN]: Horse moved wrongly!
-[05:39:13] [Server thread/WARN]: Horse moved wrongly!
-[05:39:13] [Server thread/WARN]: Horse moved wrongly!
-[05:39:35] [Server thread/WARN]: Horse moved wrongly!
-[05:39:35] [Server thread/WARN]: Horse moved wrongly!
-[05:39:35] [Server thread/WARN]: Horse moved wrongly!
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 9.376192631746108,-1.0,4.104505884670175
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 9.905589779627917,-1.0,4.006418703891086
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.423497292726552,-1.0,3.836727838411548
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 10.934964055292767,-1.0,3.628138740292229
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 11.465676118276406,-1.0,3.5159847246605977
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.006685957803256,-1.0768320014953616,3.4554311989600137
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.02239631068187,-1.2274534586630068,3.4229759998577265
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.02239631068187,-1.4489423104376016,3.3927663091641307
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.044283591013482,-1.7384922093173572,3.351373016159073
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.07056038781866,-2.093407939109099,3.3091049965448747
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.114337148585037,-2.5111010141305457,3.25485502832953
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.1735462618999,-2.989085452684037,3.1897078757012878
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.246517947614393,-3.5249737179006644,3.114842613733458
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.33171962597271,-4.116472819326901,3.0312585878039044
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.427828012085683,-4.7613805688883275,2.939899167949079
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.533663000453998,-5.457581985117116,2.8416056515919763
-[05:42:59] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! 12.648172172963768,-6.0,2.7371283077958424
-[05:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
-[05:42:59] [Server thread/WARN]: Horse moved wrongly!
-[05:43:00] [Server thread/WARN]: Horse moved wrongly!
-[05:43:57] [Server thread/INFO]: LongLogan2 drowned
-[05:44:01] [Server thread/INFO]: LongLogan2 lost connection: Timed out
-[05:44:01] [Server thread/INFO]: LongLogan2 left the game
-[05:44:01] [Server thread/WARN]: handleDisconnection() called twice
-[05:45:17] [User Authenticator #14/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[05:45:17] [Server thread/INFO]: LongLogan2[/67.168.91.76:59223] logged in with entity id 123477 at (3239.7284976671504, 61.123365130209905, -635.9446847265292)
-[05:45:17] [Server thread/INFO]: LongLogan2 joined the game
-[05:45:37] [User Authenticator #15/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[05:45:37] [Server thread/INFO]: th0nk[/98.225.10.172:64487] logged in with entity id 124067 at (482.8650337459922, 20.0625, 78.35263244436793)
-[05:45:37] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
-[05:45:43] [Server thread/INFO]: <King th0nk, Old Kingdom> what's good gamer
-[05:45:48] [Server thread/INFO]: <LongLogan2> uh i need help
-[05:45:50] [Server thread/INFO]: <King th0nk, Old Kingdom> oh shit i need to fix the datapack
-[05:45:52] [Server thread/INFO]: <King th0nk, Old Kingdom> wait why
-[05:45:55] [Server thread/INFO]: <LongLogan2> lost internet then drowneda
-[05:46:04] [Server thread/INFO]: <King th0nk, Old Kingdom> well that's an L
-[05:46:05] [Server thread/INFO]: <LongLogan2> now im very far away from my stuff
-[05:46:07] [Server thread/INFO]: <King th0nk, Old Kingdom> where
-[05:46:15] [Server thread/INFO]: <LongLogan2> very far away
-[05:46:19] [Server thread/INFO]: <King th0nk, Old Kingdom> mmkay hold on
-[05:46:25] [Server thread/INFO]: <LongLogan2> lemme fly for like a few mins
-[05:46:29] [Server thread/INFO]: <King th0nk, Old Kingdom> i have an idea
-[05:46:29] [Server thread/INFO]: <LongLogan2> i could get there in time
-[05:47:17] [Server thread/INFO]: LongLogan2 lost connection: Timed out
-[05:47:17] [Server thread/INFO]: LongLogan2 left the game
-[05:47:17] [Server thread/WARN]: handleDisconnection() called twice
-[05:47:35] [User Authenticator #16/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[05:47:36] [Server thread/INFO]: LongLogan2[/67.168.91.76:59262] logged in with entity id 125393 at (2251.360199664723, 68.16610926093821, -12.405107028620208)
-[05:47:36] [Server thread/INFO]: LongLogan2 joined the game
-[05:48:03] [Server thread/WARN]: LongLogan2 moved too quickly! 9.647105419584477,0.4641593749554431,-3.8360153694209487
-[05:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
-[05:48:44] [Server thread/INFO]: <King th0nk, Old Kingdom> holy shit the poor server
-[05:48:54] [Server thread/INFO]: <King th0nk, Old Kingdom> what have you been doing
-[05:49:10] [Server thread/INFO]: <LongLogan2> nothing really
-[05:49:26] [Server thread/INFO]: <King th0nk, Old Kingdom> traveling a lot
-[05:50:56] [Server thread/INFO]: [th0nk: Set own game mode to Creative Mode]
-[05:50:58] [Server thread/INFO]: <th0nk> one sec
-[05:51:02] [Server thread/INFO]: <LongLogan2> hold up
-[05:51:02] [Server thread/INFO]: [th0nk: Teleported th0nk to 475.8401212502747, 20.0625, 106.68864037007162]
-[05:51:07] [Server thread/INFO]: <LongLogan2> im almost to my stuuf
-[05:51:26] [Server thread/INFO]: [th0nk: Teleported th0nk to 12.5, 100.0, 2.5]
-[05:51:46] [Server thread/INFO]: <th0nk> wait did you die by the ruins of hadar's challenge
-[05:51:51] [Server thread/INFO]: <LongLogan2> no
-[05:51:53] [Server thread/INFO]: <th0nk> hm
-[05:52:47] [Server thread/INFO]: <th0nk> who is elggy
-[05:53:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
-[05:53:42] [Server thread/INFO]: <LongLogan2> i have no idea
-[05:53:52] [Server thread/INFO]: <th0nk> looks like they tried to join twice
-[05:54:12] [Server thread/INFO]: <th0nk> brb
-[05:54:38] [Server thread/INFO]: th0nk lost connection: Timed out
-[05:54:38] [Server thread/INFO]: th0nk left the game
-[05:54:38] [Server thread/WARN]: handleDisconnection() called twice
-[05:54:52] [User Authenticator #17/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[05:54:52] [Server thread/INFO]: th0nk[/98.225.10.172:64657] logged in with entity id 129417 at (14.661584786953759, 65.90799263582075, 15.673015647823851)
-[05:54:52] [Server thread/INFO]: th0nk joined the game
-[05:56:09] [Server thread/INFO]: <th0nk> my laptop can run battlefield 3 at mid specs better than minecraft without shaders
-[05:56:15] [Server thread/INFO]: <LongLogan2> lmao
-[05:56:44] [Server thread/INFO]: <th0nk> also we need to get the end raid on the schedule so we have a solid team
-[05:56:58] [Server thread/INFO]: <LongLogan2> yeah for sure
-[05:58:11] [Server thread/WARN]: th0nk moved too quickly! 0.09758842310378668,-10.12809932597952,-0.06482363962439575
-[05:58:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3933ms or 78 ticks behind
-[05:58:20] [Server thread/INFO]: <LongLogan2> can you sleep?
-[05:58:22] [Server thread/INFO]: <th0nk> man it's really chugging
-[05:58:24] [Server thread/INFO]: <th0nk> and yes
-[05:58:30] [Server thread/INFO]: <LongLogan2> epic
-[05:58:45] [Server thread/INFO]: <th0nk> are you loading a lot of new chunks?
-[05:58:46] [Server thread/INFO]: <LongLogan2> shit its almost 11
-[05:59:01] [Server thread/INFO]: <LongLogan2> nah ive only been where ive been before
-[05:59:09] [Server thread/INFO]: [Server] aight
-[05:59:21] [Server thread/INFO]: <LongLogan2> its been a while but i doubt im loading new ones
-[05:59:26] [Server thread/INFO]: Reloading!
-[05:59:26] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayer_sleepv2.1.0.zip, anti enderman grief v1.0.0.zip
-[05:59:27] [Server thread/INFO]: Loaded 6 recipes
-[05:59:27] [Server thread/INFO]: Loaded 8 custom command functions
-[05:59:27] [Server thread/INFO]: Loaded 815 advancements
-[05:59:27] [Server thread/WARN]: Ignored advancement 'main:main/afk' in progress file ./world/advancements/ee7c66dd-8ad7-457f-a540-65956807aabb.json - it doesn't exist anymore?
-[05:59:27] [Server thread/WARN]: Ignored advancement 'main:main/afk' in progress file ./world/advancements/08171360-127b-49d6-8265-f4e0e66bd206.json - it doesn't exist anymore?
-[05:59:45] [Server thread/INFO]: <th0nk> can you relog real quick
-[05:59:51] [Server thread/INFO]: <LongLogan2> yeah
-[05:59:51] [Server thread/INFO]: <th0nk> oh shit
-[05:59:52] [Server thread/INFO]: <th0nk> nbm
-[05:59:54] [Server thread/INFO]: <th0nk> nvm
-[05:59:55] [Server thread/INFO]: <LongLogan2> aight
-[06:00:20] [Server thread/INFO]: [th0nk: Added th0nk to team [Old Kingdom]]
-[06:00:27] [Server thread/INFO]: [King th0nk, Old Kingdom: Added LongLogan2 to team [Northern Alliance]]
-[06:01:06] [Server thread/INFO]: <King th0nk, Old Kingdom> okay so a datapack kicked everyone out of their teams which is unepic
-[06:01:13] [Server thread/INFO]: <King th0nk, Old Kingdom> now i have to manually add everyone back in
-[06:01:18] [Server thread/INFO]: <LongLogan2, Northern Alliance> very unepic
-[06:01:28] [Server thread/INFO]: [King th0nk, Old Kingdom: Added 9abe to team [Ethegary Dominion]]
-[06:01:34] [Server thread/INFO]: [King th0nk, Old Kingdom: Added TheBestRedstone to team [Ethegary Dominion]]
-[06:02:35] [Server thread/INFO]: Showing new title for 2 players
-[06:02:41] [Server thread/INFO]: <LongLogan2, Northern Alliance> uwu
-[06:03:09] [Server thread/INFO]: [Server] you should uhhhh pitch in to the server pool
-[06:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[06:03:16] [Server thread/INFO]: Unknown command
-[06:03:16] [Server thread/INFO]: <--[HERE]
-[06:03:24] [Server thread/INFO]: <LongLogan2, Northern Alliance> oh yeah how much u need
-[06:03:29] [Server thread/INFO]: Unknown command
-[06:03:29] [Server thread/INFO]: <--[HERE]
-[06:03:59] [Server thread/INFO]: [Server] we're at $25 from me and hunter, we want to get to $40 to double our cores and quadruple our ram (for mods)
-[06:04:20] [Server thread/INFO]: [Server] if you and grant could toss in like $10 together that would be epic mode
-[06:05:01] [Server thread/INFO]: <King th0nk, Old Kingdom> otherwise you'll get banned
-[06:05:03] [Server thread/INFO]: <King th0nk, Old Kingdom> jk
-[06:05:05] [Server thread/INFO]: <LongLogan2, Northern Alliance> fax
-[06:06:22] [Server thread/INFO]: <King th0nk, Old Kingdom> aight i'm bout to head out
-[06:06:23] [Server thread/INFO]: th0nk lost connection: Disconnected
-[06:06:23] [Server thread/INFO]: King th0nk, Old Kingdom left the game
-[06:06:29] [Server thread/INFO]: LongLogan2 lost connection: Disconnected
-[06:06:29] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[11:02:14] [User Authenticator #18/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[11:02:15] [Server thread/WARN]: Ignored advancement 'main:main/afk' in progress file ./world/advancements/432f8363-0aac-4c88-94e1-9dfc1c3d4eae.json - it doesn't exist anymore?
-[11:02:15] [Server thread/INFO]: EthMC[/2.142.83.56:49934] logged in with entity id 133573 at (1755.576948680957, 39.875, -450.4267228462031)
-[11:02:15] [Server thread/INFO]: EthMC joined the game
-[12:08:15] [Server thread/WARN]: EthMC moved too quickly! 7.595791202470082,0.0,-6.653534063712868
-[12:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
-[12:13:17] [Server thread/WARN]: EthMC moved too quickly! 2.4496449911819127,-1.0013359791121417,9.789569973135883
-[12:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[12:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[12:28:21] [Server thread/WARN]: EthMC moved too quickly! 10.287708159453587,0.0,0.27018876887638044
-[12:33:56] [Server thread/INFO]: EthMC lost connection: Disconnected
-[12:33:56] [Server thread/INFO]: EthMC left the game
-[12:58:12] [User Authenticator #19/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[12:58:12] [Server thread/INFO]: EthMC[/2.142.83.56:50313] logged in with entity id 148708 at (1816.4274644254608, 68.0, -394.600623335947)
-[12:58:12] [Server thread/INFO]: EthMC joined the game
-[13:03:34] [Server thread/INFO]: EthMC lost connection: Disconnected
-[13:03:34] [Server thread/INFO]: EthMC left the game
-[13:05:34] [User Authenticator #20/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[13:05:34] [Server thread/INFO]: EthMC[/2.142.83.56:50389] logged in with entity id 150594 at (1631.6679787975504, 63.0, -431.24365805493136)
-[13:05:34] [Server thread/INFO]: EthMC joined the game
-[13:26:56] [Server thread/INFO]: EthMC lost connection: Disconnected
-[13:26:56] [Server thread/INFO]: EthMC left the game
-[13:27:11] [User Authenticator #21/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
-[13:27:12] [Server thread/INFO]: EthMC[/2.142.83.56:50465] logged in with entity id 155132 at (1640.300000011921, 63.0, -444.6745225607854)
-[13:27:12] [Server thread/INFO]: EthMC joined the game
-[13:38:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[13:48:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[14:01:30] [Server thread/INFO]: EthMC lost connection: Disconnected
-[14:01:30] [Server thread/INFO]: EthMC left the game
-[22:11:15] [User Authenticator #22/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[22:11:15] [Server thread/INFO]: LongLogan2[/67.168.91.76:60665] logged in with entity id 161584 at (3239.39821624036, 62.0, -684.0311372509761)
-[22:11:15] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[22:13:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[22:27:46] [Server thread/INFO]: LongLogan2 lost connection: Timed out
-[22:27:46] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[22:27:46] [Server thread/WARN]: handleDisconnection() called twice
-[22:28:54] [User Authenticator #23/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[22:28:54] [Server thread/INFO]: LongLogan2[/67.168.91.76:60822] logged in with entity id 164050 at (3238.893145702435, 10.0, -521.9176241318106)
-[22:28:54] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[22:33:27] [User Authenticator #24/INFO]: UUID of player th0nk is ee7c66dd-8ad7-457f-a540-65956807aabb
-[22:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
-[22:33:28] [Server thread/INFO]: th0nk[/98.225.10.172:51032] logged in with entity id 164963 at (267.3813638266118, 73.73583555255989, -17.478270169016714)
-[22:33:28] [Server thread/INFO]: King th0nk, Old Kingdom joined the game
-[22:33:33] [Server thread/INFO]: <King th0nk, Old Kingdom> greetings gamer
-[22:33:37] [Server thread/INFO]: <LongLogan2, Northern Alliance> howdy
-[22:34:10] [Server thread/INFO]: th0nk lost connection: Disconnected
-[22:34:10] [Server thread/INFO]: King th0nk, Old Kingdom left the game
-[22:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
-[23:09:54] [Server thread/WARN]: Horse moved wrongly!
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.520970355502868,0.2274534586630068,6.624887322985558
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.539070091534086,1.2274534586630068,6.908756507045666
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.538342289273714,1.2274534586630068,7.18874521764684
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.528592992033737,1.2274534586630068,7.4667097538816165
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.513627040220854,1.2274534586630068,7.743591194770659
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.495869760554797,1.2274534586630068,8.019893092934751
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.472263837333685,1.2274534586630068,8.295478916505715
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.4279991241483,1.2274534586630068,8.56750388422239
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.3573144619335835,1.2274534586630068,8.832675270254185
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.235771865981405,1.2274534586630068,9.072071421769806
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.237218389567261,1.2274534586630068,9.4538846363875
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.28562156602402,1.2274534586630068,9.915962893441531
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.466924419918087,2.227453458663007,10.367950176046008
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.718277187059812,2.227453458663007,10.815339782851424
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -8.007112266135664,2.227453458663007,11.260269265004524
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -8.316003383010866,2.227453458663007,11.7038823835058
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -8.63562608583834,3.227453458663007,12.146791142062398
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -8.960991046344134,3.227453458663007,12.589323011656063
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -9.289428574445083,3.227453458663007,13.031653215479992
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -9.619510172205992,3.227453458663007,13.473875511971357
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -9.95047147886271,3.227453458663007,13.91604006940048
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -10.281903500209864,3.227453458663007,14.358173731808563
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -10.613587391603232,3.227453458663007,14.800290862906877
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -10.945406053636361,3.227453458663007,15.242399148430934
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.277296828751787,3.150621457167645,15.684502700864584
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.469665209961022,3.0,15.942092630521074
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.654304517120636,2.7785111482254052,16.19393503758505
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.816144984487892,2.4889612493456497,16.444076271469328
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.951768613122567,2.227453458663007,16.691335911416502
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.958429501912633,2.227453458663007,17.14206183935812
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -11.847705343987855,2.150621457167645,17.61345607157591
-[23:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.332363045585225,1.7725465413369932,11.557922990051168
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.257733992147223,1.5510576895623984,11.82633200434401
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.1796319321724695,1.2615077906826428,12.088661660289972
-[23:13:33] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.098432644878812,1.0,12.34556974430592
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -3.6292202737568005,0.0,-9.690834084530252
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -3.8546486335056898,0.0,-10.207980212518805
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.079831258109152,0.0,-10.725234385532758
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.304882394735614,0.0,-11.242546371285641
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.528616467023539,0.0,-11.760427385142634
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.751645804443342,0.0,-12.278612874592966
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -4.974298052286144,0.0,-12.796961282862696
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -5.19674852701462,0.0,-13.315396865744447
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -5.419091036972532,0.0,-13.833879094023018
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -5.641375777134385,0.0,-14.352386281323447
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -5.863629605830056,0.0,-14.870906823698817
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -6.08586689441654,0.0,-15.389434512108494
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -6.308095332720427,0.0,-15.907966024218695
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -6.530319035414436,0.0,-16.42649958231476
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -6.7525402041781035,0.0,-16.945034235177104
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -6.974760017086169,0.0,-17.46356947382708
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.19697910450293,0.0,-17.982105025920305
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.419197803723705,0.0,-18.500640745730777
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.641416295228623,0.0,-19.019176555283366
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.863634675588855,0.0,-19.537712412855228
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -8.089630593651691,0.0,-20.05459412916207
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -8.129091933825066,0.0,-20.430568051476712
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -8.06874234046802,0.0,-20.731145022624446
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.954985906594175,0.0,-20.991378588455802
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.812910114712054,0.0,-21.23023575342569
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.655939328062914,0.0,-21.457864709350474
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.490998526688145,0.0,-21.679485674481498
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -7.322580378208158,0.0,-21.898525183377274
-[23:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
-[23:18:35] [Server thread/WARN]: Horse (vehicle of LongLogan2) moved too quickly! -3.751360198297789,0.0,-12.94415602118653
-[23:19:49] [Server thread/INFO]: LongLogan2 lost connection: Disconnected
-[23:19:49] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[23:19:57] [User Authenticator #25/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[23:19:57] [Server thread/INFO]: LongLogan2[/67.168.91.76:61145] logged in with entity id 175208 at (846.3000000119209, 63.0, -703.6999999880791)
-[23:19:57] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[23:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
-[23:37:14] [Server thread/INFO]: LongLogan2 lost connection: Timed out
-[23:37:14] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
-[23:37:34] [User Authenticator #26/INFO]: UUID of player LongLogan2 is 08171360-127b-49d6-8265-f4e0e66bd206
-[23:37:34] [Server thread/INFO]: LongLogan2[/67.168.91.76:61226] logged in with entity id 177392 at (973.0253845512756, 66.0, -772.2139806850164)
-[23:37:34] [Server thread/INFO]: LongLogan2, Northern Alliance joined the game
-[23:46:13] [User Authenticator #27/INFO]: UUID of player Tacosauce987 is 5c106b53-c084-481a-95be-aa7e9b0dd827
-[23:46:13] [Server thread/WARN]: Ignored advancement 'main:main/afk' in progress file ./world/advancements/5c106b53-c084-481a-95be-aa7e9b0dd827.json - it doesn't exist anymore?
-[23:46:13] [Server thread/INFO]: Tacosauce987[/67.168.91.76:50192] logged in with entity id 178400 at (788.8486366001802, 70.6625000178814, -499.535516176615)
-[23:46:13] [Server thread/INFO]: Tacosauce987, Northern Alliance joined the game
-[23:46:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 1.8766136310722459,0.0,-9.904529829810258
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 2.1200979929017194,0.0,-10.410146400501048
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 2.409696079679634,0.0,-10.889044974675357
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 2.728837943764688,0.0,-11.349832266427256
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 3.1222908188588008,0.0,-11.734964974845184
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 3.5939617884752124,0.0,-11.965473924302046
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 4.098895991584641,0.0,-12.018037407538031
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 4.603893843609399,0.0,-11.929317661356436
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 4.9905105351517705,0.0,-11.652676390585725
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 5.288575838815063,0.0,-11.264335573834614
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 5.497895819692985,0.0,-10.804381774670105
-[23:51:16] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 5.629741353996337,0.0,-10.301999745485546
-[23:51:17] [Server thread/WARN]: Benny moved wrongly!
-[23:51:17] [Server thread/WARN]: Benny moved wrongly!
-[23:51:17] [Server thread/WARN]: Benny moved wrongly!
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.10608858630052964,-2.5510576895623984,-10.166658437998223
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.09420927736960039,-2.5510576895623984,-10.675880247304775
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.3074805929666127,-2.5510576895623984,-11.182473581900553
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 8.590840876984657,-3.0,-4.403552061910631
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.5276937440269194,-2.5510576895623984,-11.687660472084787
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 8.984155744131385,-3.0,-4.274891367757789
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.7516213328383401,-2.5510576895623984,-12.192094801905881
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 9.380349477908112,-3.0,-4.143478614597512
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.9775364432325659,-2.5510576895623984,-12.696126451681067
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 9.778083635820167,-3.0,-4.010593289532494
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.0984191145430486,-2.5510576895623984,-12.96582373816878
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.1631010218209212,-2.5510576895623984,-13.110133378984614
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 10.176642043974425,-3.0768320014953616,-3.876920020601176
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 10.408476581840205,-3.227453458663007,-3.799137221110186
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.1977110207872101,-2.5510576895623984,-13.187350590561294
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.2162301411851786,-2.5510576895623984,-13.228667980930908
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 10.63380050872729,-3.4489423104376016,-3.723513620081718
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 10.854551691673805,-3.738492209317357,-3.6588379515072234
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.2261393532787679,-2.5510576895623984,-13.250776092737766
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 11.071224901457299,-4.0,-3.603925649376606
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.2314415751015986,-2.5510576895623984,-13.262605702577417
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.1145198433350743,-2.5510576895623984,-13.322286294311567
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 11.45019286573006,-4.0,-3.492385875988589
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 11.838334545484031,-4.0,-3.3690311994439526
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.9350356240681776,-2.5510576895623984,-13.407570992411792
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.7220754651011703,-2.5510576895623984,-13.506555937337708
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 12.22153891245216,-4.0,-3.2158103024187312
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 12.586657247682979,-4.0,-3.0207361065507143
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.49120299823880487,-2.5510576895623984,-13.612871611186591
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 12.93655225650673,-4.0,-2.795800027983148
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.2507460125546004,-2.62788969105776,-13.723109811923194
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.11025448210602917,-2.7785111482254123,-13.787123337790632
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 13.27759379365716,-4.0,-2.5539837250878747
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 13.613898014634287,-4.0,-2.303135150710233
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.027675525235963505,-3.000000000000007,-13.846536348173714
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.16352409671230816,-3.2895498988797627,-13.899033055965702
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 13.947667392179483,-4.0,-2.0474535879464213
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.2972554013310855,-3.5510576895623984,-13.943227650052535
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.5385913524498847,-3.5510576895623984,-13.942455207684276
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 14.211223052033802,-4.0,-1.7295974206132883
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.7883616339693162,-3.5510576895623984,-13.898139274358044
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 14.43720875146255,-4.0,-1.3784728620029796
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 14.711948887640574,-4.0,-1.0691356193637205
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 1.113003700864283,-3.5510576895623984,-14.054185133813377
-[23:53:44] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! 15.012776550865055,-4.0,-0.7821579363513536
-[23:53:44] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 1.3753450648475791,-3.5510576895623984,-14.378954613580078
-[23:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2624ms or 52 ticks behind
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:53:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -8.379774137153845,-0.62788969105776,6.000287372217258
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -8.583695639134248,-0.7785111482254052,6.145224766728404
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -8.782256449190527,-1.0,6.2854794601936135
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -8.976946056580346,-1.2895498988797556,6.420033817096964
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -9.169091581411294,-1.5510576895623984,6.547576612257984
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -9.53055026330162,-1.5510576895623984,6.723454125888054
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -9.873544533071254,-1.5510576895623984,6.9442131850382225
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -10.22247394619535,-1.5510576895623984,7.1674979647625605
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -7.0119233513371455,-1.0,7.1514222873236974
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -7.279114568809973,-1.0,7.48581706415527
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -7.547368984382729,-1.0,7.82064080214883
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -7.869048682818175,-1.0,8.08153807952121
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -8.219315184928064,-1.0,8.302878781749769
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -8.584877915724974,-1.0,8.503053549291934
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -8.957147621047397,-1.0,8.695049467210708
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -9.330946573208394,-1.0,8.886828416806793
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -9.705031411164327,-1.0,9.079527568097802
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -10.022961268566178,-1.0,9.34428950811261
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -10.310843715483088,-1.0,9.647610809596557
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -10.582648392130295,-1.0,9.971564456611873
-[23:54:03] [Server thread/WARN]: Skeleton Horse (vehicle of Tacosauce987) moved too quickly! -10.845850174462385,-1.0,10.306558060356451
-[23:56:20] [Server thread/WARN]: Benny moved wrongly!
-[23:56:20] [Server thread/WARN]: Benny moved wrongly!
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 9.004126930504071,0.0,4.6679504811725
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 9.51241390184191,0.0,4.912489200194589
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.02383176779449,0.0,5.150383297624041
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.540162675248439,0.0,5.377163881627997
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 11.060158158578815,0.0,5.5954330169606905
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 11.583599320219946,0.0,5.805327492684318
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 12.109133253148684,0.0,6.01008228718146
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 12.637438570775885,0.0,6.207577019861251
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 13.168132227667456,0.0,6.398599999042732
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 13.701625038161183,-0.07683200149536162,6.581604519925493
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 14.012081582871133,-0.22745345866301392,6.687474094205307
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 14.314003622973587,-0.4489423104376087,6.78963934019291
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 14.608354383418828,-0.7384922093173643,6.8883712388219855
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 14.89595307647096,-1.0,6.984041278188483
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 15.405815863330645,-1.0,7.026169178607107
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 15.89018076698153,-1.0,6.893663144002003
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 16.360902261700403,-1.0,6.667713972590738
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 16.848415992526952,-1.0,6.431635745138655
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 17.36250266054344,-1.0,6.237012086170717
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 17.89764202735796,-1.0,6.098873982670343
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 18.446250877502507,-1.0,6.023152989373388
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 18.89140963166733,-1.0,6.196648744135063
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 19.267483293533587,-1.0,6.42491205462678
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 19.586826275475232,-1.0,6.42491205462678
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 19.67208874327116,-1.0,6.42491205462678
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 19.62937826550001,-1.0,6.42491205462678
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 11.01699011436881,-1.0,2.0080580481421357
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.865822135204098,-1.0,2.0080580481421357
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.694425543231546,-1.0,2.0080580481421357
-[23:57:48] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.512205023860588,-1.0,2.0080580481421357
-[23:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
+[00:01:11] [Server thread/WARN]: Horse moved wrongly!
+[00:01:11] [Server thread/WARN]: Horse moved wrongly!
+[00:01:11] [Server thread/WARN]: Horse moved wrongly!
+[00:01:11] [Server thread/WARN]: Horse moved wrongly!
+[00:01:18] [Server thread/WARN]: Benny moved wrongly!
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 9.639797345515944,4.0,-0.7702307225685168
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 10.189302892400974,4.0,-0.7128256044767767
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 10.736466257389111,4.0,-0.6375103272687568
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 11.280629375202807,5.0,-0.5436378712067729
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 11.820752325357262,5.0,-0.4294727303951973
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 12.353056883501267,5.0,-0.28549122005632555
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 12.808368975420763,5.0,-0.009146348629517576
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 13.222483933727744,5.0,0.33802351827473487
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 13.614555127220683,6.0,0.7230904281608979
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 13.994831141666964,6.0,1.128435290161157
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 14.43509578998055,6.0,1.4444639825435956
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 14.908049401546577,6.0,1.5430326351125068
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 15.398494225601553,6.0,1.6943434084241282
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 15.898298248721858,6.0,1.8738754389807326
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 16.40311019266028,6.0,2.0685081016179616
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 16.91060177518102,6.0,2.2712208114074066
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 17.443780485802108,5.923167998504638,2.3613254445334526
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 17.755236792844244,5.772546541336993,2.4077023475256922
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.056731214099273,5.551057689562398,2.458918136483021
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.325603946723277,5.261507790682643,2.504592378391493
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.565384656587867,5.0,2.545324668499365
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.779221099807728,5.0,2.581649725864448
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.824800372859954,4.923167998504638,2.709606471586966
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.841369785810457,4.772546541336993,2.7882723818995814
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.847622050382142,4.551057689562398,2.868043812304826
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.84411978004937,4.261507790682643,2.9482803141843945
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.847827620478256,4.0,3.045156986795444
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.905856059286634,4.0,3.388049684974039
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.090062249781568,5.0,3.777934705048189
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.326723937076622,5.0,4.203329820538766
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.57571691017438,6.0,4.656982829010946
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.81773043630801,6.0,5.132595876480455
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.92783580057403,6.0,5.648642881702585
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.96735973738987,6.0,6.186325291551999
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.969116959618987,6.0,6.735584375054039
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.94972571128028,6.0,7.291037905813628
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.90604927171671,7.0,7.848402146644741
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.8113702275582,7.0,8.399034777074093
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.621494823005378,8.0,8.91595425854781
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.36028154996393,9.0,9.40067085802836
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 19.059662507822395,9.0,9.867203897998731
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 18.737958224301565,9.0,10.324007277816271
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 9.316009793089506,6.0,11.58942827565734
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 8.976986287652835,6.0,12.038239802770038
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 8.745387808548912,6.0,12.530478358511498
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 8.57127031921209,6.0,13.045953851430669
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 8.427909761452156,7.0,13.573862966139085
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 8.301006624551519,7.0,14.108425063967253
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 8.072254258403518,7.0,14.601629436291415
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 7.789004400339763,7.0,15.072704114282468
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 7.476594020914945,8.0,15.531937634054382
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 7.259235694931704,8.0,16.029752790275673
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 7.092737827611472,7.923167998504638,16.54821221092618
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 6.998628762129556,7.772546541336993,16.850838356616748
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 6.909682918825638,7.551057689562398,17.145929207787688
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 6.8253416371926505,7.261507790682643,17.434300083112362
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 6.7451067037764005,7.0,17.71667808380462
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 6.623359427349442,7.0,18.22059124799945
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 6.397365859344063,8.0,18.69739598701023
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 6.115592179161922,8.0,19.1596955481887
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 5.803971673089563,8.0,19.61423367791116
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 5.637229753333031,8.0,19.85744796861303
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 5.548009476546667,8.0,19.987587086397788
+[00:01:21] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 5.327435018140477,8.0,20.254504506037023
+[00:02:21] [Server thread/WARN]: Benny moved wrongly!
+[00:02:21] [Server thread/WARN]: Benny moved wrongly!
+[00:02:21] [Server thread/WARN]: Benny moved wrongly!
+[00:03:31] [Server thread/WARN]: Horse moved wrongly!
+[00:03:31] [Server thread/WARN]: Horse moved wrongly!
+[00:03:31] [Server thread/WARN]: Horse moved wrongly!
+[00:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
+[00:04:30] [Server thread/WARN]: Benny moved wrongly!
+[00:04:30] [Server thread/WARN]: Benny moved wrongly!
+[00:05:05] [Server thread/WARN]: Horse moved wrongly!
+[00:05:05] [Server thread/WARN]: Horse moved wrongly!
+[00:05:05] [Server thread/WARN]: Horse moved wrongly!
+[00:05:05] [Server thread/WARN]: Horse moved wrongly!
+[00:05:05] [Server thread/WARN]: Horse moved wrongly!
+[00:05:05] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:05:06] [Server thread/WARN]: Horse moved wrongly!
+[00:06:23] [Server thread/WARN]: Horse moved wrongly!
+[00:06:23] [Server thread/WARN]: Horse moved wrongly!
+[00:06:23] [Server thread/WARN]: Horse moved wrongly!
+[00:06:34] [Server thread/WARN]: Horse moved wrongly!
+[00:06:34] [Server thread/WARN]: Horse moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:21] [Server thread/WARN]: Benny moved wrongly!
+[00:07:22] [Server thread/WARN]: Benny moved wrongly!
+[00:07:22] [Server thread/WARN]: Benny moved wrongly!
+[00:07:22] [Server thread/WARN]: Benny moved wrongly!
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 7.172113039664055,1.0,-7.623931756990373
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 7.506966704816477,1.0,-8.0615866616306
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 7.8449759305249245,1.0,-8.497854235379975
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.184673633772036,1.0,-8.933379476030098
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.524731738488754,1.0,-9.368933176502424
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.864457925762508,1.0,-9.804911180514921
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 9.203480707746166,2.0,-10.241523932615678
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 9.541600236257636,2.0,-10.67888267395341
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 9.877629934058405,2.0,-11.11786631893068
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.05743272564223,2.0,-11.35275771496839
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.153641614537719,2.0,-11.478443417758967
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.205121072787279,2.0,-11.545695331419608
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.23266670450721,2.0,-11.581680489560938
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.247405822839937,2.0,-11.600935430215713
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.255292431193539,2.0,-11.611238365058
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 1.8024535527006265,0.0,-10.342027821305578
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 1.893100960679476,0.0,-10.88738346399333
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 1.9837502717227835,0.0,-11.432750555953646
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 2.0744006010577323,0.0,-11.978123774191431
+[00:08:52] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 10.25951239808137,2.0,-11.616751260073727
+[00:08:52] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! 2.1650514752604977,0.0,-12.52350027047811
+[00:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
+[00:08:52] [Server thread/WARN]: Benny moved wrongly!
+[00:08:52] [Server thread/WARN]: Benny moved wrongly!
+[00:08:52] [Server thread/WARN]: Benny moved wrongly!
+[00:13:28] [Server thread/WARN]: Horse moved wrongly!
+[00:13:28] [Server thread/WARN]: Horse moved wrongly!
+[00:13:28] [Server thread/WARN]: Horse moved wrongly!
+[00:13:56] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -4.805129319723619,8.0,4.624247742125817
+[00:13:56] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -5.277310458899592,8.0,4.555585993720911
+[00:13:56] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -5.602244844921643,8.0,4.412579583981369
+[00:13:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
+[00:15:13] [Server thread/WARN]: Horse moved wrongly!
+[00:15:13] [Server thread/WARN]: Horse moved wrongly!
+[00:15:13] [Server thread/WARN]: Horse moved wrongly!
+[00:15:37] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -3.812445249359371,1.024953836600595,-9.3532800454459
+[00:15:55] [Server thread/WARN]: Horse moved wrongly!
+[00:15:55] [Server thread/WARN]: Horse moved wrongly!
+[00:15:55] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:06] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:16:07] [Server thread/WARN]: Horse moved wrongly!
+[00:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 1.7690415338088314,0.0,10.104470334519192
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 1.533944606681871,0.0,10.602948185714922
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 1.3091504685812652,0.0,11.112555352585332
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 1.079165946158355,0.0,11.623474768607139
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.8250593302559537,0.0,12.12405568042584
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.45917985529104044,0.0,12.506834485765921
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 0.018347837209603313,0.0,12.789208001565385
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.470734635246572,0.0,12.984535300506991
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -0.9801200713050093,0.0,13.002776836899557
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -1.500369218389551,0.0,12.926263312461288
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -2.0248100403914577,0.0,12.794527339816568
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -2.5510115589449924,0.0,12.631946683802084
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -3.0776751287603474,0.0,12.451591459064616
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -3.6040902238660237,0.0,12.260434277105446
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -4.141656117197726,0.0,12.1823872809357
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -4.685250460227962,0.0,12.164200810164175
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -5.232130685802076,0.0,12.177381876163167
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -5.781362932625598,0.0,12.199286321218779
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -6.3322821242959435,0.0,12.211721602329476
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -6.848873117405219,0.0,12.078394557012757
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -7.345251780867784,0.0,11.864192899023806
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.877500157244413,0.0,1.9696928410201053
+[00:21:21] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.39166540063934,0.0,1.9010542162654929
+[00:21:22] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.919888860790252,-0.07683200149536162,1.9010542162654929
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -3.0134530042992083,1.0,10.004514911856177
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -3.371399080510855,1.0,10.42560446921982
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -3.7458625149688487,1.0,10.83148490093393
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -5.105122614344964,0.0,9.155176699675437
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -4.180552327883561,1.0,11.154310241840705
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -5.469922744212454,0.0,9.570340264768134
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -4.649903942782657,1.0,11.427116421787588
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -5.137802396841835,1.0,11.673158345979346
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -5.835052802121027,0.0,9.98533529554625
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -6.200359397946158,1.0,10.400240146972834
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -5.634418550954706,1.0,11.907686772893442
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -6.1344698486941525,1.0,12.138825072422094
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -6.63892697965548,1.0,10.720710105921498
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -7.116695054245156,1.0,10.990649836733851
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -6.633127082941883,1.0,12.375043796510653
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -7.124713870699907,1.0,12.626133696213941
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -7.615438531001473,2.0,11.233551849934528
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -8.125405527252951,2.0,11.461986519515136
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -7.607940911419973,1.0,12.893095026208556
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -8.641378005012939,2.0,11.682680001972358
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -8.086694818175602,1.0,13.168548842109885
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.160563896192343,2.0,11.899231329542474
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -8.483314086342034,1.0,13.537448604021591
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -8.835984746987833,2.0,13.956349428532235
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.681469220823601,2.0,12.113566272618158
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.203294580013335,2.0,12.32671527254081
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -9.244880537778954,2.0,14.313103038602407
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -9.68386127470285,2.0,14.636602913307257
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.654451725057243,2.0,12.63183000160042
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -11.071769145120015,2.0,12.982501818690437
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -10.137360803196316,2.0,14.94489667366173
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -10.597006397209952,2.0,15.247643233517806
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -11.478674863068136,2.0,13.350017861906139
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -11.881417939912353,1.9231679985046384,13.725097907953781
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -11.057462782252514,2.0,15.55124834502854
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -12.115511454169791,1.7725465413369932,13.943542692036033
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -11.518353005409153,2.0,15.855312850411991
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -12.342917353389566,1.5510576895623984,14.156048706973252
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -11.979475366690622,1.9231679985046384,16.159623168297458
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -12.247663668541463,1.7725465413369932,16.336614699052888
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -12.564543153459454,1.2615077906826428,14.363062759307226
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -12.781240849531969,0.906592060890901,14.564932140327727
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -12.508284923142128,1.5510576895623984,16.508616897677626
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -12.762241682350577,1.2615077906826428,16.67604185284941
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -12.994961232791411,0.48889898586945435,14.760505475800684
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -13.206228871801613,0.010914547315962864,14.95019380516689
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -13.01058129652074,1.0,16.838870975479892
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -13.45531755223601,1.0,17.111439179016884
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -13.415467660329796,0.0,15.134417030538359
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -13.810369834727226,0.0,15.449298984916794
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -13.925041678301113,1.0,17.36845059764579
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -14.229977132158183,0.0,15.76837771789316
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -14.411933111861345,1.0,17.608848582325066
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -14.662803648357112,0.0,16.089702063422536
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -15.27457470321724,1.6530562827837514,18.000452786118416
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -15.7597121624367,2.2034195474808485,18.220280018143683
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -15.349346163239261,0.49342031206276715,16.586898167838967
+[00:24:00] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -15.737687909193482,0.890469187495512,16.867778557829084
+[00:24:00] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -16.21591290394008,2.655156435687971,18.426609579634658
+[00:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2417ms or 48 ticks behind
+[00:24:01] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -13.984747629084268,3.012172550070602,9.042484163107389
+[00:24:01] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -11.364589217362663,1.1949629333874014,8.392629750449899
+[00:24:01] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -11.714292249950631,1.4105667311382177,8.642389468298049
+[00:24:01] [Server thread/WARN]: Horse (vehicle of Tacosauce987) moved too quickly! -14.392129022557128,3.2782188315016754,9.226041705951133
+[00:24:46] [Server thread/WARN]: Benny moved wrongly!
+[00:24:46] [Server thread/WARN]: Benny moved wrongly!
+[00:24:46] [Server thread/WARN]: Benny moved wrongly!
+[00:25:06] [Server thread/INFO]: Tacosauce987 lost connection: Disconnected
+[00:25:06] [Server thread/INFO]: Tacosauce987, Northern Alliance left the game
+[00:25:14] [User Authenticator #28/INFO]: UUID of player Tacosauce987 is 5c106b53-c084-481a-95be-aa7e9b0dd827
+[00:25:14] [Server thread/INFO]: Tacosauce987[/67.168.91.76:50247] logged in with entity id 191553 at (1959.741351001928, 62.28119002927648, -289.7656322497198)
+[00:25:14] [Server thread/INFO]: Tacosauce987, Northern Alliance joined the game
+[00:27:01] [Server thread/WARN]: Horse moved wrongly!
+[00:27:01] [Server thread/WARN]: Horse moved wrongly!
+[00:27:01] [Server thread/WARN]: Horse moved wrongly!
+[00:28:48] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:49] [Server thread/WARN]: Benny moved wrongly!
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.463211115015156,3.2782188315016754,-0.8027060032810596
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.562069603950704,3.456897683665659,-0.7718668546560821
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.674809114747745,3.5516688551284545,-0.736839465621415
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.800499136587177,3.56585508847742,-0.7002905661248633
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -9.937802896844346,3.502647545755579,-0.6749216575005903
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.085463789320784,3.3651110190486833,-0.6595230650235635
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.242361172576693,3.15618893473318,-0.6530160007429231
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.4075142777142,2.878708159556041,-0.6543731101794492
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.580048965901824,2.5353836163938865,-0.6614654593361138
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.759166550043574,2.128822717228161,-0.6748827656529102
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.801022107090375,2.0,-0.6939406689277803
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.801022107090375,2.0,-0.7818599961025257
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -10.801022107090375,2.0,-0.9044632644785224
+[00:28:53] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! -11.051583520057193,3.0,-1.0475974173524492
+[00:28:53] [Server thread/WARN]: Benny moved wrongly!
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.060147076812655,0.12882271722816085,5.979053276213904
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.243080195236303,-0.33847037942541647,5.978788210741527
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.416323551953724,-0.8640906796815244,5.970845456854022
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.570821981926883,-1.0,5.963762108733022
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.70860368574779,-1.0,5.9574451786966165
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.78232792839151,-1.0,5.954065115380104
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.821776300727379,-1.0,5.954065115380104
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.84288433824861,-1.0,5.954065115380104
+[00:29:03] [Server thread/WARN]: Tacosauce987 moved too quickly! -0.7187097303092287,-0.6216000461578375,-10.160726860559066
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.854178828277327,-1.0,5.954065115380104
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.64411144683686,-1.0,5.814910141112819
+[00:29:03] [Server thread/WARN]: Benny (vehicle of LongLogan2) moved too quickly! 8.315958679394157,-1.0,5.600737157910203
+[00:29:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2871ms or 57 ticks behind
+[00:30:20] [Server thread/INFO]: LongLogan2 lost connection: Disconnected
+[00:30:20] [Server thread/INFO]: LongLogan2, Northern Alliance left the game
+[00:30:33] [Server thread/WARN]: Benny moved wrongly!
+[00:30:33] [Server thread/WARN]: Benny moved wrongly!
+[00:30:33] [Server thread/WARN]: Benny moved wrongly!
+[00:30:51] [Server thread/INFO]: Tacosauce987 lost connection: Disconnected
+[00:30:51] [Server thread/INFO]: Tacosauce987, Northern Alliance left the game
+[03:41:39] [User Authenticator #29/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[03:41:39] [Server thread/INFO]: EthMC[/88.31.102.198:51375] logged in with entity id 194212 at (1812.0616919549186, 70.875, -396.404269279299)
+[03:41:39] [Server thread/INFO]: EthMC joined the game
+[03:44:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[03:45:23] [Server thread/INFO]: Created team [NERM]
+[03:45:32] [Server thread/INFO]: Updated the color for team [NERM] to red
+[03:45:39] [Server thread/INFO]: Added EthMC to team [NERM]
+[03:45:43] [Server thread/INFO]: [Server] there you are sir
+[03:45:46] [Server thread/INFO]: <EthMC> yes
+[03:46:00] [Server thread/INFO]: Team suffix set to , NERM
+[03:47:24] [Server thread/INFO]: Updated team [NERM™] name
+[03:47:36] [Server thread/INFO]: Team suffix set to , NERM™
+[03:47:39] [Server thread/INFO]: [Server] there you go
+[03:47:42] [Server thread/INFO]: <EthMC, NERM™> epic
+[03:47:45] [Server thread/INFO]: <EthMC, NERM™> thanks man
+[03:47:54] [Server thread/INFO]: Incorrect argument for command
+[03:47:54] [Server thread/INFO]: ...tle title "fo sho"<--[HERE]
+[03:48:06] [Server thread/INFO]: Showing new title for EthMC, NERM™
+[03:48:12] [Server thread/INFO]: <EthMC, NERM™> ye cuz
+[03:50:54] [Server thread/INFO]: EthMC lost connection: Disconnected
+[03:50:54] [Server thread/INFO]: EthMC, NERM™ left the game
+[12:50:03] [User Authenticator #30/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[12:50:04] [Server thread/INFO]: EthMC[/88.31.102.198:52560] logged in with entity id 196500 at (1822.6467858344604, 72.0, -392.85198434406743)
+[12:50:04] [Server thread/INFO]: EthMC, NERM™ joined the game
+[12:51:01] [Server thread/INFO]: <EthMC, NERM™> s
+[12:51:23] [Server thread/INFO]: <EthMC, NERM™> EPIC
+[14:20:48] [Server thread/INFO]: EthMC lost connection: Disconnected
+[14:20:48] [Server thread/INFO]: EthMC, NERM™ left the game
+[14:21:01] [User Authenticator #31/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[14:21:01] [Server thread/INFO]: EthMC[/88.31.102.198:52727] logged in with entity id 214364 at (1838.9386403503888, 63.0, -456.2910860209529)
+[14:21:01] [Server thread/INFO]: EthMC, NERM™ joined the game
+[14:27:32] [Server thread/INFO]: <EthMC, NERM™> s
+[14:27:51] [Server thread/INFO]: <EthMC, NERM™> s
+[15:15:57] [Server thread/INFO]: EthMC lost connection: Disconnected
+[15:15:57] [Server thread/INFO]: EthMC, NERM™ left the game
