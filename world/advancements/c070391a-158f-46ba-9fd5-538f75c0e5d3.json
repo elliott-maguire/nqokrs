@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2019-09-19 20:51:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-05-05 00:34:25 +0000"
@@ -509,6 +515,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2019-05-05 19:32:38 +0000"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2019-09-19 20:51:02 +0000"
     },
     "done": true
   },
