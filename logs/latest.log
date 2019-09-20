@@ -61,3 +61,39 @@
 [19:41:23] [Server thread/INFO]: EthMC[/95.125.30.125:60208] logged in with entity id 295681 at (1813.5869150676704, 68.9375, -402.92038226232614)
 [19:41:23] [Server thread/INFO]: EthMC, NERM™ joined the game
 [19:54:14] [Server thread/WARN]: EthMC moved too quickly! -10.219602540031474,1.1661092609382138,-0.27831833126145966
+[20:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[20:15:48] [Server thread/INFO]: <EthMC, NERM™> Yes
+[20:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:43:14] [Server thread/INFO]: EthMC lost connection: Timed out
+[20:43:14] [Server thread/INFO]: EthMC, NERM™ left the game
+[20:43:31] [User Authenticator #48/INFO]: UUID of player EthMC is 432f8363-0aac-4c88-94e1-9dfc1c3d4eae
+[20:43:31] [Server thread/INFO]: EthMC[/95.125.30.125:60643] logged in with entity id 305899 at (1758.0922979894203, 68.0, -371.7605916129617)
+[20:43:31] [Server thread/INFO]: EthMC, NERM™ joined the game
+[21:03:21] [Server thread/INFO]: EthMC lost connection: Disconnected
+[21:03:21] [Server thread/INFO]: EthMC, NERM™ left the game
+[21:17:59] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[21:17:59] [Server thread/INFO]: Stopping server
+[21:17:59] [Server thread/INFO]: Saving players
+[21:17:59] [Server thread/INFO]: Saving worlds
+[21:17:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:17:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:17:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
