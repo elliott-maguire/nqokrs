@@ -584,7 +584,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-19 17:13:52 +0000"
+      "tick": "2019-09-20 20:07:07 +0000"
     },
     "done": false
   },
@@ -3646,6 +3646,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-07-17 13:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-09-20 14:34:30 +0000"
     },
     "done": true
   },
